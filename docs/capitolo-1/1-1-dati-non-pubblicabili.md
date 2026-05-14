@@ -1,1 +1,9 @@
-# 1-1-dati-non-pubblicabili
+## 1.1 Dati non pubblicabili, eccezioni e specificità nella pubblicazione
+
+Come indicato nel PNA 2019, di cui alla deliberazione ANAC n. 1064/2019 e ribadito nella deliberazione n. 192/2025, laddove vi siano **dati non pubblicati, perché “non prodotti” o perché l’obbligo non è applicabile alla specifica tipologia di amministrazione, si riporti il motivo per cui non si procede alla pubblicazione, con l’indicazione di eventuali norme a cui fare riferimento o circostanze specifiche alla base dell’assenza dei dati (ad es. “non sono state erogate sovvenzioni”, “non esistono enti di diritto privato controllati”, etc.)**.
+
+**Per i piccoli comuni** (quelli con popolazione inferiore a 15.000 abitanti, come precisato nell’art. 3, co. 1-ter del d.lgs. 33/2013 e quelli con popolazione inferiore ai 5.000 abitanti, come definiti dall’art. 1, co. 2 della legge 6 ottobre 2017, n. 158) ai sensi dell’aggiornamento 2018 al PNA, di cui alla deliberazione ANAC n. 1074/2018, **le pubblicazioni in formato tabellare possono avvenire anche attraverso altri schemi di pubblicazione, purché venga rispettato lo scopo della normativa sulla trasparenza volto a rendere facilmente e chiaramente accessibili i contenuti al fine di favorire forme di controllo diffuso da parte dei cittadini**.
+
+Qualora uno o più **obblighi oggetto di attestazione non ricorra**, l’Organismo di Valutazione, **inserisce all’interno della griglia di attestazione il valore “Non Applicabile (n/a)”**.
+
+Si ricorda che all’interno della griglia di attestazione **non sono ammesse celle vuote**.

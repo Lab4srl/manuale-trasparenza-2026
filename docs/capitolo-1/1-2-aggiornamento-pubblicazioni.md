@@ -1,1 +1,10 @@
-# 1-2-aggiornamento-pubblicazioni
+## 1.2 Aggiornamento delle pubblicazioni
+
+Si riportano di seguito le differenti frequenze di aggiornamento ai sensi del D.lgs. n. 33/2013:
+
+* **Cadenza annuale**, per i dati che, per loro natura, non subiscono modifiche frequenti o la cui durata è tipicamente annuale. Esempio: *Enti controllati (art. 22). Costi contabilizzati dei servizi erogati agli utenti e ai tempi medi di erogazione degli stessi (art. 10, comma 5), nonché ai tempi medi dei pagamenti relativi ad acquisti di beni, servizi e forniture (art. 33). Per tutti è previsto l’aggiornamento annuale.*
+* **Cadenza semestrale**, per i dati che sono suscettibili di modifiche frequenti ma la pubblicazione implica per l’amministrazione un notevole impegno. *È il caso dei provvedimenti adottati dagli organi di indirizzo politico e dai dirigenti amministrativi (art. 23, comma 1).*
+* **Cadenza trimestrale**, per i dati soggetti a frequenti cambiamenti. *È previsto l’aggiornamento trimestrale dei dati relativi, ad esempio, ai tassi di assenza del personale (art. 16, comma 3).*
+* **Aggiornamento tempestivo**, per i dati che è indispensabile siano pubblicati nell’immediatezza della loro adozione. *Ciò avviene, fra gli altri, nel caso degli atti di concessione di sovvenzioni, contributi, sussidi ed ausili finanziari alle imprese e comunque di vantaggi economici di qualunque genere a persone ed enti pubblici e privati di importo superiore a mille euro (art. 26, comma 2).*
+
+Si ricorda che tutti i soggetti sottoposti agli obblighi di pubblicazioni, indicano, nella sotto sezione “Rischi corruttivi e trasparenza” del Piano Integrato di Attività e Organizzazione (PIAO), i termini entro i quali ciascun dato è pubblicato tenendo conto della propria organizzazione e della periodicità dell’aggiornamento fissato dalle norme.

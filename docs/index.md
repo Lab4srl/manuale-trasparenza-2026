@@ -9,3 +9,9 @@ Si riporta di seguito il link alla citata deliberazione ANAC.
 Il presente manuale intende offrire un’analisi degli obblighi di pubblicazione soggetti ad attestazione, tabelle, schemi e raccomandazioni in merito alle modalità e ai contenuti oggetto di attestazione.
 
 L’analisi complessiva e gli specifici approfondimenti sono stati redatti attraverso la disamina delle disposizioni del D.lgs. n. 33/2013, come integrato e modificato dal D.lgs. n. 97/2016, della deliberazione ANAC n. 1310/2016 recante “*Prime Linee guida recanti indicazioni sull’attuazione degli obblighi di pubblicità, trasparenza e diffusione di informazioni contenute nel d.lgs. 33/2013 come modificato dal d.lgs.97/2016*” e dei successivi provvedimenti ANAC in materia, nonché delle ulteriori norme di legge intervenute nel corso del tempo che impongono obblighi di pubblicazione.
+
+A cura di
+
+Alessia Adamo
+Alessandro Gasbarri
+Michele Solla

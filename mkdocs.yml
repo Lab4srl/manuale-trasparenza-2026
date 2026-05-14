@@ -40,7 +40,7 @@ extra_css:
 
 nav:
   - Premessa: index.md
-  - Elenco dei link utili: link-utili.md
+  - Link utili: link-utili.md
   - 1. Indicazioni operative per le Amministrazioni e gli Enti per lo svolgimento dell’attestazione:
       - Introduzione: capitolo-1/index.md
       - 1.1 Dati non pubblicabili, eccezioni e specificità nella pubblicazione: capitolo-1/1-1-dati-non-pubblicabili.md
