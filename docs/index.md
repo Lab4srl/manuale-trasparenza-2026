@@ -1,10 +1,10 @@
 # Premessa
 
-Il **7 maggio 2025** il Consiglio dell’ANAC ha adottato la **deliberazione n. 192** che fornisce indicazioni in merito all’attestazione sull’assolvimento degli obblighi di pubblicazione ad opera degli Organismi di valutazione e che **deve rilevare al 31 maggio 2025 lo stato di pubblicazione dei dati, documenti ed informazioni prodotti, adottati, approvati o da approvare per vincolo normativo o di organizzazione interna al 31 dicembre 2024.**
+Il **15 aprile 2026** il Consiglio dell’ANAC ha adottato la **deliberazione n. 168** che fornisce indicazioni in merito all’attestazione sull’assolvimento degli obblighi di pubblicazione ad opera degli Organismi di valutazione e che **deve rilevare a partire dal 16 giugno 2026 lo stato di pubblicazione dei dati, documenti ed informazioni prodotti, adottati, approvati o da approvare per vincolo normativo o di organizzazione interna a partire dal 1 gennaio 2025 e fino al 15 giugno 2026.**
 
 Si riporta di seguito il link alla citata deliberazione ANAC.
 
-<https://www.anticorruzione.it/-/delibera-n.-192-del-7-maggio-2025>
+[Delibera n. 168 del 15 aprile 2026](https://www.anticorruzione.it/-/delibera-n.-168-del-15-aprile-2026)
 
 Il presente manuale intende offrire un’analisi degli obblighi di pubblicazione soggetti ad attestazione, tabelle, schemi e raccomandazioni in merito alle modalità e ai contenuti oggetto di attestazione.
 
