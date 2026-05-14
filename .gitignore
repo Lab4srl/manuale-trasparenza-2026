@@ -2,17 +2,39 @@
 .venv/
 venv/
 env/
+ENV/
 
 # File generati da MkDocs
 site/
 
+# Segreti e configurazioni sensibili
+.env
+.env.*
+*.key
+*.pem
+*.p12
+credentials.json
+secrets.json
+
 # File di sistema macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# Cache e file temporanei Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
 
-# File temporanei editor
+# Editor e IDE
+.vscode/
+.idea/
 *.swp
 *.swo
 
+# File specifici del progetto ignorati
 LAB4_Manuale operativo_attestazione_trasparenza_2025.md
