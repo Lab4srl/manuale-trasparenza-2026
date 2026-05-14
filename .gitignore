@@ -1,0 +1,16 @@
+# Ambiente virtuale Python
+.venv/
+venv/
+env/
+
+# File generati da MkDocs
+site/
+
+# File di sistema macOS
+.DS_Store
+__pycache__/
+*.pyc
+
+# File temporanei editor
+*.swp
+*.swo
