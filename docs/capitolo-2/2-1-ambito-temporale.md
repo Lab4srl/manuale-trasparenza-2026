@@ -1,5 +1,3 @@
-## 2.1 Ambito temporale di riferimento degli obblighi di pubblicazione oggetto di attestazione
-
 Come stabilito nel paragrafo 3 della deliberazione dell’ANAC n. 192/2025, nel 2025, al fine di effettuare i controlli sull’adempimento degli obblighi di trasparenza con riferimento al 31 maggio 2025, gli Organismi di valutazione dovranno verificare i dati, documenti e informazioni prodotti, adottati, approvati o da approvare per obbligo normativo o di organizzazione interna entro il 31 dicembre 2024.
 
 Tale nuovo ambito temporale di riferimento, rispetto a quello degli anni scorsi, fa sorgere alcuni dubbi interpretativi con particolare riferimento a due obblighi oggetto di attestazione e più nello specifico quello relativo al Bilancio di previsione finanziario e alla Relazione annuale del RPCT.

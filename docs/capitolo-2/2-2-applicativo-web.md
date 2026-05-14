@@ -1,5 +1,3 @@
-## 2.2 Applicativo web
-
 **Si evidenzia che la procedura di registrazione per l’accesso all’applicativo web è riservata esclusivamente ai componenti degli Organismi di valutazione o ai Responsabili della Prevenzione della Corruzione e della Trasparenza (RPCT) nel caso l'Amministrazione fosse momentaneamente sprovvista di un Organismo di valutazione.**
 
 Per l'ottenimento del profilo OIV, previa registrazione presso i servizi dell'ANAC è necessario essere già registrati nei servizi dell’Autorità.
