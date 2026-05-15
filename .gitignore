@@ -29,6 +29,7 @@ __pycache__/
 .pytest_cache/
 .coverage
 htmlcov/
+.obsidian/
 
 # Editor e IDE
 .vscode/
