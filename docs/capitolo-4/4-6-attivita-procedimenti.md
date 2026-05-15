@@ -28,3 +28,7 @@ Con riferimento alle **tipologie di procedimento**, l'elenco deve contenere le s
   1. **è stato eliminato l'obbligo di pubblicare il nome del responsabile del procedimento**, sostituito con la pubblicazione dell'ufficio responsabile (comma 1, lettera c)
   2. **è stato abrogato l'obbligo di pubblicare i risultati dell'indagine di customer satisfaction** effettuata per verificare il livello di qualità dei servizi erogati, previsto alla lettera n), abrogata dall'art. 30 del D.lgs. n. 97/2016
   3. **è stato soppresso l'obbligo di pubblicare** le eventuali convenzioni che regolamentano le modalità di accesso ai dati secondo quanto previsto nel Codice dell'Amministrazione digitale e le ulteriori modalità per acquisire d'ufficio i dati per lo svolgimento dei controlli sulle autocertificazioni (comma 3, lettere b) e c)
+
+## Schemi, modelli, fac-simile
+
+[Schema di pubblicazione – Tipologie di procedimento](../assets/documenti/schema_tipologie_procedimento.xlsx)
