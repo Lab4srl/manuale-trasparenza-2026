@@ -1,20 +1,65 @@
 /* --- Colori Brand Lab4Srl --- */
 :root {
-  --md-primary-fg-color: #69aa46;
-  --md-primary-fg-color--light: #85c463;
-  --md-primary-fg-color--dark: #4d8232;
+  --md-primary-fg-color: #69aa46; /* Verde testata */
+  --md-primary-fg-color--light: #388e3c; /* Verde evidenziazione link */
+  --md-primary-fg-color--dark: #2e7d32;
+  --md-accent-fg-color: #388e3c;
   --md-default-bg-color: #f2f2f2; /* Grigio chiaro per la finestra del browser (come lab4srl.com) */
+}
+
+/* Colore dei link nel testo e evidenziazioni */
+.md-typeset a {
+  color: #388e3c;
+}
+
+.md-typeset a:hover {
+  color: #388e3c; /* Colore richiesto al passaggio del mouse */
+  text-decoration: underline;
+}
+
+/* Scrollbar del menu di sinistra */
+.md-sidebar--primary .md-sidebar__scrollwrap::-webkit-scrollbar-thumb {
+  background-color: #388e3c;
+  border-radius: 4px;
+}
+
+.md-sidebar--primary .md-sidebar__scrollwrap {
+  scrollbar-color: #388e3c transparent; /* Firefox */
+  scrollbar-width: thin;
+}
+
+/* Colore dei link nel menu di sinistra */
+.md-nav__link {
+  color: rgba(0, 0, 0, 0.7);
+  transition: color 0.25s;
+}
+
+.md-nav__link:hover {
+  color: #388e3c !important; /* Colore richiesto al passaggio del mouse */
+}
+
+/* Colore del link attivo nel menu */
+.md-nav__link--active,
+.md-nav__item--active > .md-nav__link {
+  color: #388e3c !important;
+  font-weight: 700;
 }
 
 /* --- Layout "Boxed" del Manuale --- */
 .md-main__inner {
   background-color: #ffffff; /* Sfondo bianco per il manuale al centro */
   max-width: 1440px;
+  min-height: 85vh; /* Altezza minima consistente */
   box-shadow: 0 0 30px rgba(0,0,0,0.07);
   border-radius: 8px;
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
-  overflow: hidden; /* Per rispettare i bordi arrotondati */
+}
+
+/* Ripristino posizionamento corretto sidebars e contenuto */
+.md-content {
+  background-color: #ffffff;
+  padding-top: 0;
 }
 
 /* Header con colore aziendale verde */
@@ -22,15 +67,10 @@
   background-color: #69aa46; 
 }
 
-/* Sidebar e Contenuti (Bianco) */
+/* Sidebar (Bianco) */
 .md-sidebar--primary .md-sidebar__scrollwrap,
-.md-sidebar--secondary .md-sidebar__scrollwrap,
-.md-content { 
+.md-sidebar--secondary .md-sidebar__scrollwrap { 
   background-color: #ffffff; 
-}
-
-.md-content { 
-  padding-top: 0; 
 }
 
 /* --- Tipografia --- */
@@ -45,7 +85,7 @@
 
 /* --- Componente Hero (Home Page) --- */
 .doc-hero {
-  background: linear-gradient(135deg, #005ea8 0%, #0b73cb 100%);
+  background: linear-gradient(135deg, #69aa46 0%, #388e3c 100%);
   color: #ffffff;
   margin: 0 0 2rem 0;
   padding: 2.4rem 2.2rem;
