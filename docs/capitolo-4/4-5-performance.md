@@ -1,11 +1,11 @@
 ## Contenuto dell'obbligo
 
 Il presente obbligo si trova in “**Amministrazione trasparente**” – “**Performance**” e si compone delle seguenti sottosezioni:
-1. **Sistema di misurazione e valutazione della performance**
-2. **Piano della Performance**
-3. **Relazione sulla Performance**
-4. **Ammontare complessivo dei premi**
-5. **Dati relativi ai premi**
+- **Sistema di misurazione e valutazione della performance**
+- **Piano della Performance**
+- **Relazione sulla Performance**
+- **Ammontare complessivo dei premi**
+- **Dati relativi ai premi**
 
 ## **Sistema di misurazione e valutazione della performance**
 
@@ -27,7 +27,17 @@ L'obbligo di pubblicazione in questa sezione è stato profondamente innovato dal
 
 ## **Relazione sulla Performance**
 
-Preliminarmente appare utile evidenziare che ai sensi dell’art. 16, le prescrizioni di cui all’art. 10 non sono di diretta ed immediata applicazione per gli enti locali, sebbene, l’art. 8, comma 1, lettera d) del D.lgs. n. 74/2017, abbia introdotto il comma 1-bis il quale recita “_Per gli enti locali, ferme restando le previsioni di cui all'articolo 169, comma 3-bis, del decreto legislativo 18 agosto 2000, n. 267, la Relazione sulla performance di cui al comma 1, lettera b), può essere unificata al rendiconto della gestione di cui all'articolo 227 del citato decreto legislativo._”. Con specifico riferimento alla Relazione sulla performance e alle sue recenti evoluzioni dettate dalla normativa, ai sensi dell’art. 6, comma 3, del decreto legge 9 giugno 2021, n. 80, convertito, con modificazioni, in legge 6 agosto 2021, n. 113 che ha introdotto nel nostro ordinamento il Piano Integrato di Attività e Organizzazione, e dell’art. 5, comma 2, del Decreto del Ministro per la Pubblica Amministrazione n. 132 del 30 giugno 2022, concernente la definizione del contenuto del Piano Integrato di Attività e Organizzazione, la sotto sezione “Performance” del PIAO deve essere monitorata secondo le modalità stabilite dagli articoli 6 e 10, comma 1, lett. b) del decreto legislativo 27 ottobre 2009, n. 150 e pertanto **nella presente sotto sezione deve essere pubblicata la Relazione sulla performance.**
+La Relazione sulla performance documenta i risultati raggiunti rispetto agli obiettivi programmati ed è soggetta a specifiche regole di semplificazione per gli Enti Locali.
+
+### **Cosa pubblicare**
+*   **Relazione sulla Performance**: Documento che evidenzia i risultati dell'amministrazione (ex art. 10, comma 1, lett. b, d.lgs. 150/2009).
+*   **Per gli Enti Locali**: La Relazione può essere **unificata al Rendiconto della gestione** (art. 227 TUEL), fermo restando l'obbligo di monitoraggio dei contenuti della sezione "Performance" del PIAO.
+
+### **Riferimenti Normativi**
+*   **Art. 10, comma 1, lett. b) e comma 1-bis, d.lgs. n. 150/2009**: Definisce l'obbligo della Relazione e la facoltà di unificazione per gli Enti Locali.
+*   **Art. 8, comma 1, lett. d), d.lgs. n. 74/2017**: Ha introdotto la possibilità per gli Enti Locali di accorpare la Relazione al rendiconto.
+*   **D.L. n. 80/2021 (art. 6, comma 3)** e **D.M. n. 132/2022 (art. 5, comma 2)**: Stabiliscono che la sezione "Performance" del PIAO deve essere monitorata e rendicontata secondo le modalità del d.lgs. 150/2009.
+*   **Art. 16, d.lgs. n. 150/2009**: Specifica i limiti di applicazione immediata delle norme sulla performance agli Enti Locali.
 
 ## **Ammontare complessivo dei premi**
 
