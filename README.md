@@ -2,6 +2,16 @@
 
 Questo repository contiene il materiale per la pubblicazione online del **Manuale 2026 per l'attestazione della trasparenza**. Il sito è costruito utilizzando [MkDocs](https://www.mkdocs.org/) con il tema [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
+## 🚀 Comando Rapido per Aggiornare e Pubblicare
+
+Se hai apportato delle modifiche e vuoi caricarle subito online, usa questo comando combinato (copia e incolla nel terminale dalla cartella del progetto):
+
+```bash
+git add . && git commit -m "Aggiornamento manuale" && git push origin main && mkdocs gh-deploy --clean
+```
+
+---
+
 ## Prerequisiti
 
 Assicurarsi di avere Python installato sul proprio sistema. È consigliato l'uso di un ambiente virtuale.
