@@ -12,13 +12,17 @@ Il presente obbligo si trova in “**Amministrazione trasparente**” – “**P
 
 - **Dati relativi ai premi**
 
+---
+
 ## **Sistema di misurazione e valutazione della performance**
 
-### Cosa pubblicare
+### **Cosa pubblicare**
 - Sistema di misurazione e valutazione della Performance
 
-### Riferimenti normativi
+### **Riferimenti normativi**
 - **D.lgs. n. 150/200 (art. 7)**: Discplina i Sistemi di misurazione e valutazione della performance.
+
+---
 
 ## **Piano della Performance**
 
@@ -34,6 +38,8 @@ L'obbligo di pubblicazione in questa sezione è stato profondamente innovato dal
 *   **D.M. n. 132/2022**: Definisce la struttura e le modalità redazionali del PIAO.
 *   **Art. 169, comma 3-bis, d.lgs. 267/2000 (TUEL)**: La modifica normativa ha stabilito la separazione tra il Piano dettagliato degli obiettivi (unificato nel PEG) e il PIAO, rendendo necessaria la pubblicazione di entrambi.
 
+---
+
 ## **Relazione sulla Performance**
 
 La Relazione sulla performance documenta i risultati raggiunti rispetto agli obiettivi programmati ed è soggetta a specifiche regole di semplificazione per gli Enti Locali.
@@ -48,11 +54,15 @@ La Relazione sulla performance documenta i risultati raggiunti rispetto agli obi
 *   **D.L. n. 80/2021 (art. 6, comma 3)** e **D.M. n. 132/2022 (art. 5, comma 2)**: Stabiliscono che la sezione "Performance" del PIAO deve essere monitorata e rendicontata secondo le modalità del d.lgs. 150/2009.
 *   **Art. 16, d.lgs. n. 150/2009**: Specifica i limiti di applicazione immediata delle norme sulla performance agli Enti Locali.
 
+---
+
 ## **Ammontare complessivo dei premi**
 
 Ai sensi dell’art. 20, comma 1 del D.lgs. n. 33/2013, le pubbliche amministrazioni pubblicano l’ammontare complessivo dei premi collegati alla performance stanziati e l’ammontare dei premi effettivamente distribuiti. I dati di questa sezione devono essere **pubblicati in tabella**.
 
 [Fac-simile per la pubblicazione dell'ammontare complessivo dei premi](../assets/documenti/ammontare_complessivo_premi.docx)
+
+---
 
 ## **Dati relativi ai premi**
 
