@@ -39,8 +39,6 @@ Pubblicazione dello scadenzario con le date di efficacia dei nuovi obblighi ammi
 
 - Collegamento alla pagina contenente le informazioni sull'adempimento e sul procedimento.
 
-[Fac-simile scadenzario obblighi amministrativi](../assets/documenti/facsimile_scadenzario_obblighi.docx)
-
 Le informazioni devono essere distinte per destinatario: **cittadini** / **imprese** e organizzate in successione temporale (data inizio efficacia).
 
 ---
@@ -51,3 +49,9 @@ Le informazioni devono essere distinte per destinatario: **cittadini** / **impre
 *   **Aggiornamenti**: Tutte le pubblicazioni devono essere effettuate **tempestivamente**, ai sensi dell'art. 8 del D.lgs. n. 33/2013.
 *   **Applicabilità agli Enti Locali (Oneri Informativi)**: Esiste un problema di coordinamento normativo. L'art. 1, comma 2 del DPCM 8 novembre 2013 fa riferimento all'art. 11, comma 1 del D.lgs. n. 33/2013, norma abrogata dal D.lgs. n. 97/2016.
 *   **Definizione di Obbligo Amministrativo**: Qualunque adempimento (raccolta, elaborazione, trasmissione, conservazione, produzione di documenti) cui cittadini e imprese sono tenuti nei confronti della PA (art. 29, co. 2, DL n. 69/2013).
+
+---
+
+## Schemi, modelli, fac-simile
+
+[Fac-simile scadenzario obblighi amministrativi](../assets/documenti/facsimile_scadenzario_obblighi.docx)

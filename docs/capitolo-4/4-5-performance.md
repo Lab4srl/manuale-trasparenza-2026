@@ -7,8 +7,8 @@ Il presente obbligo si trova in "**Amministrazione trasparente**" – "**Perform
 3. "**Relazione sulla Performance**": deve essere pubblicata la **Relazione sulla performance**. Per gli Enti Locali, la Relazione può essere unificata al Rendiconto della gestione.
 4. "**Ammontare complessivo dei premi**": devono essere pubblicati **in tabella** l'ammontare complessivo dei premi collegati alla performance stanziati e l'ammontare dei premi effettivamente distribuiti.
 5. "**Dati relativi ai premi**": devono essere pubblicati **in tabella**:
-   * i criteri definiti nei sistemi di misurazione e valutazione della performance per l'assegnazione del trattamento accessorio;
-   * la distribuzione del trattamento accessorio, in forma aggregata, al fine di dare conto del livello di selettività utilizzato nella distribuzione dei premi e degli incentivi e il grado di differenziazione dell'utilizzo della premialità sia per i dirigenti sia per i dipendenti.
+	   * i criteri definiti nei sistemi di misurazione e valutazione della performance per l'assegnazione del trattamento accessorio;
+	   * la distribuzione del trattamento accessorio, in forma aggregata, al fine di dare conto del livello di selettività utilizzato nella distribuzione dei premi e degli incentivi e il grado di differenziazione dell'utilizzo della premialità sia per i dirigenti sia per i dipendenti.
 
 Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempestivamente**, ai sensi dell'art. 8 del D.lgs. n. 33/2013.
 
@@ -22,3 +22,11 @@ Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempest
 * per gli **enti locali**, la **Relazione sulla performance può essere unificata al Rendiconto della gestione** di cui all'art. 227 del D.lgs. n. 267/2000, ai sensi del comma 1-bis dell'art. 10 del D.lgs. n. 150/2009, introdotto dall'art. 8, comma 1, lett. d) del D.lgs. n. 74/2017
 * la sotto sezione "Performance" del PIAO deve essere monitorata secondo le modalità stabilite dagli artt. 6 e 10, comma 1, lett. b) del D.lgs. n. 150/2009, ai sensi dell'art. 6, comma 3 del D.L. n. 80/2021, convertito in legge n. 113/2021, e dell'art. 5, comma 2 del D.M. n. 132 del 30 giugno 2022
 * i dati relativi all'ammontare complessivo dei premi e ai dati relativi ai premi devono essere pubblicati ai sensi, rispettivamente, dell'art. 20, comma 1 e dell'art. 20, comma 2 del D.lgs. n. 33/2013
+
+---
+
+## Schemi, modelli, fac-simile
+
+[Schema pubblicazione ammontare complessivo dei premi](../assets/documenti/ammontare_complessivo_premi.docx)
+
+[Schema pubblicazione dati sui premi](../assets/documenti/dati_premi.docx)
