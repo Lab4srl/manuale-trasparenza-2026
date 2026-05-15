@@ -12,13 +12,15 @@ L’analisi complessiva e gli specifici approfondimenti sono stati redatti attra
 
 A cura di
 
-- Alessia Adamo
-- Alessandro Gasbarri
-- Michele Solla
+- **Alessia Adamo**
+- **Alessandro Gasbarri**
+- **Michele Solla**
 
 ## Indice del Manuale
 
-- [Link utili](link-utili.md)
+- **Manuale Attestazione Trasparenza 2026**
+	- [Premessa](index.md)
+	- [Link utili](link-utili.md)
 - **1. Indicazioni operative per le Amministrazioni e gli Enti per lo svolgimento dell’attestazione**
     - [Introduzione](capitolo-1/index.md)
     - [1.1 Dati non pubblicabili, eccezioni e specificità nella pubblicazione](capitolo-1/1-1-dati-non-pubblicabili.md)
