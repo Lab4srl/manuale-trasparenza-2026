@@ -1,17 +1,49 @@
+/* --- Colori Brand Lab4Srl --- */
 :root {
-  --md-primary-fg-color: #005ea8;
-  --md-primary-fg-color--light: #1677d2;
-  --md-primary-fg-color--dark: #003c70;
-  --md-default-bg-color: #ffffff;
+  --md-primary-fg-color: #69aa46;
+  --md-primary-fg-color--light: #85c463;
+  --md-primary-fg-color--dark: #4d8232;
+  --md-default-bg-color: #f2f2f2; /* Grigio chiaro per la finestra del browser (come lab4srl.com) */
 }
 
-.md-header { background: linear-gradient(90deg, #005ea8 0%, #1677d2 100%); }
-.md-sidebar--primary .md-sidebar__scrollwrap { background: #ffffff; }
-.md-nav__title { font-weight: 700; }
-.md-typeset h1 { font-weight: 800; letter-spacing: -0.02em; }
-.md-content { padding-top: 0; }
-.md-main__inner { max-width: 1440px; }
+/* --- Layout "Boxed" del Manuale --- */
+.md-main__inner {
+  background-color: #ffffff; /* Sfondo bianco per il manuale al centro */
+  max-width: 1440px;
+  box-shadow: 0 0 30px rgba(0,0,0,0.07);
+  border-radius: 8px;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  overflow: hidden; /* Per rispettare i bordi arrotondati */
+}
 
+/* Header con colore aziendale verde */
+.md-header { 
+  background-color: #69aa46; 
+}
+
+/* Sidebar e Contenuti (Bianco) */
+.md-sidebar--primary .md-sidebar__scrollwrap,
+.md-sidebar--secondary .md-sidebar__scrollwrap,
+.md-content { 
+  background-color: #ffffff; 
+}
+
+.md-content { 
+  padding-top: 0; 
+}
+
+/* --- Tipografia --- */
+.md-nav__title { 
+  font-weight: 700; 
+}
+
+.md-typeset h1 { 
+  font-weight: 800; 
+  letter-spacing: -0.02em; 
+}
+
+/* --- Componente Hero (Home Page) --- */
 .doc-hero {
   background: linear-gradient(135deg, #005ea8 0%, #0b73cb 100%);
   color: #ffffff;
@@ -19,16 +51,6 @@
   padding: 2.4rem 2.2rem;
   border-radius: 18px;
   box-shadow: 0 10px 30px rgba(0,0,0,.10);
-}
-
-.doc-hero__inner { max-width: 100%; margin: 0; }
-
-.doc-hero__eyebrow {
-  text-transform: uppercase;
-  letter-spacing: .12em;
-  font-size: .8rem;
-  opacity: .85;
-  margin-bottom: .75rem;
 }
 
 .doc-hero h1 {
@@ -47,18 +69,27 @@
   color: #fff;
 }
 
-.doc-hero__meta {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-  gap: .9rem;
-  margin-top: 1rem;
-}
-
 .doc-hero__meta div {
   background: rgba(255,255,255,.10);
   border: 1px solid rgba(255,255,255,.18);
   border-radius: 12px;
   padding: .85rem 1rem;
+}
+
+.doc-hero__inner { max-width: 100%; margin: 0; }
+.doc-hero__eyebrow {
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  font-size: .8rem;
+  opacity: .85;
+  margin-bottom: .75rem;
+}
+
+.doc-hero__meta {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: .9rem;
+  margin-top: 1rem;
 }
 
 .doc-intro { max-width: 100%; margin: 0; }
