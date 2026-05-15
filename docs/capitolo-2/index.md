@@ -20,3 +20,10 @@ L’applicazione consente, all’utente OIV:
 **Nel caso delle società a partecipazione pubblica non di controllo e nelle associazioni, fondazioni ed enti di diritto privato** l’attestazione e la compilazione della griglia di rilevazione è effettuata dal **rappresentante legale o dall’organo di controllo** se previsto, specificando che nell’ente è assente l’Organismo di valutazione e motivandone le ragioni.
 
 **La pubblicazione in “Amministrazione trasparente” dei documenti estratti dall’applicativo web compete al Responsabile della Prevenzione della Corruzione e della Trasparenza.**
+
+## Indice del capitolo
+
+- **2. Indicazioni operative per gli Organismi di valutazione per lo svolgimento dell’attestazione**
+    - [Introduzione](capitolo-2/index.md)
+    - [2.1 Ambito temporale di riferimento degli obblighi di pubblicazione oggetto di attestazione](capitolo-2/2-1-ambito-temporale.md)
+    - [2.2 Applicativo web](capitolo-2/2-2-applicativo-web.md)
