@@ -8,11 +8,11 @@ Il presente obbligo si trova in “**Amministrazione trasparente**” – “**D
 
 Ai sensi del D.lgs. n. 97/2016, la sottosezione “Burocrazia zero” è stata soppressa.
 
-### **Atti generali (Art. 12, D.lgs. n. 33/2013)**
+**Atti generali (Art. 12, D.lgs. n. 33/2013)**
 L'ente deve pubblicare ogni atto (previsto da norma di legge o adottato nell'esercizio di autonomo potere amministrativo/gestionale) riguardante l'organizzazione, le funzioni, gli obiettivi, i procedimenti, l'interpretazione di disposizioni di legge e i codici di condotta.
 
 **Elenco dei principali atti da pubblicare:**
-*   **Riferimenti normativi**: Link alle norme statali (portale "Normattiva") che regolano l'istituzione, l'organizzazione e l'attività dell'ente.
+*   **Riferimenti normativi**: Link alle singole norme statali sul portale "[Normattiva](https://www.normattiva.it){:target="_blank"}" che regolano l'istituzione, l'organizzazione e l'attività dell'ente.
 *   **Atti di indirizzo e programmazione**: Direttive, circolari, programmi, istruzioni, atti organizzativi, obiettivi strategici in materia di prevenzione corruzione e trasparenza (es. documenti di programmazione, direttive ministeriali).
 *   **Piano Integrato di Attività e Organizzazione (PIAO)**.
 *   **Statuti e norme regionali**: Testi ufficiali e aggiornati che regolano funzioni, organizzazione e attività di competenza dell'amministrazione.
@@ -20,8 +20,8 @@ L'ente deve pubblicare ogni atto (previsto da norma di legge o adottato nell'ese
 *   **Codice disciplinare**: Infrazioni e sanzioni (pubblicazione online in alternativa all'affissione in luogo accessibile - art. 7, L. 300/1970).
 *   **Codice di comportamento**: (ex Codice di condotta).
 
-### **Oneri informativi per cittadini e imprese (Art. 29, D.lgs. n. 33/2013)**
-Pubblicazione dello scadenzario con le date di efficacia dei nuovi obblighi amministrativi, secondo il [DPCM 8 novembre 2013](https://www.gazzettaufficiale.it/eli/id/2013/12/20/13A10299/sg).
+**Oneri informativi per cittadini e imprese (Art. 29, D.lgs. n. 33/2013)**
+Pubblicazione dello scadenzario con le date di efficacia dei nuovi obblighi amministrativi, secondo il [DPCM 8 novembre 2013](https://www.gazzettaufficiale.it/eli/id/2013/12/20/13A10299/sg){:target="_blank"}.
 
 **Dati da pubblicare per ciascun nuovo obbligo:**
 *   Denominazione.
@@ -31,7 +31,7 @@ Pubblicazione dello scadenzario con le date di efficacia dei nuovi obblighi ammi
 
 [Fac-simile scadenzario obblighi amministrativi](../assets/documenti/facsimile_scadenzario_obblighi.docx)
 
-Le informazioni devono essere distinte tra destinatari cittadini e imprese, organizzate in successione temporale (data inizio efficacia).
+Le informazioni devono essere distinte per destinatario: **cittadini** / **imprese** e organizzate in successione temporale (data inizio efficacia).
 
 ---
 
