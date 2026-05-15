@@ -9,7 +9,11 @@ Il presente obbligo si trova in “**Amministrazione trasparente**” – “**P
 
 ## **Sistema di misurazione e valutazione della performance**
 
-Sistema di misurazione e valutazione della Performance di cui all’art. 7 del d.lgs. n. 150/2009.
+### Cosa pubblicare
+- Sistema di misurazione e valutazione della Performance
+
+### Riferimenti normativi
+- **D.lgs. n. 150/200 (art. 7)**: Discplina i Sistemi di misurazione e valutazione della performance.
 
 ## **Piano della Performance**
 
