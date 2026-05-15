@@ -1,5 +1,3 @@
-## 1.4 Formato aperto dei dati
-
 Ai sensi dell’art. 1, comma 32 e comma 45, della Legge n. 190/2012 i formati di dati aperti, sono quelli resi disponibili e fruibili on line in formati non proprietari, a condizioni tali da permetterne il più ampio riutilizzo anche a fini statistici e la ridistribuzione senza ulteriori restrizioni d’uso, di riuso o di diffusione diverse dall’obbligo di citare la fonte e di rispettarne l’integrità.
 
 In aggiunta a ciò, l’art. 1, comma 1, lettera l-bis), del d.lgs. n. 82/2005, il formato aperto è un formato di dati reso pubblico, documentato esaustivamente e neutro rispetto agli strumenti tecnologici necessari per la fruizione dei dati stessi.

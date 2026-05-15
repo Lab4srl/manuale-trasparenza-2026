@@ -1,5 +1,3 @@
-## 1.2 Aggiornamento delle pubblicazioni
-
 Si riportano di seguito le differenti frequenze di aggiornamento ai sensi del D.lgs. n. 33/2013:
 
 * **Cadenza annuale**, per i dati che, per loro natura, non subiscono modifiche frequenti o la cui durata è tipicamente annuale. Esempio: *Enti controllati (art. 22). Costi contabilizzati dei servizi erogati agli utenti e ai tempi medi di erogazione degli stessi (art. 10, comma 5), nonché ai tempi medi dei pagamenti relativi ad acquisti di beni, servizi e forniture (art. 33). Per tutti è previsto l’aggiornamento annuale.*
