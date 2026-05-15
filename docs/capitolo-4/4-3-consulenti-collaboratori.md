@@ -17,9 +17,9 @@ Le pubblicazioni sono effettuate in formato tabellare come di seguito indicato:
 
 Ricordiamo che si può adempiere al presente obbligo anche attraverso la pubblicazione del **link al sito “[Consulenti pubblici](https://consulentipubblici.dfp.gov.it/){:target="_blank"}” (già PerlaPA)**, avendo l’accortezza di integrare la pubblicazione con l’attestazione dell'avvenuta verifica dell'insussistenza di situazioni, anche potenziali, di conflitto di interesse attraverso la pubblicazione del (vedi Fac simile "Attestazione verifica assenza conflitto di interesse")
 
-[**Fac simile "Dichiarazione punto c) art 15 D Lgs 33/2013"**](../../assets/documenti/Fac_simile_dichiarazione_c.docx)
+[**Fac simile "Dichiarazione punto c) art 15 D Lgs 33/2013"**](../assets/documenti/Fac_simile_dichiarazione_c.docx)
 
-[**Fac simile "Attestazione verifica assenza conflitto di interesse"**](../../assets/documenti/Fac_simile_verifica_conflitto_interessi.docx)
+[**Fac simile "Attestazione verifica assenza conflitto di interesse"**](../assets/documenti/Fac_simile_verifica_conflitto_interessi.docx)
 
 ## Devi sapere che
 
