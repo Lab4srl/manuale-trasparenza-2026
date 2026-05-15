@@ -1,29 +1,26 @@
-Il presente obbligo si trova in “**Amministrazione trasparente**” – “**Servizi erogati**” e a norma dell’Allegato 1, alla deliberazione ANAC n. 1134/2016, si compone delle seguenti sottosezioni:
+## Contenuto dell'obbligo
 
-1. Carta dei servizi e standard di qualità;
-    
-2. Class action;
-    
-3. Costi contabilizzati;
-    
-4. Liste di attesa;
-    
-5. Servizi in rete.
-    
+Il presente obbligo si trova in "**Amministrazione trasparente**" – "**Servizi erogati**" e, a norma dell'Allegato 1 alla deliberazione ANAC n. 1134/2016, si compone delle seguenti sottosezioni:
 
-Delle sottosezioni precedentemente riportate solo le seguenti sono soggette ad attestazione:
+1. "**Carta dei servizi e standard di qualità**": deve essere pubblicata la carta dei servizi o un documento analogo, ove sono indicati i livelli minimi di qualità dei servizi e gli impegni assunti nei confronti degli utenti per garantire il rispetto degli standard fissati, ai sensi dell'art. 32, comma 1 del D.lgs. n. 33/2013.
 
-1. “**Carta dei servizi e standard di qualità**”: l’obbligo di pubblicazione concerne, ai sensi del comma 1, la carta dei servizi o un documento analogo ove sono indicati i livelli minimi di qualità dei servizi e quindi gli impegni assunti nei confronti degli utenti per garantire il rispetto degli standard fissati.
-    
-2. “**Class action**”: ai sensi dell’art. 1, comma 2 e dell’art. 4, commi 2 e 6 del D.lgs. n. 198/2009 le informazioni da pubblicare nella presente sotto-sezione sono: notizia del ricorso in giudizio proposto dai titolari di interessi giuridicamente rilevanti ed omogenei nei confronti delle amministrazioni e dei concessionari di servizio pubblico al fine di ripristinare il corretto svolgimento della funzione o la corretta erogazione di un servizio; sentenza di definizione del giudizio; misure adottate in ottemperanza alla sentenza. **Nel caso in cui non ricorra l’eventualità, è comunque necessario dare specifica evidenza di tale circostanza.**
-    
-3. “**Costi contabilizzati**”: il comma 2 prevede che ciascuna amministrazione, una volta individuati annualmente i servizi erogati agli utenti sia finali sia intermedi, secondo quanto stabilito all’art. 10, comma 5, del d.lgs. 33/2013 (_5. Ai fini della riduzione del costo dei servizi, dell'utilizzo delle tecnologie dell'informazione e della comunicazione, nonché del conseguente risparmio sul costo del lavoro, le pubbliche amministrazioni provvedono annualmente ad individuare i servizi erogati, agli utenti sia finali che intermedi, ai sensi dell'articolo 10, comma 5, del decreto legislativo 7 agosto 1997, n. 279. Le amministrazioni provvedono altresì alla contabilizzazione dei costi e all'evidenziazione dei costi effettivi e di quelli imputati al personale per ogni servizio erogato, nonché al monitoraggio del loro andamento nel tempo, pubblicando i relativi dati ai sensi dell'articolo 32._), sono tenuti a pubblicare i costi contabilizzati e il relativo andamento nel tempo, obbligo già previsto nel testo previgente. Ai fini della corretta comprensione dell’obbligo di pubblicazione, appare utile riportare il testo del comma 5, art. 10 del D.lgs. n. 279/1997, il quale recita “_I servizi esprimono le funzioni elementari, finali e strumentali, cui danno luogo i diversi centri di costo per il raggiungimento degli scopi dell'amministrazione. Essi sono aggregati nelle funzioni- obiettivo che esprimono le missioni istituzionali di ciascuna amministrazione interessata. In base alla definizione dei servizi finali e strumentali evidenziati nelle rilevazioni analitiche elementari, il Ministro competente individua gli indicatori idonei a consentire la valutazione di efficienza, di efficacia e di economicità del risultato della gestione, anche ai fini delle valutazioni di competenza del Ministro del tesoro, del bilancio e della programmazione economica ai sensi dell'articolo 4-bis della legge 5 agosto 1978, n. 468, aggiunto dall'articolo 3, comma 1, della legge 3 aprile 1997, n. 94. Per le altre amministrazioni pubbliche provvedono gli organi di direzione politica o di vertice._”.
-    
-4. “**Liste di attesa**”: solo per gli enti, aziende e strutture pubbliche e private che erogano prestazioni per conto del servizio sanitario, ai sensi dell’art. 41, comma 6 del d.lgs. n. 33/2013, devono essere pubblicati i criteri di formazione delle liste di attesa, i tempi di attesa previsti e tempi medi effettivi di attesa per ciascuna tipologia di prestazione erogata. La presente pubblicazione deve essere fatta in tabella. **Nel caso di amministrazioni non del SSN dare evidenza di tale circostanza attraverso apposita dichiarazione**.
-    
-5. “**Servizi in rete**”: ai sensi dell’art. 7, comma 3, D.lgs. n. 82/2005 (Codice dell’amministrazione digitale), come integrato e modificato dall’art. 8, comma 1, del D.lgs. n. 179/16, per i servizi in rete, le pubbliche amministrazioni di cui all'articolo 1, comma 2, del D.lgs. n. 165/2001, consentono agli utenti di esprimere la soddisfazione rispetto alla qualità degli stessi, anche in termini di fruibilità, accessibilità e tempestività, del servizio reso all'utente stesso e pubblicano sui propri siti i dati risultanti, ivi incluse le statistiche di utilizzo.
-    
+2. "**Class action**": devono essere pubblicate, ai sensi dell'art. 1, comma 2 e dell'art. 4, commi 2 e 6 del D.lgs. n. 198/2009:
+   - la notizia del ricorso in giudizio proposto dai titolari di interessi giuridicamente rilevanti ed omogenei nei confronti delle amministrazioni e dei concessionari di servizio pubblico, al fine di ripristinare il corretto svolgimento della funzione o la corretta erogazione di un servizio;
+   - la sentenza di definizione del giudizio;
+   - le misure adottate in ottemperanza alla sentenza.
 
-**Coordinamento degli obblighi di trasparenza di cui al D.lgs. n. 33/2013, con gli obblighi di trasparenza del servizio di gestione dei rifiuti urbani e assimilati di cui alla deliberazione AREA n. 444/2019.**
+3. "**Costi contabilizzati**": devono essere pubblicati i costi contabilizzati e il relativo andamento nel tempo per ciascun servizio erogato, sia agli utenti finali sia intermedi, ai sensi dell'art. 32, comma 2 del D.lgs. n. 33/2013 e dell'art. 10, comma 5 del D.lgs. n. 279/1997.
 
-L'ANAC con deliberazione n. 803/2020 ha fornito indicazioni in ordine al Coordinamento degli obblighi di trasparenza di cui al D.lgs. n. 33/2013, con gli obblighi di trasparenza del servizio di gestione dei rifiuti urbani e assimilati di cui alla deliberazione AREA n. 444/2019, stabilendo che laddove l’amministrazione/ente sia tenuto a pubblicare sul proprio sito istituzionale i dati e le informazioni attinenti al servizio di gestione dei rifiuti urbani e assimilati in conformità a quanto stabilito nella delibera di ARERA n. 444/2019, la misura di trasparenza prevista all’art. 32 del d.lgs. n. 33/2013, con riferimento a tale specifico ambito, può intendersi attuata anche mediante l’inserimento nella sezione “Amministrazione/Società trasparente”, sotto-sezione “Servizi erogati”, del collegamento ipertestuale alla distinta sezione in cui i dati e le informazioni indicati all’art. 32 sono resi disponibili, nel rispetto della qualità delle informazioni ai sensi dell’art. 6 del medesimo decreto.
+4. "**Liste di attesa**": devono essere pubblicati in tabella i criteri di formazione delle liste di attesa, i tempi di attesa previsti e i tempi medi effettivi di attesa per ciascuna tipologia di prestazione erogata, ai sensi dell'art. 41, comma 6 del D.lgs. n. 33/2013. **L'obbligo si applica esclusivamente agli enti, aziende e strutture pubbliche e private che erogano prestazioni per conto del servizio sanitario.**
+
+5. "**Servizi in rete**": devono essere pubblicati i dati risultanti dalla rilevazione della soddisfazione degli utenti rispetto alla qualità dei servizi in rete, ivi incluse le statistiche di utilizzo, ai sensi dell'art. 7, comma 3 del D.lgs. n. 82/2005 (Codice dell'amministrazione digitale), come integrato e modificato dall'art. 8, comma 1 del D.lgs. n. 179/2016.
+
+## Devi sapere che
+
+* delle cinque sottosezioni elencate, solo le seguenti sono soggette ad attestazione da parte dell'Organismo di valutazione: "Carta dei servizi e standard di qualità", "Class action", "Costi contabilizzati", "Liste di attesa" e "Servizi in rete"
+* nella sottosezione "**Class action**", **nel caso in cui non ricorra l'eventualità di ricorsi in giudizio, è comunque necessario dare specifica evidenza di tale circostanza**
+* nella sottosezione "**Costi contabilizzati**", ai fini della corretta comprensione dell'obbligo, per "servizi" si intendono le funzioni elementari, finali e strumentali cui danno luogo i diversi centri di costo per il raggiungimento degli scopi dell'amministrazione, aggregate nelle funzioni-obiettivo che esprimono le missioni istituzionali, secondo la definizione di cui all'art. 10, comma 5 del D.lgs. n. 279/1997
+* nella sottosezione "**Liste di attesa**", **nel caso di amministrazioni non appartenenti al SSN, è necessario dare evidenza di tale circostanza attraverso apposita dichiarazione**
+* con riferimento al **coordinamento tra gli obblighi di trasparenza del D.lgs. n. 33/2013 e gli obblighi di trasparenza del servizio di gestione dei rifiuti urbani e assimilati** di cui alla deliberazione ARERA n. 444/2019, l'ANAC — con deliberazione n. 803/2020 — ha stabilito che laddove l'amministrazione pubblichi sul proprio sito istituzionale i dati relativi al servizio di gestione dei rifiuti in conformità alla delibera ARERA n. 444/2019, l'obbligo di cui all'art. 32 del D.lgs. n. 33/2013 può intendersi attuato anche mediante l'inserimento nella sottosezione "Servizi erogati" del **collegamento ipertestuale** alla distinta sezione in cui tali dati sono resi disponibili, nel rispetto della qualità delle informazioni ai sensi dell'art. 6 del medesimo decreto
+
+Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempestivamente**, ai sensi dell'art. 8 del D.lgs. n. 33/2013.

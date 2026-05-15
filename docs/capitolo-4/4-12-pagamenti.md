@@ -1,113 +1,38 @@
-Il presente obbligo si trova in “**Amministrazione trasparente**” – “**Pagamenti dell’amministrazione**” e si compone delle seguenti sottosezioni:
+## Contenuto dell'obbligo
 
-1. Dati sui pagamenti
-    
-2. Dati sui pagamenti del servizio sanitario nazionale
-    
-3. Indicatore di tempestività dei pagamenti e ammontare complessivo dei debiti
-    
-4. IBAN e pagamenti informatici
-    
+Il presente obbligo si trova in "**Amministrazione trasparente**" – "**Pagamenti dell'amministrazione**" e si compone delle seguenti sottosezioni:
 
-**1. Dati sui pagamenti**
+1. "**Dati sui pagamenti**": ai sensi dell'art. 4-bis, comma 2 del D.lgs. n. 33/2013, deve essere pubblicato un prospetto con i dati sui pagamenti effettuati, con indicazione dei nominativi dei beneficiari e della data di effettivo pagamento, organizzato per tipologia di spesa. L'ANAC, con deliberazione n. 1310/2016, individua le seguenti tipologie di spesa:
 
-Ai sensi dell’art. 4-bis, comma 2 del D.lgs. n. 33/2013 ogni amministrazione pubblica i dati sui propri pagamenti, permettendone la consultazione in relazione alla tipologia di spesa sostenuta, all’ambito temporale di riferimento e ai beneficiari. **L’omessa pubblicazione dei dati comporta l’applicazione della sanzione pecuniaria di cui all’art. 47 del d.lgs. 33/2013**. Poiché la norma di legge inerente la trasparenza non è chiara nell’individuare le “tipologie di spese sostenute”, l’ANAC con la deliberazione n. 1310/2016, individua le seguenti tipologie di spesa, in quanto afferenti a risorse tecniche e strumentali strettamente connesse al perseguimento dell’attività istituzionale da parte delle amministrazioni:
+   - **Uscite correnti**: acquisto di beni e servizi; trasferimenti correnti; interessi passivi; altre spese per redditi da capitale; altre spese correnti
+   - **Uscite in conto capitale**: investimenti fissi lordi e acquisto di terreni; contributi agli investimenti; altri trasferimenti in conto capitale; altre spese in conto capitale; acquisizioni di attività finanziarie
 
-1. **Uscite correnti**
-    
-    1. Acquisto di beni e di servizi
-        
-    2. Trasferimenti correnti
-        
-    3. Interessi passivi
-        
-    4. Altre spese per redditi da capitale
-        
-    5. Altre spese correnti
-        
-2. **Uscite in conto capitale**
-    
-    1. Investimenti fissi lordi e acquisto di terreni
-        
-    2. Contributi agli investimenti
-        
-    3. Altri trasferimenti in conto capitale
-        
-    4. Altre spese in conto capitale
-        
-    5. Acquisizioni di attività finanziarie
-        
+2. "**Dati sui pagamenti del servizio sanitario nazionale**": per gli Enti del SSN, ai sensi dell'art. 41, comma 1-bis del D.lgs. n. 33/2013, devono essere pubblicati i dati relativi a tutte le spese e a tutti i pagamenti effettuati, distinti per tipologia di lavoro, bene o servizio, consentendone la consultazione in forma sintetica e aggregata in relazione alla tipologia di spesa, all'ambito temporale di riferimento e ai beneficiari.
 
-Per ciascuna delle tipologie di spesa sopra elencate, l’Amministrazione individua la natura economica delle spese e pubblica un prospetto con i dati sui propri pagamenti, evidenziando i nominativi dei “beneficiari” e, quale “ambito temporale di riferimento”, la data di effettivo pagamento. A titolo esemplificativo, all’interno della spesa per servizi gli oggetti specifici di spesa saranno le consulenze, utilizzo di beni di terzi, manutenzione ordinaria e riparazioni, ecc.; all’interno dei trasferimenti correnti gli oggetti specifici di spesa saranno i trasferimenti correnti a imprese controllate, ecc. Ai fini della produzione del già menzionato prospetto le amministrazioni pubbliche potranno fare riferimento al Piano dei conti integrato di cui al DPR 132/2013 utilizzando, quale dettaglio, il IV livello e un pari livello per le altre categorie di enti soggetti alla trasparenza per i quali la RGS non ha previsto un piano di conti integrato.
+3. "**Indicatore di tempestività dei pagamenti e ammontare complessivo dei debiti**": devono essere pubblicati, ai sensi dell'art. 33 del D.lgs. n. 33/2013, come modificato dall'art. 29 del D.lgs. n. 97/2016:
+   - l'**indicatore annuale di tempestività dei pagamenti**, entro il 31 gennaio dell'anno successivo a quello di riferimento
+   - l'**indicatore trimestrale di tempestività dei pagamenti**, entro il trentesimo giorno dalla conclusione del trimestre cui si riferisce
+   - l'**ammontare complessivo dei debiti** (somma degli importi delle fatture scadute) e il **numero delle imprese creditrici**, con cadenza annuale e trimestrale
 
-In assenza di una specifica indicazione normativa, ad avviso dell’Autorità, la cadenza di pubblicazione è opportuno sia **in fase di prima attuazione semestrale e poi almeno trimestrale**.
+4. "**IBAN e pagamenti informatici**": devono essere pubblicate le informazioni relative alle modalità di pagamento accettate dall'ente, ai sensi dell'art. 36 del D.lgs. n. 33/2013, secondo le indicazioni della deliberazione ANAC n. 77 del 16 febbraio 2022.
 
-**2. Dati sui pagamenti del servizio sanitario nazionale**
+## Devi sapere che
 
-Per gli Enti del SSN, l’obbligo di cui al comma 2 dell’art. 4-bis, è assorbito in quello specificatamente previsto dall’art. 41, comma 1-bis (_Le amministrazioni di cui al comma 1 pubblicano altresì, nei loro siti istituzionali, i dati relativi a tutte le spese e a tutti i pagamenti effettuati, distinti per tipologia di lavoro, bene o servizio, e ne permettono la consultazione, in forma sintetica e aggregata, in relazione alla tipologia di spesa sostenuta, all’ambito temporale di riferimento e ai beneficiari._); consegue, pertanto, che, al fine di evitare disparità di trattamento tra gli enti del comparto sanità e quelli di altri comparti, anche **il mancato assolvimento di tale obbligo è soggetto alle sanzioni specifiche di cui all’art. 47, comma 1-bis, secondo periodo**.
+* **l'omessa pubblicazione dei dati sui pagamenti** di cui all'art. 4-bis, comma 2 del D.lgs. n. 33/2013 comporta l'applicazione della sanzione pecuniaria di cui all'art. 47 del medesimo decreto; analoga sanzione si applica al mancato assolvimento dell'obbligo da parte degli enti del SSN, ai sensi dell'art. 47, comma 1-bis, secondo periodo
+* per la produzione del prospetto sui dati dei pagamenti, le amministrazioni possono fare riferimento al **Piano dei conti integrato** di cui al D.P.R. n. 132/2013, utilizzando quale dettaglio il IV livello, e un pari livello per le altre categorie di enti; in assenza di una specifica indicazione normativa, l'ANAC — con deliberazione n. 1310/2016 — indica una cadenza di pubblicazione **semestrale in fase di prima attuazione, e poi almeno trimestrale**
+* le **modalità di calcolo dell'indicatore di tempestività dei pagamenti** sono definite dal DPCM 22 settembre 2014 (G.U. n. 265 del 14 novembre 2014), integrato dalle circolari MEF/RGS n. 3 del 14 gennaio 2015 e n. 22 del 22 luglio 2015; l'indicatore è calcolato come la somma, per ciascuna fattura, dei giorni effettivi intercorrenti tra la data di scadenza e la data di pagamento moltiplicata per l'importo dovuto, rapportata alla somma degli importi pagati nel periodo di riferimento; sono esclusi dal calcolo i periodi in cui la somma era inesigibile in quanto oggetto di contestazione o contenzioso
+* per "**imprese creditrici**" si intendono tutti i soggetti che vantano crediti nei confronti delle pubbliche amministrazioni, ivi inclusi i singoli professionisti, secondo un'interpretazione coerente dell'art. 33 del D.lgs. n. 33/2013
+* alle amministrazioni che non adempiono agli obblighi di pubblicazione dell'indicatore di tempestività (annuale e trimestrale) e dell'ammontare complessivo dei debiti si applicano le sanzioni di cui all'art. 1, comma 862, lett. a) della Legge n. 145/2018 (Legge di bilancio 2019), ovvero gli obblighi di accantonamento al **"Fondo di garanzia debiti commerciali"**, calcolato nella misura massima del 5% degli stanziamenti di spesa per acquisto di beni e servizi (art. 1, comma 868 della Legge n. 145/2018)
+* con riferimento alla sottosezione **"IBAN e pagamenti informatici"**, la deliberazione ANAC n. 77/2022 distingue gli obblighi di pubblicazione in base alla natura del soggetto:
 
-**3. Indicatore di tempestività dei pagamenti e ammontare complessivo dei debiti**
+  | Tipologia di soggetto | Cosa pubblicare |
+  |---|---|
+  | **Pubbliche amministrazioni** ex art. 1, comma 2 del D.lgs. n. 165/2001, autorità di sistema portuale, autorità amministrative indipendenti, ordini professionali, enti pubblici economici nell'elenco ISTAT | Data di adesione a pagoPA; eventuali altri metodi di pagamento non integrati con pagoPA (F24, SDD, altri servizi previsti per legge, pagamento per cassa) |
+  | **Società in controllo pubblico** ex D.lgs. n. 175/2016 (escluse le quotate) | Data di adesione a pagoPA; altri metodi di pagamento non integrati eventualmente utilizzati |
+  | **Gestori di servizi pubblici, società a partecipazione pubblica e altri enti di diritto privato** ex art. 2-bis, commi 2, lett. c) e 3 del D.lgs. n. 33/2013 | Data di adesione a pagoPA; altri metodi di pagamento non integrati eventualmente utilizzati |
+  | **Enti pubblici economici** ex art. 2-bis, comma 2, lett. a) del D.lgs. n. 33/2013 non inclusi nell'elenco ISTAT e soggetti non destinatari del CAD | Codici IBAN o codici identificativi del conto di pagamento; codici identificativi del pagamento da indicare per il versamento |
 
-L’indicatore di tempestività dei pagamenti è stato introdotto nell’art. 33 del d.lgs. 33/2013 dall’ art. 8, comma 1, legge n. 89 del 2014. Inoltre l’art. 41 comma 1 della medesima legge stabilisce che “_A decorrere dall’esercizio 2014, alle relazioni ai bilanci consuntivi o di esercizio delle pubbliche amministrazioni (…) è allegato un prospetto, sottoscritto dal rappresentante legale e dal responsabile finanziario, attestante l’importo dei pagamenti relativi a transazioni commerciali effettuati dopo la scadenza dei termini previsti dal decreto legislativo 9 ottobre 2002, n. 231, nonché l’indicatore annuale di tempestività dei pagamenti di cui all’articolo 33 del decreto legislativo 14 marzo 2013, n. 33. (…)_”;
+* **è fatto divieto** a tutti i soggetti tenuti per legge all'adesione a pagoPA di pubblicare in qualsiasi modo l'IBAN di accredito, al fine di evitare bonifici non integrati con il sistema; in via residuale e temporanea, qualora si sia ancora in attesa dell'integrazione con pagoPA attraverso il servizio di tesoreria della Banca d'Italia e della Ragioneria dello Stato, può essere pubblicato il codice IBAN del conto corrente per la gestione delle entrate
+* l'**Agenzia per l'Italia digitale**, d'intesa con il Ministero dell'economia e delle finanze, gestisce il sito "**Soldi pubblici**" ([soldipubblici.gov.it](http://soldipubblici.gov.it/it/home)), che consente l'accesso e la consultazione dei dati dei pagamenti delle pubbliche amministrazioni per tipologia di spesa e ambito temporale, ai sensi dell'art. 4-bis, comma 1 del D.lgs. n. 33/2013
 
-Le modalità di calcolo dell’indicatore sono state definite dal DPCM 22 settembre 2014, pubblicato sulla Gazzetta Ufficiale n.265 del 14/11/2014 e integrato dalle ulteriori indicazioni contenute nelle circolari MEF/RGS n. 3 del 14 gennaio 2015 e n. 22 del 22 luglio 2015.
-
-L’art. 9 del citato DPCM del 22 settembre 2014 recita “(…) _L’indicatore di tempestività dei pagamenti di cui ai commi 1 e 2 del presente articolo è calcolato come la somma, per ciascuna fattura emessa a titolo corrispettivo di una transazione commerciale, dei giorni effettivi intercorrenti tra la data di scadenza della fattura o richiesta equivalente di pagamento e la data di pagamento ai fornitori moltiplicata per l’importo dovuto, rapportata alla somma degli importi pagati nel periodo di riferimento. 4. Ai fini del presente decreto e del calcolo dell’indicatore si intende per: a. “transazione commerciale”, i contratti, comunque denominati, tra imprese e pubbliche amministrazioni, che comportano, in via esclusiva o prevalente, la consegna di merci o la prestazione di servizi contro il pagamento di un prezzo; b. “giorni effettivi”, tutti i giorni da calendario, compresi i festivi; c. “data di pagamento”, la data di trasmissione dell’ordinativo di pagamento in tesoreria; d. “data di scadenza”, i termini previsti dall’art. 4 del decreto legislativo 9 ottobre 2002, n. 231, come modificato dal decreto legislativo 9 novembre 2012, n. 192; e. “importo dovuto”, la somma da pagare entro il termine contrattuale o legale di pagamento, comprese le imposte, i dazi, le tasse o gli oneri applicabili indicati nella fattura o nella richiesta equivalente di pagamento. 5. Sono esclusi dal calcolo i periodi in cui la somma era inesigibile essendo la richiesta di pagamento oggetto di contestazione o contenzioso._ (…)”.
-
-La successiva circolare MEF-RGS n. 22 del 22 luglio 2015 ha precisato, infine, che “_devono essere prese in considerazione tutte le fatture pagate nel periodo, indipendentemente dalla data di emissione della fattura_”.
-
-Ai sensi dell’art. 9, comma 1 del citato DPCM le amministrazioni elaborano un indicatore annuale dei propri tempi medi di pagamento relativi agli acquisti di beni, servizi e forniture, denominato: **“indicatore annuale di tempestività dei pagamenti” e lo pubblicano entro il 31 gennaio dell'anno successivo a quello di riferimento.**
-
-Ai sensi dell’art. 9, comma 2 del citato DPCM, **l’obbligo di calcolare l’indicatore dei tempi medi di pagamento a decorrere dall’anno 2015 è trimestrale e la pubblicazione deve avvenire entro il trentesimo giorno dalla conclusione del trimestre cui si riferisce.**
-
-A seguito delle modifiche introdotte dall’art. 29 del D.lgs. n. 97/2016 all’art. 33 del D.lgs. n. 33/2013, le Amministrazioni **pubblicano, nella presente sotto sezione, con cadenza annuale, entro e non oltre il 31 gennaio dell'anno successivo a quello di riferimento, e trimestralmente, l’ammontare complessivo dei debiti,** inteso come la somma degli importi delle fatture scadute al termine di ciascun periodo di riferimento **e il numero delle imprese creditrici**, fra le quali, secondo un’interpretazione coerente delle disposizioni dell’art. 33, sono da intendersi ricompresi tutti i soggetti che vantano crediti nei confronti delle p.a./enti, ivi inclusi singoli professionisti.
-
-Si ricorda infine che ai sensi dell’art. 1, comma 868 della Legge n. 145/2018 (Legge di bilancio 2019), alle amministrazioni che non avessero adempiuto agli obblighi di pubblicazione con la cadenza appropriata, dell’indicatore annuale di tempestività dei pagamenti, dell’l’indicatore trimestrale di tempestività dei pagamenti, oltreché, per entrambe le scadenze, dell’ammontare complessivo dei debiti e il numero delle imprese creditrici, si applicano le sanzioni di cui all’art. 1, comma 862, lettera a), ovvero gli obblighi di accantonamento al “Fondo di garanzia debiti commerciali”, calcolato secondo il parametro massimo del 5% degli stanziamenti di spesa per acquisto di beni e servizi.
-
-**4. IBAN e pagamenti informatici**
-
-Con deliberazione ANAC n. 77 del 16 febbraio 2022 l'Autorità ha fornito indicazioni circa le modalità di pubblicazione dei dati dei pagamenti informatici, ai sensi dell'art. 36 del D.lgs. n. 33/2013, per tutte le amministrazioni tenute all'adesione obbligatoria al sistema PagoPA, di cui di cui all’art 5. del CAD.
-
-Ai sensi della citata deliberazione ANAC:
-
-Le pubbliche amministrazioni di cui all’art. 1, co. 2, del d.lgs. 165/2001 ivi comprese le autorità di sistema portuale, nonché le autorità amministrative indipendenti di garanzia, vigilanza e regolazione; gli ordini professionali, in quanto enti pubblici non economici; gli enti pubblici economici previsti nell'elenco annuale Istat relativo alle amministrazioni pubbliche inserite nel conto economico consolidato, pubblicano all'interno della sezione "Amministrazione trasparente - Pagamenti dell'Amministrazione - IBAN e pagamenti informatici" le seguenti informazioni:
-
-1. la data di adesione alla piattaforma pagoPA secondo la seguente dicitura “Aderente alla piattaforma pagoPA dal XX/XX/XXXX”;
-    
-2. se utilizzati, gli altri metodi di pagamento non integrati con la piattaforma pagoPA (cfr. paragrafo 5 linee guida AgID febbraio 2018), ovvero:
-    
-    1. "Delega unica F24" (c.d. modello F24) fino alla sua integrazione con il Sistema pagoPA;
-        
-    2. Sepa Direct Debit (SDD) fino alla sua integrazione con il Sistema pagoPA;
-        
-    3. eventuali altri servizi di pagamento non ancora integrati con il Sistema pagoPA e che non risultino sostituibili con quelli erogati tramite pagoPA poiché una specifica previsione di legge ne impone la messa a disposizione dell’utenza per l’esecuzione del pagamento;
-        
-    4. per cassa, presso il soggetto che per tale ente svolge il servizio di tesoreria o di cassa.
-        
-
-Le società in controllo pubblico di cui al d.lgs. n. 19 agosto 2016, n. 175 (TUSP), escluse le società quotate di cui all'art. 2, co. 1, lett. p) del medesimo decreto, non avendo l’obbligo di uso esclusivo del sistema pagoPA pubblicano sui propri siti istituzionali, all'interno della sezione "Amministrazione trasparente - Pagamenti dell'Amministrazione - IBAN e pagamenti informatici" le seguenti informazioni:
-
-- la data di adesione alla piattaforma pagoPA secondo la seguente dicitura “Aderente alla piattaforma pagoPA dal XX.XX.XXXX”;
-    
-- gli altri metodi di pagamento non integrati al sistema pagoPA eventualmente utilizzati, secondo le indicazioni di PagoPA S.p.A.;
-    
-
-I gestori di servizi pubblici, le società a partecipazione pubblica e gli altri enti di diritto privato di cui all’art. 2bis, co. 2 lett. c) e 3, d.lgs. 33/2013, in quanto non tenuti all’uso esclusivo dei servizi di pagamento pagoPA, pubblicano sui propri siti istituzionali, all'interno della sezione "Amministrazione trasparente - Pagamenti dell'Amministrazione - IBAN e pagamenti informatici" le seguenti informazioni:
-
-- la data di adesione alla piattaforma pagoPA secondo la seguente dicitura “Aderente alla piattaforma pagoPA dal XX.XX.XXXX”
-    
-- gli altri metodi di pagamento non integrati al sistema pagoPA eventualmente utilizzati, secondo le indicazioni di PagoPA S.p.A.;
-    
-
-Gli enti pubblici economici di cui all’art. 2 bis, co, 2, lett. a) del d.lgs. 33/2013 non inclusi nell’elenco ISTAT nonché, se non gestori di servizi pubblici, sia le società a partecipazione pubblica, sia gli altri enti di diritto privato di cui all’art. 2bis, co. 2 lett. c) e 3, d.lgs. 33/2013, in quanto non rientranti fra i destinatari delle disposizioni del CAD, pubblicano quanto già indicato da ANAC nell’Allegato 1 alla Delibera 1134/2017, ossia:
-
-1. i codici IBAN identificativi del conto di pagamento ovvero dell'imputazione del versamento in Tesoreria oppure i codici identificativi del conto corrente postale;
-    
-2. i codici identificativi del pagamento da indicare obbligatoriamente per il versamento.
-    
-
-Al fine di evitare che gli utenti possano eseguire dei bonifici non integrati con il sistema pagoPA, è fatto divieto per tutti i soggetti tenuti per legge all’adesione a pagoPA di pubblicare in qualsiasi modo l’IBAN di accredito.
-
-Qualora si sia ancora in attesa dell’integrazione centralizzata con il sistema pagoPA attraverso il servizio di tesoreria della Banca d’Italia e della Ragioneria dello Stato, in via residuale e temporanea, deve essere pubblicato il codice IBAN del conto corrente per la gestione delle entrate, sempre nella sezione indicata in precedenza.
-
-Si segnala inoltre che ai sensi del comma 1 dell’art. 4-bis, del D.lgs. n. 33/2013, l’Agenzia per l’Italia digitale, d’intesa con il Ministero dell’economia e delle finanze, al fine di promuovere l’accesso e migliorare la comprensione dei dati relativi all’utilizzo delle risorse pubbliche, gestisce il sito internet denominato “Soldi pubblici” che consente l’accesso ai dati dei pagamenti delle pubbliche amministrazioni e ne permette la consultazione in relazione alla tipologia di spesa sostenuta e alle amministrazioni che l’hanno effettuata, nonché all’ambito temporale di riferimento. Detto sito e raggiungibile al seguente link: [http://soldipubblici.gov.it/it/home](http://soldipubblici.gov.it/it/home), e attraverso i criteri di ricerca è possibile visualizzare i dati relativi alla propria amministrazione.
+Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempestivamente**, ai sensi dell'art. 8 del D.lgs. n. 33/2013.
