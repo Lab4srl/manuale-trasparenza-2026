@@ -54,4 +54,6 @@ Le informazioni devono essere distinte per destinatario: **cittadini** / **impre
 
 ## Schemi, modelli, fac-simile
 
+[Riferimenti Normativi su Organizzazione e Attività](../assets/documenti/riferimenti_normativi.docx)
+
 [Fac-simile scadenzario obblighi amministrativi](../assets/documenti/facsimile_scadenzario_obblighi.docx)
