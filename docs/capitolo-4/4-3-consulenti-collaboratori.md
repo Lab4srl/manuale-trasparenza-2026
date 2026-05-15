@@ -17,9 +17,7 @@ Le pubblicazioni sono effettuate in formato tabellare come di seguito indicato:
 
 Ricordiamo che si può adempiere al presente obbligo anche attraverso la pubblicazione del **link al sito “[Consulenti pubblici](https://consulentipubblici.dfp.gov.it/){:target="_blank"}” (già PerlaPA)**, avendo l’accortezza di integrare la pubblicazione con l’attestazione dell'avvenuta verifica dell'insussistenza di situazioni, anche potenziali, di conflitto di interesse attraverso la pubblicazione del (vedi Fac simile "Attestazione verifica assenza conflitto di interesse")
 
-[**Fac simile "Dichiarazione punto c) art 15 D Lgs 33/2013"**](../assets/documenti/Fac_simile_dichiarazione_c.docx)
-
-[**Fac simile "Attestazione verifica assenza conflitto di interesse"**](../assets/documenti/Fac_simile_verifica_conflitto_interessi.docx)
+---
 
 ## Devi sapere che
 
@@ -38,3 +36,11 @@ Ricordiamo che si può adempiere al presente obbligo anche attraverso la pubblic
 * **gli incarichi di componente dell’organismi indipendenti di valutazione** di cui all'articolo 14 del decreto legislativo 27 ottobre 2009, n. 150 o di **componente del nucleo di valutazione** non sono ricompresi fra gli incarichi di consulenza e collaborazione e pertanto **non devono essere pubblicati nella presente sezione** (art. 7, comma 6-quater del D.lgs. n. 165/2001)
 
 Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempestivamente**, entro tre mesi dal conferimento dell’incarico e mantenute **per i tre anni successivi** alla cessazione dello stesso ai sensi dell’art. 8 del D.lgs. n. 33/2013.
+
+---
+
+## Schemi, modelli, fac-simile
+
+[**Fac simile "Dichiarazione punto c) art 15 D Lgs 33/2013"**](../assets/documenti/Fac_simile_dichiarazione_c.docx)
+
+[**Fac simile "Attestazione verifica assenza conflitto di interesse"**](../assets/documenti/Fac_simile_verifica_conflitto_interessi.docx)
