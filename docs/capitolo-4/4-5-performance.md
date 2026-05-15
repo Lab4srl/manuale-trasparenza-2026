@@ -8,7 +8,7 @@ Il presente obbligo si trova in “**Amministrazione trasparente**” – “**P
 5. “**Dati relativi ai premi**”
 
 
-## “**Sistema di misurazione e valutazione della performance**”
+## **Sistema di misurazione e valutazione della performance**
 
 Sistema di misurazione e valutazione della Performance di cui all’art. 7 del d.lgs. n. 150/2009.
 
