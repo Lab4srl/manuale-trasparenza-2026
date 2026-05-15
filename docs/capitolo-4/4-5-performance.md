@@ -2,9 +2,13 @@
 
 Il presente obbligo si trova in “**Amministrazione trasparente**” – “**Performance**” e si compone delle seguenti sottosezioni:
 - **Sistema di misurazione e valutazione della performance**
+
 - **Piano della Performance**
+
 - **Relazione sulla Performance**
+
 - **Ammontare complessivo dei premi**
+
 - **Dati relativi ai premi**
 
 ## **Sistema di misurazione e valutazione della performance**
