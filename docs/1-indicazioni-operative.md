@@ -1,1 +1,0 @@
-Prima di esaminare gli specifici obblighi soggetti ad attestazione, oggetto della deliberazione n. 192, si forniscono di seguito alcune indicazioni di carattere generale, utili per lo svolgimento dell’attestazione.
