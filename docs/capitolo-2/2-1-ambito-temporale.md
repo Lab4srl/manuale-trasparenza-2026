@@ -1,4 +1,8 @@
-Come stabilito nel paragrafo 3 della deliberazione dell’ANAC n. 168/2026, nel 2026, al fine di effettuare i controlli sull’adempimento degli obblighi di trasparenza con riferimento al 15 giugno 2026, gli Organismi di valutazione dovranno verificare i dati, documenti e informazioni prodotti, adottati, approvati o da approvare per obbligo normativo o di organizzazione interna entro il 31 dicembre 2025.
+Come stabilito nel paragrafo 3 della deliberazione dell’ANAC n. 168/2026, gli Organismi di valutazione verificheranno l'assolvimento degli obblighi di pubblicazione di pertinenza dell'**anno 2025**, ovvero i dati prodotti, adottati o approvati entro il **31 dicembre 2025**.
+
+Tuttavia, è fondamentale precisare che **l'attestazione deve tener conto dello stato di pubblicazione dei dati alla data del 15 giugno 2026**.
+
+In altri termini, l'OIV deve verificare che alla data del 15 giugno 2026 siano effettivamente pubblicati sul sito istituzionale tutti i documenti che l'amministrazione era tenuta a produrre e pubblicare nel corso dell'intero anno 2025.
 
 Tale ambito temporale di riferimento fa sorgere alcuni dubbi interpretativi con particolare riferimento alla Relazione annuale del RPCT.
 
