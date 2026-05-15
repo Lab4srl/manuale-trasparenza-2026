@@ -6,7 +6,7 @@ Per l'ottenimento del profilo OIV, previa registrazione presso i servizi dell'AN
 
 **Per effettuare la registrazione è necessario avere un indirizzo PEC e conoscere il link alla sezione “Amministrazione trasparente” al quale è stato pubblicato il provvedimento di conferimento dell’incarico.**
 
-Una volta entrati all'interno dei servizi dell'ANAC attraverso l'autenticazione sulla pagina disponibile al seguente link: <https://ww2.anticorruzione.it/idp-sig/>, si devono seguire i seguenti passaggi:
+Una volta entrati all'interno dei servizi dell'ANAC attraverso l'autenticazione sulla pagina disponibile al seguente link: <https://ww2.anticorruzione.it/idp-sig/>{:target="_blank"}, si devono seguire i seguenti passaggi:
 
 1. Nella home page del proprio profilo, cliccare sul pulsante "**Crea nuovo profilo**";
 2. Nella pagina seguente dal menù a tendina selezionare "**AMMINISTRAZIONE O SOGGETTO AGGIUDICATORE**", quindi, nell'elenco che compare in basso, spuntare "**OIV**";
@@ -21,7 +21,7 @@ In caso di avvicendamento nel ruolo di OIV, è sufficiente che il soggetto suben
 
 Per accedere alla piattaforma per effettuare la verifica e aggiornamento dell'attestazione sul rispetto degli obblighi di trasparenza recarsi al seguente link
 
-[https://sso.anticorruzione.it/auth/realms/anac/protocol/openid-connect/auth?client\_id=attestazioni-oiv&redirect\_uri=https%3A%2F%2Fattestazioni-oiv.anticorruzione.it%2F&state=54080c3b-d72d-474c-93d1-f868119836ae&response\_mode=fragment&response\_type=code&sc](https://sso.anticorruzione.it/auth/realms/anac/protocol/openid-connect/auth?client_id=attestazioni-oiv&redirect_uri=https%3A%2F%2Fattestazioni-oiv.anticorruzione.it%2F&state=54080c3b-d72d-474c-93d1-f868119836ae&response_mode=fragment&response_type=code&scope=openid&nonce=93d45f36-1d20-499c-82f7-96e558ab5ae7)
+[**Applicativo web**](https://sso.anticorruzione.it/auth/realms/anac/protocol/openid-connect/auth?client_id=attestazioni-oiv&redirect_uri=https%3A%2F%2Fattestazioni-oiv.anticorruzione.it%2F&state=54080c3b-d72d-474c-93d1-f868119836ae&response_mode=fragment&response_type=code&scope=openid&nonce=93d45f36-1d20-499c-82f7-96e558ab5ae7){:target="_blank"}
 
 All'accesso è visibile l'elenco delle amministrazioni per le quali si è accreditati come Organismo di valutazione.
 

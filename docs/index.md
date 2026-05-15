@@ -4,7 +4,7 @@ Il **15 aprile 2026** il Consiglio dell’ANAC ha adottato la **deliberazione n.
 
 Si riporta di seguito il link alla citata deliberazione ANAC.
 
-[Delibera n. 168 del 15 aprile 2026](https://www.anticorruzione.it/-/delibera-n.-168-del-15-aprile-2026)
+[Delibera n. 168 del 15 aprile 2026](https://www.anticorruzione.it/-/delibera-n.-168-del-15-aprile-2026){:target="_blank"}
 
 Il presente manuale intende offrire un’analisi degli obblighi di pubblicazione soggetti ad attestazione, tabelle, schemi e raccomandazioni in merito alle modalità e ai contenuti oggetto di attestazione.
 
@@ -12,6 +12,6 @@ L’analisi complessiva e gli specifici approfondimenti sono stati redatti attra
 
 A cura di
 
-Alessia Adamo
-Alessandro Gasbarri
-Michele Solla
+- Alessia Adamo
+- Alessandro Gasbarri
+- Michele Solla
