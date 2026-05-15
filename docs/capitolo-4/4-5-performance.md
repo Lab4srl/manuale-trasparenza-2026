@@ -12,12 +12,9 @@ Il presente obbligo si trova in “**Amministrazione trasparente**” – “**P
 
 - **Dati relativi ai premi**
 
-> [!NOTE]
-> Ai sensi dell'art. 18 del D.lgs. n. 97/2016, la sezione denominata "Benessere Organizzativo" è stata abrogata
+Ai sensi dell'art. 18 del D.lgs. n. 97/2016, la sezione denominata "Benessere Organizzativo" è stata abrogata.
  
-
-> [!NOTE]
-> Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempestivamente**, ai sensi dell’art. 8 del D.lgs. n. 33/2013. 
+Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempestivamente**, ai sensi dell’art. 8 del D.lgs. n. 33/2013. 
 
 ---
 

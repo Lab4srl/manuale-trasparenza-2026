@@ -1,3 +1,5 @@
+## Contenuto dell'obbligo
+
 Il presente obbligo si trova in “**Amministrazione trasparente**” – “**Disposizioni generali**” e si compone delle seguenti sottosezioni:
 
 1. Piano triennale per la prevenzione della corruzione e della trasparenza
@@ -9,11 +11,11 @@ Il presente obbligo si trova in “**Amministrazione trasparente**” – “**D
 
 Ai seni del D.lgs. n. 97/2016, la sottosezione “Burocrazia zero” è stata soppressa.
 
-**Piano triennale per la prevenzione della corruzione e della trasparenza**
+Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempestivamente**, ai sensi dell’art. 8 del D.lgs. n. 33/2013.
 
-Con riferimento al Piano Triennale per la Prevenzione della Corruzione e della Trasparenza, oggi confluito all’interno del PIAO, ai sensi dell’art. 1, comma 1 lettera e) del DPR n. 81/2022, l’aggiornamento deve essere effettuato annualmente mediante un link che rimanda alla sezione "Amministrazione trasparente" – "Altri contenuti" - "Prevenzione della corruzione".
+Ai sensi della deliberazione dell'ANAC n. 168/2026, sono soggetti ad attestazione solamente gli obblighi di cui all'art. 12 del D.lgs. n. 33/2013.
 
-**Atti generali**
+## Atti generali
 
 In particolare, l’art.12, co. 1, oltre a quanto già previsto in precedenza, dispone la pubblicazione di ogni atto – sia esso espressamente previsto da una norma di legge sia che venga adottato nell’esercizio di un autonomo potere amministrativo o gestionale, come precisato dal legislatore nel 2016 - che riguardi l’organizzazione, le funzioni, gli obiettivi, i procedimenti, l’interpretazione di disposizioni di legge che incidono sull’attività dell’amministrazione/ente e i codici di condotta.
 
@@ -38,11 +40,11 @@ Si riporta di seguito un elenco dei principali atti amministrativi da pubblicare
 
 Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempestivamente**, ai sensi dell’art. 8 del D.lgs. n. 33/2013.
 
-**Oneri informativi per cittadini e imprese**
+## Oneri informativi per cittadini e imprese
 
 Ai sensi dell'art. 29, comma 1 del DL n. 69/2913, convertito in Legge n. 98/2013, il presente obbligo richiede la pubblicazione dello scadenzario con l'indicazione delle date di efficacia dei nuovi obblighi amministrativi a carico di cittadini e imprese introdotti dalle amministrazioni secondo le modalità definite con [DPCM 8 novembre 2013](https://www.gazzettaufficiale.it/eli/id/2013/12/20/13A10299/sg).
 
-In merito all’applicabilità dell’obbligo di pubblicazione agli Enti Locali si evidenzia un problema di coordinamento fra le norme, infatti l’art. 1, comma 2 del DPCM 8 novembre 2013, stabilisce che il presente obbligo si applica a tutte le amministrazioni di cui all’art. 11, comma 1 del D.lgs. n. 33/2013, articolo abrogato dal D.lgs. n. 97/2016.
+In merito all’applicabilità dell’obbligo di pubblicazione agli Enti Locali si evidenzia un problema di coordinamento fra le norme. Infatti l’art. 1, comma 2 del DPCM 8 novembre 2013, stabilisce che il presente obbligo si applica a tutte le amministrazioni di cui all’art. 11, comma 1 del D.lgs. n. 33/2013, articolo abrogato dal D.lgs. n. 97/2016.
 
 Ai sensi dell'art. 29, comma 2, del decreto-legge 21 giugno 2013, n. 69, per obbligo amministrativo si intende qualunque adempimento, comportante raccolta, elaborazione, trasmissione, conservazione e produzione di informazioni e documenti, cui cittadini e imprese sono tenuti nei confronti della pubblica amministrazione.
 
@@ -58,5 +60,3 @@ Per ciascun nuovo obbligo amministrativo sono indicati i seguenti dati:
     
 
 Ai sensi dell’art. 2, comma 1 del DPCM 8 novembre 2013, per facilitare l'accesso ai contenuti dei nuovi obblighi amministrativi, le informazioni di cui al precedente elenco sono distinte tra quelle che hanno per destinatari i cittadini e quelle che hanno come destinatari le imprese, e organizzate in successione temporale secondo la data d'inizio dell'efficacia degli obblighi stessi.
-
-Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempestivamente**, ai sensi dell’art. 8 del D.lgs. n. 33/2013.
