@@ -11,3 +11,14 @@ La lettera l-ter) del medesimo art. 1 definisce, inoltre, come dati di tipo aper
 Pertanto, a norma di legge è esclusa la pubblicazione di formati proprietari, in sostituzione dei quali è possibile utilizzare sia software Open Source (quali ad esempio OpenOffice) sia formati aperti (quali, ad esempio, .rtf per i documenti di testo e .csv per i fogli di calcolo).
 
 Con riferimento al formato PDF, il suo impiego è ammesso esclusivamente nelle versioni che consentano l’archiviazione a lungo termine e indipendenti dal software utilizzato, quale il formato PDF/A i cui dati sono elaborabili, mentre il ricorso al file PDF in formato immagine, con la scansione digitale di documenti cartacei, non assicura che le informazioni siano elaborabili.
+
+### Indicazioni operative per la verifica degli standard (Delibera ANAC n. 495/2024)
+
+Per l'attestazione 2026, l'Autorità ha introdotto una specifica **Verifica di conformità agli standard** basata sulla delibera n. 495/2024. Le opzioni di giudizio previste per l'OIV sono:
+
+*   **Piena conformità**: i dati sono esposti tramite formati aperti e strutturati mediante tabelle web che integrano tutti i metadati obbligatori previsti dagli allegati tecnici della Delibera n. 495/2024; il dato è immediatamente leggibile e acquisibile in modo automatizzato.
+*   **Conformità parziale**: i dati sono pubblicati in formato elaborabile (es. tabelle Excel, file CSV o tabelle HTML semplici), ma risultano carenti sotto il profilo della strutturazione dei metadati.
+*   **Non conformità**: i dati sono pubblicati esclusivamente in formati non strutturati (es. file PDF, scansioni di documenti cartacei o testi liberi); il dato è "chiuso" e non consente alcuna estrazione automatizzata.
+
+Si ricorda che, sebbene questa verifica abbia natura ricognitiva per il 2026, essa rappresenta lo standard verso cui tutte le amministrazioni devono tendere per garantire la piena fruibilità dei dati.
+
