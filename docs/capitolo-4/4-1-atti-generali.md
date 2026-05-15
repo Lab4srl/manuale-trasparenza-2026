@@ -12,22 +12,32 @@ Ai sensi del D.lgs. n. 97/2016, la sottosezione “Burocrazia zero” è stata s
 L'ente deve pubblicare ogni atto (previsto da norma di legge o adottato nell'esercizio di autonomo potere amministrativo/gestionale) riguardante l'organizzazione, le funzioni, gli obiettivi, i procedimenti, l'interpretazione di disposizioni di legge e i codici di condotta.
 
 **Elenco dei principali atti da pubblicare:**
-*   **Riferimenti normativi**: Link alle singole norme statali sul portale "[Normattiva](https://www.normattiva.it){:target="_blank"}" che regolano l'istituzione, l'organizzazione e l'attività dell'ente.
-*   **Atti di indirizzo e programmazione**: Direttive, circolari, programmi, istruzioni, atti organizzativi, obiettivi strategici in materia di prevenzione corruzione e trasparenza (es. documenti di programmazione, direttive ministeriali).
-*   **Piano Integrato di Attività e Organizzazione (PIAO)**.
-*   **Statuti e norme regionali**: Testi ufficiali e aggiornati che regolano funzioni, organizzazione e attività di competenza dell'amministrazione.
-*   **Manuale di gestione**: Protocollo informatico, flussi documentali, archivi e conservazione (art. 5, co. 3, DPCM 3 dicembre 2013).
-*   **Codice disciplinare**: Infrazioni e sanzioni (pubblicazione online in alternativa all'affissione in luogo accessibile - art. 7, L. 300/1970).
-*   **Codice di comportamento**: (ex Codice di condotta).
+- **Riferimenti normativi**: Link alle singole norme statali sul portale "[Normattiva](https://www.normattiva.it){:target="_blank"}" che regolano l'istituzione, l'organizzazione e l'attività dell'ente.
+
+- **Atti di indirizzo e programmazione**: Direttive, circolari, programmi, istruzioni, atti organizzativi, obiettivi strategici in materia di prevenzione corruzione e trasparenza (es. documenti di programmazione, direttive ministeriali).
+
+- **Piano Integrato di Attività e Organizzazione (PIAO)**.
+
+- **Statuti e norme regionali**: Testi ufficiali e aggiornati che regolano funzioni, organizzazione e attività di competenza dell'amministrazione.
+
+- **Manuale di gestione**: Protocollo informatico, flussi documentali, archivi e conservazione (art. 5, co. 3, DPCM 3 dicembre 2013).
+
+- **Codice disciplinare**: Infrazioni e sanzioni (pubblicazione online in alternativa all'affissione in luogo accessibile - art. 7, L. 300/1970).
+
+- **Codice di comportamento**: (ex Codice di condotta).
 
 **Oneri informativi per cittadini e imprese (Art. 29, D.lgs. n. 33/2013)**
 Pubblicazione dello scadenzario con le date di efficacia dei nuovi obblighi amministrativi, secondo il [DPCM 8 novembre 2013](https://www.gazzettaufficiale.it/eli/id/2013/12/20/13A10299/sg){:target="_blank"}.
 
 **Dati da pubblicare per ciascun nuovo obbligo:**
-*   Denominazione.
-*   Sintesi o descrizione del contenuto.
-*   Riferimento normativo.
-*   Collegamento alla pagina contenente le informazioni sull'adempimento e sul procedimento.
+
+- Denominazione.
+
+- Sintesi o descrizione del contenuto.
+
+- Riferimento normativo.
+
+- Collegamento alla pagina contenente le informazioni sull'adempimento e sul procedimento.
 
 [Fac-simile scadenzario obblighi amministrativi](../assets/documenti/facsimile_scadenzario_obblighi.docx)
 
