@@ -13,7 +13,17 @@ Sistema di misurazione e valutazione della Performance di cui all’art. 7 del d
 
 ## **Piano della Performance**
 
-In conseguenza dell’introduzione nel nostro ordinamento del Piano Integrato di Attività e Organizzazione (PIAO), ad opera dell’art. 6, comma 1 del decreto legge 9 giugno 2021, n. 80, convertito, con modificazioni, in legge 6 agosto 2021, n. 113, e dell’abrogazione operata dal combinato disposto dell’art. 1, comma 1 e dell’art. 2, comma 1, del Decreto del Presidente della Repubblica n. 81 del 30 giugno 2022, che ha disposto che nelle Amministrazioni con più di 50 dipendenti, il Piano della Performance, di cui all’art. 10, comma 1, lett. a) e comma 1-ter del d.lgs. 27 ottobre 2009, n. 150, è assorbito nella apposita sezioni del Piano integrato di attività e organizzazione, come individuata dal Decreto del Ministro per la Pubblica Amministrazione n. 132 del 30 giugno 2022, che ha approvato la struttura e le modalità redazionali del PIAO, **nella presente sotto sezione deve essere pubblicato il Piano Integrato di Attività e Organizzazione**. In aggiunta a ciò, a seguito dell’abrogazione del terzo periodo dell’art. 169, comma 3-bis del decreto legislativo 18 agosto 2000, n. 267, che recitava “Il piano dettagliato degli obiettivi di cui all'art. 108, comma 1, del presente testo unico e il piano della performance di cui all'art. 10 del decreto legislativo 27 ottobre 2009, n. 150, sono unificati organicamente nel PEG.”, che ha stabilito la separazione fra il Piano Esecutivo di Gestione ed il PIAO, **nella presente sotto sezione deve essere pubblicato anche il Piano Esecutivo di Gestione**.
+L'obbligo di pubblicazione in questa sezione è stato profondamente innovato dall'introduzione del **Piano Integrato di Attività e Organizzazione (PIAO)**.
+
+### **Cosa pubblicare**
+*   **Piano Integrato di Attività e Organizzazione (PIAO)**: Per le Amministrazioni con più di 50 dipendenti, il Piano della Performance (ex art. 10, d.lgs. 150/2009) è assorbito nel PIAO.
+*   **Piano Esecutivo di Gestione (PEG)**: Per gli Enti Locali, deve essere pubblicato separatamente dal PIAO a seguito della separazione organica tra i due documenti.
+
+### **Riferimenti Normativi**
+*   **D.L. n. 80/2021 (art. 6, comma 1)**: Introduzione del PIAO nell'ordinamento.
+*   **D.P.R. n. 81/2022 (art. 1, comma 1 e art. 2, comma 1)**: Dispone l'assorbimento del Piano della Performance nel PIAO per le amministrazioni con oltre 50 dipendenti.
+*   **D.M. n. 132/2022**: Definisce la struttura e le modalità redazionali del PIAO.
+*   **Art. 169, comma 3-bis, d.lgs. 267/2000 (TUEL)**: La modifica normativa ha stabilito la separazione tra il Piano dettagliato degli obiettivi (unificato nel PEG) e il PIAO, rendendo necessaria la pubblicazione di entrambi.
 
 ## **Relazione sulla Performance**
 
