@@ -1,62 +1,43 @@
-## Contenuto dell'obbligo
+## Contenuti dell'obbligo
 
 Il presente obbligo si trova in “**Amministrazione trasparente**” – “**Disposizioni generali**” e si compone delle seguenti sottosezioni:
 
-1. Piano triennale per la prevenzione della corruzione e della trasparenza
-    
-2. Atti generali
-    
-3. Oneri informativi per cittadini e imprese
-    
+1. **Piano triennale per la prevenzione della corruzione e della trasparenza**
+2. **Atti generali**
+3. **Oneri informativi per cittadini e imprese**
 
-Ai seni del D.lgs. n. 97/2016, la sottosezione “Burocrazia zero” è stata soppressa.
+Ai sensi del D.lgs. n. 97/2016, la sottosezione “Burocrazia zero” è stata soppressa.
 
-Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempestivamente**, ai sensi dell’art. 8 del D.lgs. n. 33/2013.
+### **Atti generali (Art. 12, D.lgs. n. 33/2013)**
+L'ente deve pubblicare ogni atto (previsto da norma di legge o adottato nell'esercizio di autonomo potere amministrativo/gestionale) riguardante l'organizzazione, le funzioni, gli obiettivi, i procedimenti, l'interpretazione di disposizioni di legge e i codici di condotta.
 
-Ai sensi della deliberazione dell'ANAC n. 168/2026, sono soggetti ad attestazione solamente gli obblighi di cui all'art. 12 del D.lgs. n. 33/2013.
+**Elenco dei principali atti da pubblicare:**
+*   **Riferimenti normativi**: Link alle norme statali (portale "Normattiva") che regolano l'istituzione, l'organizzazione e l'attività dell'ente.
+*   **Atti di indirizzo e programmazione**: Direttive, circolari, programmi, istruzioni, atti organizzativi, obiettivi strategici in materia di prevenzione corruzione e trasparenza (es. documenti di programmazione, direttive ministeriali).
+*   **Piano Integrato di Attività e Organizzazione (PIAO)**.
+*   **Statuti e norme regionali**: Testi ufficiali e aggiornati che regolano funzioni, organizzazione e attività di competenza dell'amministrazione.
+*   **Manuale di gestione**: Protocollo informatico, flussi documentali, archivi e conservazione (art. 5, co. 3, DPCM 3 dicembre 2013).
+*   **Codice disciplinare**: Infrazioni e sanzioni (pubblicazione online in alternativa all'affissione in luogo accessibile - art. 7, L. 300/1970).
+*   **Codice di comportamento**: (ex Codice di condotta).
 
-## Atti generali
+### **Oneri informativi per cittadini e imprese (Art. 29, D.lgs. n. 33/2013)**
+Pubblicazione dello scadenzario con le date di efficacia dei nuovi obblighi amministrativi, secondo il [DPCM 8 novembre 2013](https://www.gazzettaufficiale.it/eli/id/2013/12/20/13A10299/sg).
 
-In particolare, l’art.12, co. 1, oltre a quanto già previsto in precedenza, dispone la pubblicazione di ogni atto – sia esso espressamente previsto da una norma di legge sia che venga adottato nell’esercizio di un autonomo potere amministrativo o gestionale, come precisato dal legislatore nel 2016 - che riguardi l’organizzazione, le funzioni, gli obiettivi, i procedimenti, l’interpretazione di disposizioni di legge che incidono sull’attività dell’amministrazione/ente e i codici di condotta.
+**Dati da pubblicare per ciascun nuovo obbligo:**
+*   Denominazione.
+*   Sintesi o descrizione del contenuto.
+*   Riferimento normativo.
+*   Collegamento alla pagina contenente le informazioni sull'adempimento e sul procedimento.
 
-Si riporta di seguito un elenco dei principali atti amministrativi da pubblicare nella presente sottosezione:
+[Fac-simile scadenzario obblighi amministrativi](../assets/documenti/facsimile_scadenzario_obblighi.docx)
 
-- Riferimenti normativi con i relativi link alle norme di legge statale pubblicate nella banca dati "Normattiva" che regolano l'istituzione, l'organizzazione e l'attività delle pubbliche amministrazioni;
-    
-- Direttive, circolari, programmi, istruzioni e ogni atto che dispone in generale sulla organizzazione, sulle funzioni, sugli obiettivi, sui procedimenti, ovvero nei quali si determina l'interpretazione di norme giuridiche che riguardano o dettano disposizioni per l'applicazione di esse;
-    
-- Direttive Ministri, documento di programmazione, obiettivi strategici in materia di prevenzione della corruzione e trasparenza;
-    
-- Piano Integrato di Attività e Organizzazione;
-    
-- Estremi e testi ufficiali aggiornati degli Statuti e delle norme di legge regionali, che regolano le funzioni, l'organizzazione e lo svolgimento delle attività di competenza dell'amministrazione;
-    
-- Manuale di gestione del protocollo informatico, dei flussi documentali, degli archivi e della conservazione, la cui pubblicazione sul sito istituzionale è espressamente prevista dall’art. 5 co. 3 del DPCM 3 dicembre 2013 recante le regole tecniche per il protocollo informatico ai sensi degli articoli 40 -bis, 41, 47, 57 -bis e 71, del Codice dell’amministrazione digitale di cui al decreto legislativo n. 82 del 2005
-    
-- Codice disciplinare, recante l'indicazione delle infrazioni del codice disciplinare e relative sanzioni (pubblicazione on line in alternativa all'affissione in luogo accessibile a tutti - art. 7, l. n. 300/1970)
-    
-- Codice di condotta inteso quale codice di comportamento
-    
+Le informazioni devono essere distinte tra destinatari cittadini e imprese, organizzate in successione temporale (data inizio efficacia).
 
-Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempestivamente**, ai sensi dell’art. 8 del D.lgs. n. 33/2013.
+---
 
-## Oneri informativi per cittadini e imprese
+## Devi sapere che
 
-Ai sensi dell'art. 29, comma 1 del DL n. 69/2913, convertito in Legge n. 98/2013, il presente obbligo richiede la pubblicazione dello scadenzario con l'indicazione delle date di efficacia dei nuovi obblighi amministrativi a carico di cittadini e imprese introdotti dalle amministrazioni secondo le modalità definite con [DPCM 8 novembre 2013](https://www.gazzettaufficiale.it/eli/id/2013/12/20/13A10299/sg).
-
-In merito all’applicabilità dell’obbligo di pubblicazione agli Enti Locali si evidenzia un problema di coordinamento fra le norme. Infatti l’art. 1, comma 2 del DPCM 8 novembre 2013, stabilisce che il presente obbligo si applica a tutte le amministrazioni di cui all’art. 11, comma 1 del D.lgs. n. 33/2013, articolo abrogato dal D.lgs. n. 97/2016.
-
-Ai sensi dell'art. 29, comma 2, del decreto-legge 21 giugno 2013, n. 69, per obbligo amministrativo si intende qualunque adempimento, comportante raccolta, elaborazione, trasmissione, conservazione e produzione di informazioni e documenti, cui cittadini e imprese sono tenuti nei confronti della pubblica amministrazione.
-
-Per ciascun nuovo obbligo amministrativo sono indicati i seguenti dati:
-
-- denominazione;
-    
-- sintesi o breve descrizione del suo contenuto;
-    
-- riferimento normativo;
-    
-- collegamento alla pagina del sito contenente le informazioni sull'adempimento dell'obbligo e sul procedimento.
-    
-
-Ai sensi dell’art. 2, comma 1 del DPCM 8 novembre 2013, per facilitare l'accesso ai contenuti dei nuovi obblighi amministrativi, le informazioni di cui al precedente elenco sono distinte tra quelle che hanno per destinatari i cittadini e quelle che hanno come destinatari le imprese, e organizzate in successione temporale secondo la data d'inizio dell'efficacia degli obblighi stessi.
+*   **Attestazioni OIV**: Ai sensi della delibera ANAC n. 168/2026, sono soggetti ad attestazione solamente gli obblighi di cui all'art. 12 del D.lgs. n. 33/2013 (Atti generali).
+*   **Aggiornamenti**: Tutte le pubblicazioni devono essere effettuate **tempestivamente**, ai sensi dell'art. 8 del D.lgs. n. 33/2013.
+*   **Applicabilità agli Enti Locali (Oneri Informativi)**: Esiste un problema di coordinamento normativo. L'art. 1, comma 2 del DPCM 8 novembre 2013 fa riferimento all'art. 11, comma 1 del D.lgs. n. 33/2013, norma abrogata dal D.lgs. n. 97/2016.
+*   **Definizione di Obbligo Amministrativo**: Qualunque adempimento (raccolta, elaborazione, trasmissione, conservazione, produzione di documenti) cui cittadini e imprese sono tenuti nei confronti della PA (art. 29, co. 2, DL n. 69/2013).
