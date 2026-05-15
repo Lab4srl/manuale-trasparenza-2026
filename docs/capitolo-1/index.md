@@ -5,8 +5,8 @@ Prima di esaminare gli specifici obblighi soggetti ad attestazione, oggetto dell
 ## Indice del capitolo
 
 - **1. Indicazioni operative per le Amministrazioni e gli Enti per lo svolgimento dell’attestazione**
-    - [Introduzione](capitolo-1/index.md)
-    - [1.1 Dati non pubblicabili, eccezioni e specificità nella pubblicazione](capitolo-1/1-1-dati-non-pubblicabili.md)
-    - [1.2 Aggiornamento delle pubblicazioni](capitolo-1/1-2-aggiornamento-pubblicazioni.md)
-    - [1.3 Durata delle pubblicazioni](capitolo-1/1-3-durata-pubblicazioni.md)
-    - [1.4 Formato aperto dei dati](capitolo-1/1-4-formato-aperto.md)
+    - [Introduzione](index.md)
+    - [1.1 Dati non pubblicabili, eccezioni e specificità nella pubblicazione](1-1-dati-non-pubblicabili.md)
+    - [1.2 Aggiornamento delle pubblicazioni](1-2-aggiornamento-pubblicazioni.md)
+    - [1.3 Durata delle pubblicazioni](1-3-durata-pubblicazioni.md)
+    - [1.4 Formato aperto dei dati](1-4-formato-aperto.md)

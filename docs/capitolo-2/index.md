@@ -24,6 +24,6 @@ L’applicazione consente, all’utente OIV:
 ## Indice del capitolo
 
 - **2. Indicazioni operative per gli Organismi di valutazione per lo svolgimento dell’attestazione**
-    - [Introduzione](capitolo-2/index.md)
-    - [2.1 Ambito temporale di riferimento degli obblighi di pubblicazione oggetto di attestazione](capitolo-2/2-1-ambito-temporale.md)
-    - [2.2 Applicativo web](capitolo-2/2-2-applicativo-web.md)
+    - [Introduzione](index.md)
+    - [2.1 Ambito temporale di riferimento degli obblighi di pubblicazione oggetto di attestazione](2-1-ambito-temporale.md)
+    - [2.2 Applicativo web](2-2-applicativo-web.md)

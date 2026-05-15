@@ -33,7 +33,6 @@ A cura di
     - [2.2 Applicativo web](capitolo-2/2-2-applicativo-web.md)
 - [**3. Attività di controllo interno sul corretto assolvimento degli obblighi di pubblicazione e successivo monitoraggio**](capitolo-3/index.md)
 - **4. Tabelle, schemi e indicazioni operative per assolvere correttamente agli obblighi di pubblicazione oggetto di attestazione per l’anno 2025**
-    - [Introduzione](capitolo-4/index.md)
     - [4.1 Atti generali (art. 12)](capitolo-4/4-1-atti-generali.md)
     - [4.2 Organizzazione (art. 13 e art. 14)](capitolo-4/4-2-organizzazione.md)
     - [4.3 Consulenti e collaboratori (art. 15)](capitolo-4/4-3-consulenti-collaboratori.md)
