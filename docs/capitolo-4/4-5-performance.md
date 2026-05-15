@@ -12,6 +12,13 @@ Il presente obbligo si trova in “**Amministrazione trasparente**” – “**P
 
 - **Dati relativi ai premi**
 
+> [!NOTE]
+> Ai sensi dell'art. 18 del D.lgs. n. 97/2016, la sezione denominata "Benessere Organizzativo" è stata abrogata
+ 
+
+> [!NOTE]
+> Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempestivamente**, ai sensi dell’art. 8 del D.lgs. n. 33/2013. 
+
 ---
 
 ## **Sistema di misurazione e valutazione della performance**
@@ -72,6 +79,3 @@ Ai sensi dell’art. 20, comma 2 del D.lgs. n. 33/2013, le pubbliche amministraz
 
 [Fac-simile per la pubblicazione dei dati relativi ai premi](../assets/documenti/dati_premi.docx)
 
-L’ultima sottosezione relativa al presente obbligo, denominata “**Benessere organizzativo**”, è stata abrogata ad opera dell’art. 19 del D.lgs. n. 97/2016.
-
-Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempestivamente**, ai sensi dell’art. 8 del D.lgs. n. 33/2013.
