@@ -2,6 +2,12 @@
 
 Gli schemi standard di pubblicazione sono **modelli** creati per **uniformare e semplificare** il modo in cui le pubbliche amministrazioni presentano le informazioni nella sezione "Amministrazione Trasparente" dei loro siti web. Invece di lasciare che ogni amministrazione decida autonomamente come strutturare e presentare i dati, questi schemi offrono un **formato predefinito** da rispettare.
 
+Si riportano di seguito i link a tutte le deliberazioni adottate ad oggi dall'ANAC in materia di schemi standard:
+
+- [Delibera n. 495 del 25 settembre 2024](https://www.anticorruzione.it/-/delibera-n.-495-del-25-settembre-2024){:target="_blank"}
+- [Delibera n. 481 del 3 dicembre 2025](https://www.anticorruzione.it/-/del.481.2025){:target="_blank"}
+- [Delibera n. 497 del 3 dicembre 2025](https://www.anticorruzione.it/-/del.497.2025){:target="_blank"}
+
 La **composizione** tipica di uno schema standard include diversi elementi:
 
 * **Sezione**: Identifica la specifica sezione all’interno di “Amministrazione trasparente”
@@ -45,7 +51,7 @@ Il RPCT tiene conto di tali segnalazioni nel monitoraggio della sezione “Ammin
 
 ## Strumenti di monitoraggio
 
-L'Allegato 4 ("Istruzioni operative per una corretta attuazione degli obblighi di pubblicazione ex d.lgs. 33/2013") alla deliberazione dell'ANAC n. 495/2024, come integrato e modificato dall'allegato 3 alla deliberazione dell'ANAC n. 497/2025, descrive il processo di monitoraggio, sulla pubblicazione dei dati per garantire la corretta attuazione degli obblighi di trasparenza e poter intraprendere le iniziative adeguate e porre in atto i rimedi necessari in caso di inadempimento.
+L'Allegato 4 ("Istruzioni operative per una corretta attuazione degli obblighi di pubblicazione ex d.lgs. 33/2013") alla deliberazione dell'ANAC n. 495/2024, come integrato e modificato dall'allegato 3 alla deliberazione dell'ANAC n. 481/2025, descrive il processo di monitoraggio, sulla pubblicazione dei dati per garantire la corretta attuazione degli obblighi di trasparenza e poter intraprendere le iniziative adeguate e porre in atto i rimedi necessari in caso di inadempimento.
 
 Il monitoraggio deve essere adeguatamente pianificato nella sottosezione dedicata alla trasparenza all’interno della sezione “Rischi corruttivi e Trasparenza” del Piano Integrato di Attività e Organizzazione (PIAO). Questa pianificazione definisce:
 
