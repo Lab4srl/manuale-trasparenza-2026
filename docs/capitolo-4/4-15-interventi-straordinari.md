@@ -22,4 +22,4 @@ Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempest
 
 ## Schemi standard
 
-[Allegato 14 alla deliberazione ANAC n. 495/2024](../assets/documenti/schema_interventi_strairdinari.pdf){:target="_blank"}
+[Allegato 14 alla deliberazione ANAC n. 495/2024](../assets/documenti/schema_interventi_straordinari.pdf){:target="_blank"}
