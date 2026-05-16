@@ -26,8 +26,8 @@ L'ente deve pubblicare ogni atto (previsto da norma di legge o adottato nell'ese
 
 - **Codice di comportamento**: (ex Codice di condotta).
 
-**Oneri informativi per cittadini e imprese (Art. 29, D.lgs. n. 33/2013)**
-Pubblicazione dello scadenzario con le date di efficacia dei nuovi obblighi amministrativi, secondo il [DPCM 8 novembre 2013](https://www.gazzettaufficiale.it/eli/id/2013/12/20/13A10299/sg){:target="_blank"}.
+**Oneri informativi per cittadini e imprese (Art. 12, co. 1-bis, D.lgs. n. 33/2013)**
+Pubblicazione dello scadenzario con le date di efficacia dei nuovi obblighi amministrativi introdotti a carico di cittadini e imprese, secondo il [DPCM 8 novembre 2013](https://www.gazzettaufficiale.it/eli/id/2013/12/20/13A10299/sg){:target="_blank"} e le [FAQ ANAC sullo scadenzario dei nuovi obblighi amministrativi](https://www.anticorruzione.it/-/obblighi.amministrativi.art.12.co.1-bis){:target="_blank"}.
 
 **Dati da pubblicare per ciascun nuovo obbligo:**
 
@@ -47,7 +47,8 @@ Le informazioni devono essere distinte per destinatario: **cittadini** / **impre
 
 *   **Attestazioni OIV**: Ai sensi della delibera ANAC n. 168/2026, sono soggetti ad attestazione solamente gli obblighi di cui all'art. 12 del D.lgs. n. 33/2013 (Atti generali).
 *   **Aggiornamenti**: Tutte le pubblicazioni devono essere effettuate **tempestivamente**, ai sensi dell'art. 8 del D.lgs. n. 33/2013.
-*   **Applicabilità agli Enti Locali (Oneri Informativi)**: Esiste un problema di coordinamento normativo. L'art. 1, comma 2 del DPCM 8 novembre 2013 fa riferimento all'art. 11, comma 1 del D.lgs. n. 33/2013, norma abrogata dal D.lgs. n. 97/2016.
+*   **Soggetti tenuti allo scadenzario**: Le FAQ ANAC chiariscono che l'obbligo riguarda le amministrazioni indicate dall'art. 2-bis, co. 1, del D.lgs. n. 33/2013, cioè le amministrazioni di cui all'art. 1, co. 2, del D.lgs. n. 165/2001, comprese autorità portuali e autorità amministrative indipendenti di garanzia, vigilanza e regolazione.
+*   **Comunicazione al Dipartimento della funzione pubblica**: Oltre alla pubblicazione in “Amministrazione trasparente”, devono comunicare gli scadenzari al DFP, per la pubblicazione dello scadenzario riepilogativo, solo le amministrazioni dello Stato, gli enti pubblici nazionali e le agenzie di cui al D.lgs. n. 300/1999.
 *   **Definizione di Obbligo Amministrativo**: Qualunque adempimento (raccolta, elaborazione, trasmissione, conservazione, produzione di documenti) cui cittadini e imprese sono tenuti nei confronti della PA (art. 29, co. 2, DL n. 69/2013).
 
 ---
