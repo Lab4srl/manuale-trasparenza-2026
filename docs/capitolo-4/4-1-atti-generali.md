@@ -58,3 +58,9 @@ Le informazioni devono essere distinte per destinatario: **cittadini** / **impre
 [Riferimenti Normativi su Organizzazione e Attività](../assets/documenti/riferimenti_normativi.docx)
 
 [Fac-simile scadenzario obblighi amministrativi](../assets/documenti/facsimile_scadenzario_obblighi.docx)
+
+---
+
+## Schemi standard
+
+[Allegato 5 alla deliberazione ANAC n. 495/2024](../assets/documenti/schema_atti_generali.pdf){:target="_blank"}

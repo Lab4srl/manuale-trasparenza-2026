@@ -21,6 +21,8 @@ Con riferimento alle **tipologie di procedimento**, l'elenco deve contenere le s
 | 10 | Le modalità per l'effettuazione dei pagamenti eventualmente necessari, con le informazioni di cui all'art. 36 del D.lgs. n. 33/2013 |
 | 11 | Il nome del soggetto a cui è attribuito, in caso di inerzia, il potere sostitutivo, le modalità per attivarlo e i relativi recapiti |
 
+---
+
 ## Devi sapere che
 
 * gli obblighi di pubblicazione relativi alle tipologie di procedimento sono disciplinati dall'art. 35, comma 1 del D.lgs. n. 33/2013; quelli relativi alle dichiarazioni sostitutive e all'acquisizione d'ufficio dei dati dall'art. 35, comma 3 del medesimo decreto
@@ -37,3 +39,9 @@ Con riferimento alle **tipologie di procedimento**, l'elenco deve contenere le s
 [Schema di pubblicazione – Tipologie di procedimento](../assets/documenti/schema_tipologie_procedimento.xlsx)
 
 [FAQ ANAC – Obblighi di pubblicazione concernenti i procedimenti amministrativi, art. 35 D.lgs. n. 33/2013](https://www.anticorruzione.it/documents/91439/198537/FAQ%2BIN%2BMATERIA%2BDI%2BTRASPARENZA%2B%E2%80%93%2Bformato%2BPDF%2B%28921Kb%29.pdf/0381b99e-7fd8-1693-71ca-baae86e9de23?t=1631609380300)
+
+---
+
+## Schemi standard
+
+[Allegato 11 alla deliberazione ANAC n. 495/2024](../assets/documenti/schema_procedimenti.pdf){:target="_blank"}

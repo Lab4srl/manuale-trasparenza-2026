@@ -171,4 +171,6 @@ I riferimenti/contatti sono da intendersi riferiti alla segreteria o all'ufficio
 
 ## Schemi standard
 
-[Allegato 2 alla deliberazione ANAC n. 495/2024 - schema standard art. 13](../assets/documenti/schema_organizzazione.pdf){:target="_blank"}
+[Allegato 2 alla deliberazione ANAC n. 495/2024](../assets/documenti/schema_organizzazione.pdf){:target="_blank"}
+
+[Allegato 1 alla deliberazione ANAC n. 497/2025](../assets/documenti/schema_articolo_14.pdf){:target="_blank"}

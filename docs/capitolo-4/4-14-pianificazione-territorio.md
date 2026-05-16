@@ -13,6 +13,8 @@ Le [FAQ ANAC sull'art. 39](https://www.anticorruzione.it/-/pubblicazione-dei-dat
 
 Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempestivamente**, ai sensi dell'art. 8 del D.lgs. n. 33/2013.
 
+---
+
 ## Devi sapere che
 
 * i **piani urbanistici**, generali o attuativi, comunque denominati, nonché le loro varianti **restano pubblicati finché producono effetti**: la pubblicazione non è limitata a 5 anni
@@ -22,3 +24,9 @@ Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempest
 * a seguito delle semplificazioni introdotte dal D.lgs. n. 97/2016, che ha soppresso gli obblighi di cui all'art. 39, comma 1, lett. b), **non sono più oggetto di pubblicazione obbligatoria** gli schemi di provvedimento precedenti all'approvazione, le delibere di adozione o approvazione e i relativi allegati tecnici, come chiarito dall'ANAC con deliberazione n. 1310/2016
 * rientrano tra gli atti di governo del territorio soggetti a pubblicazione obbligatoria ai sensi dell'art. 39 del D.lgs. n. 33/2013 anche il **Documento programmatico preliminare** contenente gli obiettivi e i criteri per la redazione del Piano urbanistico generale, nonché i **Piani delle attività estrattive** (Piani cave e torbiere), come chiarito dall'ANAC con deliberazione n. 1310/2016
 * non rientra invece in questo obbligo il **Piano del commercio su aree pubbliche**, perché disciplina l'attività commerciale e non costituisce un atto di pianificazione urbanistica o di governo del territorio
+
+---
+
+## Schemi standard
+
+[Allegato 13 alla deliberazione ANAC n. 495/2024](../assets/documenti/schema_pianificazione_territorio.pdf){:target="_blank"}

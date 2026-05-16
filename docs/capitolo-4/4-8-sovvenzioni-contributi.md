@@ -57,3 +57,9 @@ Il D.L. n. 34/2019, convertito con modificazioni dalla Legge n. 58/2019, ha intr
 - decorsi 90 giorni dalla contestazione senza ottemperanza: **restituzione integrale del beneficio** ai soggetti eroganti
 
 Le sanzioni sono irrogate dalle pubbliche amministrazioni che hanno erogato il beneficio oppure, negli altri casi, dall'amministrazione vigilante o competente per materia, ai sensi della Legge n. 689/1981 in quanto compatibile.
+
+---
+
+## Schemi standard
+
+[Allegato 8 alla deliberazione ANAC n. 495/2024](../assets/documenti/schema_sovvenzioni.pdf){:target="_blank"}

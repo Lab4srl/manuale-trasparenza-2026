@@ -12,6 +12,8 @@ Il presente obbligo si trova in "**Amministrazione trasparente**" – "**Perform
 
 Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempestivamente**, ai sensi dell'art. 8 del D.lgs. n. 33/2013.
 
+---
+
 ## Devi sapere che
 
 * la sottosezione "**Benessere organizzativo**" è stata abrogata ad opera dell'art. 19 del D.lgs. n. 97/2016
@@ -30,3 +32,9 @@ Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempest
 [Schema pubblicazione ammontare complessivo dei premi](../assets/documenti/ammontare_complessivo_premi.docx)
 
 [Schema pubblicazione dati sui premi](../assets/documenti/dati_premi.docx)
+
+---
+
+## Schemi standard
+
+[Allegato 6 alla deliberazione ANAC n. 495/2024](../assets/documenti/schema_performance.pdf){:target="_blank"}

@@ -15,6 +15,8 @@ Il presente obbligo si trova in "**Amministrazione trasparente**" – "**Servizi
 
 5. "**Servizi in rete**": devono essere pubblicati i dati risultanti dalla rilevazione della soddisfazione degli utenti rispetto alla qualità dei servizi in rete, ivi incluse le statistiche di utilizzo, ai sensi dell'art. 7, comma 3 del D.lgs. n. 82/2005 (Codice dell'amministrazione digitale), come integrato e modificato dall'art. 8, comma 1 del D.lgs. n. 179/2016.
 
+---
+
 ## Devi sapere che
 
 * delle cinque sottosezioni elencate, solo le seguenti sono soggette ad attestazione da parte dell'Organismo di valutazione: "Carta dei servizi e standard di qualità", "Class action", "Costi contabilizzati", "Liste di attesa" e "Servizi in rete"
@@ -26,3 +28,10 @@ Il presente obbligo si trova in "**Amministrazione trasparente**" – "**Servizi
 * sul punto sono disponibili anche le [FAQ ANAC in materia di trasparenza sull'art. 32 del D.lgs. n. 33/2013](https://www.anticorruzione.it/documents/91439/e90eb2cb-5d51-a2d7-5b84-d539136d6c7e)
 
 Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempestivamente**, ai sensi dell'art. 8 del D.lgs. n. 33/2013.
+
+---
+
+## Schemi standard
+
+[Allegato 10 alla deliberazione ANAC n. 495/2024](../assets/documenti/schema_servizi.pdf){:target="_blank"}
+

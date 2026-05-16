@@ -37,6 +37,8 @@ Con deliberazione n. 92 dell'11 marzo 2026, l'ANAC ha aggiornato i modelli dichi
 
 Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempestivamente**, ai sensi dell'art. 8 del D.lgs. n. 33/2013.
 
+---
+
 ## Devi sapere che
 
 * con il **Parere ANAC del 17 febbraio 2026 (fasc. n. 752/2026)**, l'Autorità ha fornito nuove e chiare indicazioni sulla distinzione tra i dati la cui pubblicazione è temporaneamente sospesa e quelli soggetti a obbligo inderogabile, aggiornando le direttive operative per le amministrazioni
@@ -48,3 +50,9 @@ Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempest
 * qualora disposizioni normative, statutarie o deliberazioni di carattere generale stabiliscano che **l'incarico è conferito a titolo gratuito**, nessuno dei dati previsti dall'art. 14, comma 1, lettere da a) a f) deve essere pubblicato; la gratuità non può derivare dalla rinuncia al compenso da parte dell'incaricato, ma deve essere stabilita da un atto generale pubblicato in "Amministrazione trasparente"
 * per i **dirigenti in servizio presso un'amministrazione diversa da quella di appartenenza** (in posizione di comando, distacco o fuori ruolo), i dati previsti dall'art. 14 sono pubblicati dall'amministrazione presso cui il dirigente presta servizio
 * tutti i dirigenti hanno **l'obbligo di comunicare** alla propria amministrazione di appartenenza i dati patrimoniali e reddituali ai sensi dell'art. 13, comma 3 del D.P.R. n. 62/2013
+
+---
+
+## Schemi standard
+
+[Allegato 1 alla deliberazione ANAC n. 497/2025](../assets/documenti/schema_articolo_14.pdf){:target="_blank"}

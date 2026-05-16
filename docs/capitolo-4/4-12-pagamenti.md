@@ -31,6 +31,8 @@ Il presente obbligo si trova in "**Amministrazione trasparente**" – "**Pagamen
 
 4. "**IBAN e pagamenti informatici**": devono essere pubblicate le informazioni relative alle modalità di pagamento accettate dall'ente, ai sensi dell'art. 36 del D.lgs. n. 33/2013, secondo le indicazioni della deliberazione ANAC n. 77 del 16 febbraio 2022.
 
+---
+
 ## Devi sapere che
 
 * **l'omessa pubblicazione dei dati sui pagamenti** di cui all'art. 4-bis, comma 2 del D.lgs. n. 33/2013 comporta l'applicazione della sanzione pecuniaria di cui all'art. 47 del medesimo decreto; analoga sanzione si applica al mancato assolvimento dell'obbligo da parte degli enti del SSN, ai sensi dell'art. 47, comma 1-bis, secondo periodo
@@ -69,6 +71,16 @@ Il presente obbligo si trova in "**Amministrazione trasparente**" – "**Pagamen
 
 Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempestivamente**, ai sensi dell'art. 8 del D.lgs. n. 33/2013.
 
+---
+
 ## Schemi, modelli, fac-simile
 
 [**Fac simile "Ammontare complessivo dei debiti"**](../assets/documenti/facsimle_ammontare_complessivo_debiti.docx)
+
+---
+
+## Schemi standard
+
+[Allegato 1 alla deliberazione ANAC n. 495/2024 come integrato e modificato dall'allegato 1 alla deliberazione ANAC n. 481/2025](../assets/documenti/schema_pagamenti.pdf){:target="_blank"}
+
+[Allegato 4 alla deliberazione ANAC n. 497/2025](../assets/documenti/schema_tempi_pagamenti.pdf){:target="_blank"}
