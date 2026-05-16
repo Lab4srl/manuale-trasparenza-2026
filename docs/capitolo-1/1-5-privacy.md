@@ -46,6 +46,10 @@ Le amministrazioni possono pubblicare dati, informazioni e documenti ulteriori r
 
 La pubblicazione facoltativa, quindi, richiede una valutazione particolarmente attenta: se non esiste un obbligo normativo specifico, non è possibile diffondere dati personali identificativi solo perché ritenuti utili o interessanti. L’esigenza di maggiore trasparenza deve essere soddisfatta mediante anonimizzazione, aggregazione dei dati o altre modalità che impediscano l’identificazione degli interessati.
 
+Secondo le FAQ ANAC, l’individuazione dei dati ulteriori deve essere programmata nella sezione del PIAO dedicata ai rischi corruttivi e alla trasparenza, oppure nel PTPCT o nel documento equivalente per gli enti che non adottano il PIAO. Nella scelta dei dati ulteriori è utile considerare le caratteristiche dell’amministrazione e le informazioni più frequentemente richieste tramite accesso civico generalizzato, perché tali richieste possono segnalare un interesse pubblico ricorrente alla conoscibilità del dato.
+
+Possono costituire dati ulteriori anche elaborazioni di secondo livello di dati già pubblicati, ad esempio aggregazioni, rappresentazioni sintetiche o estrapolazioni dai dati di bilancio. Se non sono riconducibili a una specifica sottosezione di **Amministrazione trasparente**, tali dati sono collocati nella sottosezione di primo livello **Altri contenuti**.
+
 ## Indicizzazione nei motori di ricerca
 
 Il D.lgs. n. 33/2013 consente, per i dati personali diversi da quelli particolari e giudiziari individuati dalle disposizioni in materia di trasparenza, la pubblicazione sui siti istituzionali anche con modalità che ne permettono l’indicizzazione e la rintracciabilità tramite motori di ricerca web.
@@ -66,4 +70,4 @@ Per ridurre il rischio di pubblicazioni non corrette, è opportuno che ogni uffi
 
 Nei casi dubbi, soprattutto quando il documento contiene dati delicati o quando l’obbligo di pubblicazione non è immediatamente chiaro, è consigliabile coinvolgere il Responsabile della prevenzione della corruzione e della trasparenza e il Responsabile della protezione dei dati, secondo le rispettive competenze.
 
-*Riferimenti principali: art. 7-bis D.lgs. n. 33/2013; art. 2-ter D.lgs. n. 196/2003; art. 5 Regolamento (UE) 2016/679; PNA 2019, Parte III, § 4.2; [FAQ ANAC - Trasparenza e tutela dei dati personali](https://www.anticorruzione.it/-/trasparenza-e-tutela-dei-dati-personali-modalit%C3%A0-di-pubblicazione-dei-dati-e-limite-della-riservatezza-art.-7-bis-d.lgs.-33/2013-); Linee guida del Garante per la protezione dei dati personali in materia di pubblicità e trasparenza sul web, G.U. n. 134 del 12 giugno 2014.*
+*Riferimenti principali: artt. 5, comma 2, 5-bis e 7-bis D.lgs. n. 33/2013; art. 2-ter D.lgs. n. 196/2003; art. 5 Regolamento (UE) 2016/679; PNA 2019, Parte III, § 4.2; PNA 2022; [FAQ ANAC - Trasparenza e tutela dei dati personali](https://www.anticorruzione.it/-/trasparenza-e-tutela-dei-dati-personali-modalit%C3%A0-di-pubblicazione-dei-dati-e-limite-della-riservatezza-art.-7-bis-d.lgs.-33/2013-); FAQ ANAC in materia di obblighi generali di pubblicazione; Linee guida del Garante per la protezione dei dati personali in materia di pubblicità e trasparenza sul web, G.U. n. 134 del 12 giugno 2014.*

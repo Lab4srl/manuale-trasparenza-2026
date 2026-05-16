@@ -1,7 +1,15 @@
 Come indicato nel PNA 2019, di cui alla deliberazione ANAC n. 1064/2019 e ribadito nella deliberazione n. 168/2026, laddove vi siano **dati non pubblicati, perché “non prodotti” o perché l’obbligo non è applicabile alla specifica tipologia di amministrazione, si riporti il motivo per cui non si procede alla pubblicazione, con l’indicazione di eventuali norme a cui fare riferimento o circostanze specifiche alla base dell’assenza dei dati (ad es. “non sono state erogate sovvenzioni”, “non esistono enti di diritto privato controllati”, etc.)**.
 
+Le FAQ ANAC precisano che la mancata pubblicazione non deve tradursi in una sottosezione vuota. Per ciascuna categoria di dati non pubblicati occorre dare evidenza, nella pertinente sottosezione di **Amministrazione trasparente**, delle ragioni della mancata pubblicazione. La dicitura deve essere specifica e riferita al caso concreto, ad esempio: “nel corso dell’anno 2026 non sono stati conferiti incarichi”, “non sono stati adottati bandi di concorso”, “l’obbligo di pubblicazione non è applicabile all’amministrazione”.
+
+Quando l’obbligo non è applicabile per ragioni oggettive, l’amministrazione deve comunque rendere comprensibile l’assenza del dato nella sottosezione interessata. Ciò evita che l’OIV interpreti l’assenza come omissione e consente di valorizzare correttamente il campo **Non Applicabile (n/a)** nella griglia di attestazione.
+
 **Per i piccoli comuni** (quelli con popolazione inferiore a 15.000 abitanti, come precisato nell’art. 3, co. 1-ter del d.lgs. 33/2013 e quelli con popolazione inferiore ai 5.000 abitanti, come definiti dall’art. 1, co. 2 della legge 6 ottobre 2017, n. 158) ai sensi dell’aggiornamento 2018 al PNA, di cui alla deliberazione ANAC n. 1074/2018, **le pubblicazioni in formato tabellare possono avvenire anche attraverso altri schemi di pubblicazione, purché venga rispettato lo scopo della normativa sulla trasparenza volto a rendere facilmente e chiaramente accessibili i contenuti al fine di favorire forme di controllo diffuso da parte dei cittadini**.
+
+Per i piccoli comuni, gli obblighi di pubblicazione possono essere assolti anche mediante un collegamento ipertestuale dalla sezione **Amministrazione trasparente** all’albo pretorio online, quando l’atto o il documento sia già pubblicato. Il collegamento deve però rinviare direttamente alla pagina o al record che contiene l’atto, non alla pagina generale dell’albo, e deve essere garantita la permanenza della consultabilità per il periodo richiesto dalla disciplina sulla trasparenza. È inoltre opportuno organizzare nell’albo una sezione o sottosezione dedicata agli atti rilevanti ai fini del D.lgs. n. 33/2013.
 
 Qualora uno o più **obblighi oggetto di attestazione non ricorra**, l’Organismo di Valutazione, **inserisce all’interno della griglia di attestazione il valore “Non Applicabile (n/a)”**.
 
 Si ricorda che all’interno della griglia di attestazione **non sono ammesse celle vuote**.
+
+*Riferimenti principali: artt. 3, comma 1-ter, 6 e 9 D.lgs. n. 33/2013; PNA 2018, Approfondimento IV; Allegato 4 al PNA 2022; FAQ ANAC in materia di obblighi generali di pubblicazione.*

@@ -1,6 +1,8 @@
 Ai sensi dell’art. 1, comma 32 e comma 45, della Legge n. 190/2012 i formati di dati aperti, sono quelli resi disponibili e fruibili on line in formati non proprietari, a condizioni tali da permetterne il più ampio riutilizzo anche a fini statistici e la ridistribuzione senza ulteriori restrizioni d’uso, di riuso o di diffusione diverse dall’obbligo di citare la fonte e di rispettarne l’integrità.
 
-In aggiunta a ciò, l’art. 1, comma 1, lettera l-bis), del d.lgs. n. 82/2005, il formato aperto è un formato di dati reso pubblico, documentato esaustivamente e neutro rispetto agli strumenti tecnologici necessari per la fruizione dei dati stessi.
+L’art. 7 del D.lgs. n. 33/2013 prevede che i documenti, le informazioni e i dati oggetto di pubblicazione obbligatoria siano pubblicati in formato di tipo aperto, ai sensi dell’art. 68 del Codice dell’amministrazione digitale, e siano riutilizzabili senza ulteriori restrizioni, fermo l’obbligo di citare la fonte e rispettarne l’integrità. Il formato aperto non è quindi un requisito meramente tecnico, ma una condizione essenziale della riutilizzabilità del dato.
+
+In aggiunta a ciò, l’art. 1, comma 1, lettera l-bis), del D.lgs. n. 82/2005 definisce il formato aperto come un formato di dati reso pubblico, documentato esaustivamente e neutro rispetto agli strumenti tecnologici necessari per la fruizione dei dati stessi.
 
 La lettera l-ter) del medesimo art. 1 definisce, inoltre, come dati di tipo aperto quelli che presentano le seguenti caratteristiche:
 
@@ -12,6 +14,8 @@ Pertanto, a norma di legge è esclusa la pubblicazione di formati proprietari, i
 
 Con riferimento al formato PDF, il suo impiego è ammesso esclusivamente nelle versioni che consentano l’archiviazione a lungo termine e indipendenti dal software utilizzato, quale il formato PDF/A i cui dati sono elaborabili, mentre il ricorso al file PDF in formato immagine, con la scansione digitale di documenti cartacei, non assicura che le informazioni siano elaborabili.
 
+Quando la pubblicazione avviene mediante collegamento ipertestuale ad altra sezione del sito o a una banca dati, l’amministrazione deve comunque verificare che il contenuto raggiunto rispetti i requisiti di formato aperto, accessibilità, qualità e riutilizzabilità. Il semplice rinvio a una pagina esterna o interna non è sufficiente se il dato risulta chiuso, non scaricabile, non elaborabile o privo delle informazioni necessarie a comprenderne provenienza e aggiornamento.
+
 ### Indicazioni operative per la verifica degli standard (Delibera ANAC n. 495/2024)
 
 Per l'attestazione 2026, l'Autorità ha introdotto una specifica **Verifica di conformità agli standard** basata sulla delibera n. 495/2024. Le opzioni di giudizio previste per l'OIV sono:
@@ -22,3 +26,4 @@ Per l'attestazione 2026, l'Autorità ha introdotto una specifica **Verifica di c
 
 Si ricorda che, sebbene questa verifica abbia natura ricognitiva per il 2026, essa rappresenta lo standard verso cui tutte le amministrazioni devono tendere per garantire la piena fruibilità dei dati.
 
+*Riferimenti principali: art. 7 D.lgs. n. 33/2013; art. 68 D.lgs. n. 82/2005; delibera ANAC n. 1310/2016; delibera ANAC n. 495/2024; FAQ ANAC in materia di obblighi generali di pubblicazione.*
