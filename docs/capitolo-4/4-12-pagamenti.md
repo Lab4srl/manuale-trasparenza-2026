@@ -3,6 +3,14 @@
 Il presente obbligo si trova in "**Amministrazione trasparente**" – "**Pagamenti dell'amministrazione**" e si compone delle seguenti sottosezioni:
 
 1. "**Dati sui pagamenti**": ai sensi dell'art. 4-bis, comma 2 del D.lgs. n. 33/2013, devono essere pubblicati i dati sui pagamenti dell'amministrazione, consentendone la consultazione in relazione alla tipologia di spesa sostenuta, all'ambito temporale di riferimento e ai beneficiari.
+2. "**Dati sui pagamenti del servizio sanitario nazionale**": per gli Enti del SSN, ai sensi dell'art. 41, comma 1-bis del D.lgs. n. 33/2013, devono essere pubblicati i dati relativi a tutte le spese e a tutti i pagamenti effettuati, distinti per tipologia di lavoro, bene o servizio, consentendone la consultazione in forma sintetica e aggregata in relazione alla tipologia di spesa, all'ambito temporale di riferimento e ai beneficiari.
+
+3. "**Indicatore di tempestività dei pagamenti e ammontare complessivo dei debiti**": devono essere pubblicati, ai sensi dell'art. 33 del D.lgs. n. 33/2013, come modificato dall'art. 29 del D.lgs. n. 97/2016:
+   - l'**indicatore annuale di tempestività dei pagamenti**, entro il 31 gennaio dell'anno successivo a quello di riferimento
+   - l'**indicatore trimestrale di tempestività dei pagamenti**, entro il trentesimo giorno dalla conclusione del trimestre cui si riferisce
+   - l'**ammontare complessivo dei debiti** (somma degli importi delle fatture scadute) e il **numero delle imprese creditrici**, con cadenza annuale e trimestrale
+
+4. "**IBAN e pagamenti informatici**": devono essere pubblicate le informazioni relative alle modalità di pagamento accettate dall'ente, ai sensi dell'art. 36 del D.lgs. n. 33/2013, secondo le indicazioni della deliberazione ANAC n. 77 del 16 febbraio 2022.
 
    L'ANAC, con deliberazione n. 495/2024, successivamente modificata dalla deliberazione n. 481/2025, ha definito uno **schema standard obbligatorio** per l'organizzazione, la codificazione e la rappresentazione dei dati da pubblicare nella sottosezione "**Pagamenti dell'amministrazione**" – "**Dati sui pagamenti**". Lo schema richiede la pubblicazione dei **dati identificativi del pagamento**, con aggiornamento **trimestrale**, secondo i campi e i valori vincolati indicati di seguito:
 
@@ -21,15 +29,6 @@ Il presente obbligo si trova in "**Amministrazione trasparente**" – "**Pagamen
    |---|---|
    | **Uscite correnti** | Acquisto di beni e di servizi; contributi in conto esercizio; interessi passivi; altre spese per attività finanziarie; altre spese correnti |
    | **Uscite in conto capitale** | Investimenti in beni materiali; investimenti in beni immateriali; investimenti in attività finanziarie; contributi in conto capitale; altre spese in conto capitale |
-
-2. "**Dati sui pagamenti del servizio sanitario nazionale**": per gli Enti del SSN, ai sensi dell'art. 41, comma 1-bis del D.lgs. n. 33/2013, devono essere pubblicati i dati relativi a tutte le spese e a tutti i pagamenti effettuati, distinti per tipologia di lavoro, bene o servizio, consentendone la consultazione in forma sintetica e aggregata in relazione alla tipologia di spesa, all'ambito temporale di riferimento e ai beneficiari.
-
-3. "**Indicatore di tempestività dei pagamenti e ammontare complessivo dei debiti**": devono essere pubblicati, ai sensi dell'art. 33 del D.lgs. n. 33/2013, come modificato dall'art. 29 del D.lgs. n. 97/2016:
-   - l'**indicatore annuale di tempestività dei pagamenti**, entro il 31 gennaio dell'anno successivo a quello di riferimento
-   - l'**indicatore trimestrale di tempestività dei pagamenti**, entro il trentesimo giorno dalla conclusione del trimestre cui si riferisce
-   - l'**ammontare complessivo dei debiti** (somma degli importi delle fatture scadute) e il **numero delle imprese creditrici**, con cadenza annuale e trimestrale
-
-4. "**IBAN e pagamenti informatici**": devono essere pubblicate le informazioni relative alle modalità di pagamento accettate dall'ente, ai sensi dell'art. 36 del D.lgs. n. 33/2013, secondo le indicazioni della deliberazione ANAC n. 77 del 16 febbraio 2022.
 
 ---
 
