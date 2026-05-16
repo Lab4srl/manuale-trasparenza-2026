@@ -6,6 +6,11 @@ Si riporta di seguito il link alla citata deliberazione ANAC.
 
 [Delibera n. 168 del 15 aprile 2026](https://www.anticorruzione.it/-/delibera-n.-168-del-15-aprile-2026){:target="_blank"}
 
+Si riportano inoltre i link alle registrazioni dei webinar sull'attestazione della trasparenza relativi agli anni 2024 e 2025.
+
+- [Webinar 2025 sull'attestazione della trasparenza](https://youtu.be/pYaGhBf370g){:target="_blank"}
+- [Webinar 2024 sull'attestazione della trasparenza](https://youtu.be/u3OeycFw72Y){:target="_blank"}
+
 Il presente manuale intende offrire un’analisi degli obblighi di pubblicazione soggetti ad attestazione, tabelle, schemi e raccomandazioni in merito alle modalità e ai contenuti oggetto di attestazione.
 
 L’analisi complessiva e gli specifici approfondimenti sono stati redatti attraverso la disamina delle disposizioni del D.lgs. n. 33/2013, come integrato e modificato dal D.lgs. n. 97/2016, della deliberazione ANAC n. 1310/2016 recante “*Prime Linee guida recanti indicazioni sull’attuazione degli obblighi di pubblicità, trasparenza e diffusione di informazioni contenute nel d.lgs. 33/2013 come modificato dal d.lgs.97/2016*” e dei successivi provvedimenti ANAC in materia, nonché delle ulteriori norme di legge intervenute nel corso del tempo che impongono obblighi di pubblicazione.
@@ -48,4 +53,3 @@ A cura di
     - [4.13 Bandi di gara e contratti](capitolo-4/4-13-bandi-gara-contratti.md)
     - [4.14 Pianificazione e governo del territorio (art. 39)](capitolo-4/4-14-pianificazione-territorio.md)
     - [4.15 Interventi straordinari e di emergenza (art. 42)](capitolo-4/4-15-interventi-straordinari.md)
-
