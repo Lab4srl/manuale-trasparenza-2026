@@ -26,6 +26,12 @@ Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempest
 
 ---
 
+## Schemi, modelli, fac-simile
+
+[**Fac simile schema standard "Controlli e rilievi"**](../assets/documenti/Fac_simile_schema_controlli.xlsx)
+
+---
+
 ## Schemi standard
 
 [Allegato 3 alla deliberazione ANAC n. 495/2024 come integrato e modificato dall'allegato 2 alla deliberazione ANAC n. 481/2025](../assets/documenti/schema_controlli.pdf){:target="_blank"}

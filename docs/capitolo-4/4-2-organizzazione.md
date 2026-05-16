@@ -169,6 +169,12 @@ I riferimenti/contatti sono da intendersi riferiti alla segreteria o all'ufficio
 
 ---
 
+## Schemi, modelli, fac-simile
+
+[**Fac simile schema standard "Articolazione degli uffici e telefono e posta elettronica"**](../assets/documenti/Fac_simile_schema_organizzazione.xlsx)
+
+---
+
 ## Schemi standard
 
 [Allegato 2 alla deliberazione ANAC n. 495/2024](../assets/documenti/schema_organizzazione.pdf){:target="_blank"}

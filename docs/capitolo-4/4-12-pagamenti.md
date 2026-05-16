@@ -77,6 +77,8 @@ Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempest
 
 [**Fac simile "Ammontare complessivo dei debiti"**](../assets/documenti/facsimle_ammontare_complessivo_debiti.docx)
 
+[**Fac simile schema standard "Dati sui pagamenti"**](../assets/documenti/Fac_simile_schema_pagamenti.xlsx)
+
 ---
 
 ## Schemi standard
