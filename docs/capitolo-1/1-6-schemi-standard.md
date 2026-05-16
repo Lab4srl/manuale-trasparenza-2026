@@ -10,7 +10,7 @@ Si riportano di seguito i link a tutte le deliberazioni adottate ad oggi dall'AN
 
 Si riporta di seguito il link al Quaderno dell'ANCI n. 57 che ha approfodnito gli schemi standard di pubblicazione obbligatori e allla redazione del quale hanno contribuito anche i soci di Lab4.s.r.l.
 
-[ANCI Quaderno n. 57](https://www.anci.it/wp-content/uploads/2025/05/QUADERNO-57.pdf){:target="_blank"}
+- [ANCI Quaderno n. 57](https://www.anci.it/wp-content/uploads/2025/05/QUADERNO-57.pdf){:target="_blank"}
 
 La **composizione** tipica di uno schema standard include diversi elementi:
 
