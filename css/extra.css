@@ -133,3 +133,24 @@
 }
 
 .doc-intro { max-width: 100%; margin: 0; }
+
+/* --- PDF / Stampa --- */
+@media print {
+  body, .md-typeset {
+    font-size: 11pt !important;
+    line-height: 1.6 !important;
+  }
+
+  .md-typeset h1 { font-size: 20pt !important; margin-top: 1.5em !important; }
+  .md-typeset h2 { font-size: 15pt !important; margin-top: 1.2em !important; }
+  .md-typeset h3 { font-size: 13pt !important; }
+
+  .md-typeset table {
+    font-size: 10pt !important;
+  }
+
+  .md-typeset p,
+  .md-typeset li {
+    font-size: 11pt !important;
+  }
+}
