@@ -8,6 +8,10 @@ Si riportano di seguito i link a tutte le deliberazioni adottate ad oggi dall'AN
 - [Delibera n. 481 del 3 dicembre 2025](https://www.anticorruzione.it/-/del.481.2025){:target="_blank"}
 - [Delibera n. 497 del 3 dicembre 2025](https://www.anticorruzione.it/-/del.497.2025){:target="_blank"}
 
+Si riporta di seguito il link al Quaderno dell'ANCI n. 57 che ha approfodnito gli schemi standard di pubblicazione obbligatori e allla redazione del quale hanno contribuito anche i soci di Lab4.s.r.l.
+
+[ANCI Quaderno n. 57](https://www.anci.it/wp-content/uploads/2025/05/QUADERNO-57.pdf){:target="_blank"}
+
 La **composizione** tipica di uno schema standard include diversi elementi:
 
 * **Sezione**: Identifica la specifica sezione all’interno di “Amministrazione trasparente”
