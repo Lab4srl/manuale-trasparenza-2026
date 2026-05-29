@@ -14,17 +14,13 @@ L'ente deve pubblicare ogni atto (previsto da norma di legge o adottato nell'ese
 **Elenco dei principali atti da pubblicare:**
 - **Riferimenti normativi**: Link alle singole norme statali sul portale "[Normattiva](https://www.normattiva.it){:target="_blank"}" che regolano l'istituzione, l'organizzazione e l'attività dell'ente.
 
-- **Atti di indirizzo e programmazione**: Direttive, circolari, programmi, istruzioni, atti organizzativi, obiettivi strategici in materia di prevenzione corruzione e trasparenza (es. documenti di programmazione, direttive ministeriali).
-
-- **Piano Integrato di Attività e Organizzazione (PIAO)**.
+- **Atti di indirizzo e programmazione**: Direttive, circolari, programmi, istruzioni, atti organizzativi, obiettivi strategici in materia di prevenzione corruzione e trasparenza (es. documenti di programmazione, direttive ministeriali), **Piano Integrato di Attività e Organizzazione (PIAO)**.
 
 - **Statuti e norme regionali**: Testi ufficiali e aggiornati che regolano funzioni, organizzazione e attività di competenza dell'amministrazione.
 
 - **Manuale di gestione**: Protocollo informatico, flussi documentali, archivi e conservazione (art. 5, co. 3, DPCM 3 dicembre 2013).
 
-- **Codice disciplinare**: Infrazioni e sanzioni (pubblicazione online in alternativa all'affissione in luogo accessibile - art. 7, L. 300/1970).
-
-- **Codice di comportamento**: (ex Codice di condotta).
+- **Codice disciplinare**: Infrazioni e sanzioni (pubblicazione online in alternativa all'affissione in luogo accessibile - art. 7, L. 300/1970) e **Codice di comportamento**: (ex Codice di condotta).
 
 - **Manuale di gestione documentale e la nomina del Responsabile della gestione documentale per ciascuna AOO (Area Operativa). In caso di più AOO, è necessaria la nomina del Coordinatore della gestione documentale entro il 30/06/2025** (rif. [Piano Triennale per l'informatica nella PA](https://www.agid.gov.it/it/agenzia/piano-triennale) 2024-2026 Aggiornamento 2025 approvato con [DPCM 03/12/2024](https://www.agid.gov.it/sites/agid/files/2025-01/DPCM_di_approvazione_del_Piano_Triennale_2024-2026_Aggiornamento_2025.pdf)
 
