@@ -181,7 +181,11 @@ I riferimenti/contatti sono da intendersi riferiti alla segreteria o all'ufficio
 
 [**ALLEGATO 4 - Deliberazione ANAC n. 241/2017 "Modello di attestazione di variazione patrimoniale dei titolari di incarichi politici, di amministrazione, di direzione o di governo e dei titolari di incarichi dirigenziale."**](../assets/documenti/ALL_4_Mod_variazione_dichiarazione_patrimoniale.docx)
 
-[**Fac simile schema standard "Articolazione degli uffici e telefono e posta elettronica"**](../assets/documenti/Fac_simile_schema_organizzazione.xlsx)
+[**Fac simile schema standard "Articolazione degli uffici e telefono e posta elettronica - Organi di inirizzo politico"**](../assets/documenti/art.13-op-YYYY-YYYYMMDD.v1.0.0.xlsx)
+
+[**Fac simile schema standard "Articolazione degli uffici e telefono e posta elettronica - Organi di amministrazione e gestione"**](../assets/documenti/art.13-oa-YYYY-YYYYMMDD.v1.0.0.xlsx)
+
+[**Fac simile schema standard "Articolazione degli uffici e telefono e posta elettronica - Organigramma"**](../assets/documenti/art.13-org-YYYY-YYYYMMDD.v1.0.0.xlsx)
 
 ---
 
