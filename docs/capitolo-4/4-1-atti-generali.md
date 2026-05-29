@@ -14,8 +14,6 @@ L'ente deve pubblicare ogni atto (previsto da norma di legge o adottato nell'ese
 **Elenco dei principali atti da pubblicare:**
 - **Riferimenti normativi**: Link alle singole norme statali sul portale "[Normattiva](https://www.normattiva.it){:target="_blank"}" che regolano l'istituzione, l'organizzazione e l'attività dell'ente.
 
-- **Atti di indirizzo e programmazione**: Direttive, circolari, programmi, istruzioni, atti organizzativi, obiettivi strategici in materia di prevenzione corruzione e trasparenza (es. documenti di programmazione, direttive ministeriali), **Piano Integrato di Attività e Organizzazione (PIAO)**.
-
 - **Statuti e norme regionali**: Testi ufficiali e aggiornati che regolano funzioni, organizzazione e attività di competenza dell'amministrazione.
 
 - **Manuale di gestione**: Protocollo informatico, flussi documentali, archivi e conservazione (art. 5, co. 3, DPCM 3 dicembre 2013).
