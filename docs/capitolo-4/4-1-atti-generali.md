@@ -2,13 +2,12 @@
 
 Il presente obbligo si trova in “**Amministrazione trasparente**” – “**Disposizioni generali**” e si compone delle seguenti sottosezioni:
 
-1. **Piano triennale per la prevenzione della corruzione e della trasparenza**
-2. **Atti generali**
-3. **Oneri informativi per cittadini e imprese**
+1. **Atti generali**
+2. **Oneri informativi per cittadini e imprese**
 
 Ai sensi del D.lgs. n. 97/2016, la sottosezione “Burocrazia zero” è stata soppressa.
 
-**Atti generali (Art. 12, D.lgs. n. 33/2013)**
+## Atti generali (Art. 12, D.lgs. n. 33/2013)
 L'ente deve pubblicare ogni atto (previsto da norma di legge o adottato nell'esercizio di autonomo potere amministrativo/gestionale) riguardante l'organizzazione, le funzioni, gli obiettivi, i procedimenti, l'interpretazione di disposizioni di legge e i codici di condotta.
 
 **Elenco dei principali atti da pubblicare:**
@@ -26,7 +25,7 @@ L'ente deve pubblicare ogni atto (previsto da norma di legge o adottato nell'ese
 
 - **Manuale di conservazione e la nomina del Responsabile della conservazione entro il 30/06/2026** (rif. [Piano Triennale per l'informatica nella PA](https://www.agid.gov.it/it/agenzia/piano-triennale) 2024-2026 Aggiornamento 2025 approvato con [DPCM 03/12/2024](https://www.agid.gov.it/sites/agid/files/2025-01/DPCM_di_approvazione_del_Piano_Triennale_2024-2026_Aggiornamento_2025.pdf)
 
-**Oneri informativi per cittadini e imprese (Art. 12, co. 1-bis, D.lgs. n. 33/2013)**
+## Oneri informativi per cittadini e imprese (Art. 12, co. 1-bis, D.lgs. n. 33/2013)
 Pubblicazione dello scadenzario con le date di efficacia dei nuovi obblighi amministrativi introdotti a carico di cittadini e imprese, secondo il [DPCM 8 novembre 2013](https://www.gazzettaufficiale.it/eli/id/2013/12/20/13A10299/sg){:target="_blank"} e le [FAQ ANAC sullo scadenzario dei nuovi obblighi amministrativi](https://www.anticorruzione.it/-/obblighi.amministrativi.art.12.co.1-bis){:target="_blank"}.
 
 **Dati da pubblicare per ciascun nuovo obbligo:**
