@@ -171,6 +171,16 @@ I riferimenti/contatti sono da intendersi riferiti alla segreteria o all'ufficio
 
 ## Schemi, modelli, fac-simile
 
+[**Deliberazione ANAC n. 241/2017 "Linee guida recanti indicazioni sull'attuazione dell'art. 14 del d.lgs. 33/2013"**](../assets/documenti/Delibera_n.241_2017.pdf)
+
+[**ALLEGATO 1 Deliberazione ANAC n. 241/2017 "Elencazione esemplificativa dei titolari di incarichi politici, di amministrazione, di direzione o di governo e i titolari di incarichi dirigenziali."**](../assets/documenti/ALL_1_Elencazione_esemplificativa_.pdf)
+
+[**ALLEGATO 2 - Deliberazione ANAC n. 241/2017 "Modello per la comunicazione e pubblicazione dei dati della variazione patrimoniale dei titolari di incarichi politici, di amministrazione, di direzione o di governo e dei titolari di incarichi dirigenziali cessati dalla carica o dall’incarico."**](../assets/documenti/ALL_2_Mod_dichiarazione_cessati.docx)
+
+[**ALLEGATO 3 - Deliberazione ANAC n. 241/2017 "Modello di dichiarazione della situazione patrimoniale dei titolari di incarichi politici, di amministrazione, di direzione o di governo e dei titolari di incarichi dirigenziali."**](../assets/documenti/ALL_3_Mod_dichiarazione_patrimoniale.docx)
+
+[**ALLEGATO 4 - Deliberazione ANAC n. 241/2017 "Modello di attestazione di variazione patrimoniale dei titolari di incarichi politici, di amministrazione, di direzione o di governo e dei titolari di incarichi dirigenziale."**](../assets/documenti/ALL_4_Mod_variazione_dichiarazione_patrimoniale.docx)
+
 [**Fac simile schema standard "Articolazione degli uffici e telefono e posta elettronica"**](../assets/documenti/Fac_simile_schema_organizzazione.xlsx)
 
 ---

@@ -7,6 +7,7 @@ Questo repository contiene il materiale per la pubblicazione online del **Manual
 Se hai apportato delle modifiche e vuoi caricarle subito online, usa questo comando combinato (copia e incolla nel terminale dalla cartella del progetto):
 
 ```bash
+export DYLD_LIBRARY_PATH=/opt/homebrew/lib
 git add . && git commit -m "Aggiornamento manuale" && git push origin main && mkdocs gh-deploy --clean
 ```
 
@@ -33,6 +34,7 @@ pip install -r requirements.txt
 Per visualizzare in anteprima il manuale localmente:
 
 ```bash
+export DYLD_LIBRARY_PATH=/opt/homebrew/lib
 mkdocs serve
 ```
 
