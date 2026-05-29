@@ -25,10 +25,6 @@ L'ente deve pubblicare ogni atto (previsto da norma di legge o adottato nell'ese
 - **Codice disciplinare**: Infrazioni e sanzioni (pubblicazione online in alternativa all'affissione in luogo accessibile - art. 7, L. 300/1970).
 
 - **Codice di comportamento**: (ex Codice di condotta).
-- 
-- **Manuale di gestione documentale e la nomina del Responsabile della gestione documentale per ciascuna AOO (Area Operativa). In caso di più AOO, è necessaria la nomina del Coordinatore della gestione documentale entro il 30/06/2025** (rif. [Piano Triennale per l'informatica nella PA](https://www.agid.gov.it/it/agenzia/piano-triennale) 2024-2026 Aggiornamento 2025 approvato con [DPCM 03/12/2024](https://www.agid.gov.it/sites/agid/files/2025-01/DPCM_di_approvazione_del_Piano_Triennale_2024-2026_Aggiornamento_2025.pdf)
-
-- **Manuale di conservazione e la nomina del Responsabile della conservazione entro il 30/06/2026** (rif. [Piano Triennale per l'informatica nella PA](https://www.agid.gov.it/it/agenzia/piano-triennale) 2024-2026 Aggiornamento 2025 approvato con [DPCM 03/12/2024](https://www.agid.gov.it/sites/agid/files/2025-01/DPCM_di_approvazione_del_Piano_Triennale_2024-2026_Aggiornamento_2025.pdf)
 
 **Oneri informativi per cittadini e imprese (Art. 12, co. 1-bis, D.lgs. n. 33/2013)**
 Pubblicazione dello scadenzario con le date di efficacia dei nuovi obblighi amministrativi introdotti a carico di cittadini e imprese, secondo il [DPCM 8 novembre 2013](https://www.gazzettaufficiale.it/eli/id/2013/12/20/13A10299/sg){:target="_blank"} e le [FAQ ANAC sullo scadenzario dei nuovi obblighi amministrativi](https://www.anticorruzione.it/-/obblighi.amministrativi.art.12.co.1-bis){:target="_blank"}.
