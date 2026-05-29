@@ -12,18 +12,9 @@ theme:
   icon:
     repo: fontawesome/brands/github
   palette:
-    - scheme: default
-      primary: blue
-      accent: light blue
-      toggle:
-        icon: material/weather-night
-        name: Passa al tema scuro
-    - scheme: slate
-      primary: blue
-      accent: light blue
-      toggle:
-        icon: material/weather-sunny
-        name: Passa al tema chiaro
+    scheme: default
+    primary: blue
+    accent: light blue
   features:
     - navigation.sections
     - navigation.top
@@ -71,6 +62,20 @@ nav:
       - 4.13 Bandi di gara e contratti: capitolo-4/4-13-bandi-gara-contratti.md
       - 4.14 Pianificazione e governo del territorio (art. 39): capitolo-4/4-14-pianificazione-territorio.md
       - 4.15 Interventi straordinari e di emergenza (art. 42): capitolo-4/4-15-interventi-straordinari.md
+
+plugins:
+  - search
+  - with-pdf:
+      enabled_if_env: ENABLE_PDF_EXPORT
+      author: Lab4Srl
+      copyright: "Lab4Srl – Manuale Attestazione Trasparenza 2026"
+      cover: true
+      cover_title: "Manuale Attestazione Trasparenza 2026"
+      cover_subtitle: "Guida operativa per l'attestazione degli obblighi di trasparenza"
+      output_path: ../docs/assets/manuale-trasparenza-2026.pdf
+      user_stylesheet: docs/assets/pdf-styles.css
+  - print-site:
+      add_to_navigation: false
 
 markdown_extensions:
   - admonition

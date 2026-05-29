@@ -1,0 +1,12 @@
+body {
+  font-size: 12pt;
+  line-height: 1.6;
+}
+
+h1 { font-size: 20pt; margin-top: 1.5em; }
+h2 { font-size: 15pt; margin-top: 1.2em; }
+h3 { font-size: 13pt; }
+
+p, li { font-size: 12pt; }
+
+table { font-size: 10pt; }

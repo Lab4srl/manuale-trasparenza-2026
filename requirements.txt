@@ -28,3 +28,6 @@ requests==2.34.1
 six==1.17.0
 urllib3==2.7.0
 watchdog==6.0.0
+libsass==0.23.0
+mkdocs-with-pdf==0.9.3
+weasyprint==68.1
