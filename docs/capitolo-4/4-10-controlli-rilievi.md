@@ -85,7 +85,11 @@ Per ciascun rilievo devono essere indicati i seguenti **dati**, da replicare per
 
 ## Schemi, modelli, fac-simile
 
-[**Fac simile schema standard "Controlli e rilievi"**](../assets/documenti/Fac_simile_schema_controlli.xlsx)
+[**Fac simile schema standard "Controlli e rilievi - Organismi di valutazione"**](../assets/documenti/art.31-oiv-YYYY-YYYYMMDD.v1.0.0.xlsx)
+
+[**Fac simile schema standard "Controlli e rilievi - Revisori dei conti"**](../assets/documenti/art.31-or-YYYY-YYYYMMDD.v1.0.0.xlsx)
+
+[**Fac simile schema standard "Controlli e rilievi - Corte dei conti"**](../assets/documenti/art.31-cc-YYYY-YYYYMMDD.v1.0.0.xlsx)
 
 ---
 
