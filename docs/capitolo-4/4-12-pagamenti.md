@@ -34,6 +34,7 @@ Il presente obbligo si trova in "**Amministrazione trasparente**" – "**Pagamen
 
 ## Devi sapere che
 
+* delle quattro sottosezioni elencate, **solo le seguenti sono soggette ad attestazione** da parte dell'Organismo di valutazione: "**Dati sui pagamenti**", "**IBAN e pagamenti informatici**"
 * **l'omessa pubblicazione dei dati sui pagamenti** di cui all'art. 4-bis, comma 2 del D.lgs. n. 33/2013 comporta l'applicazione della sanzione pecuniaria di cui all'art. 47 del medesimo decreto; analoga sanzione si applica al mancato assolvimento dell'obbligo da parte degli enti del SSN, ai sensi dell'art. 47, comma 1-bis, secondo periodo
 * lo schema standard sui **dati identificativi del pagamento** si applica ai soggetti di cui all'art. 2-bis, commi 1 e 2 del D.lgs. n. 33/2013; nella sottosezione è opportuno dare evidenza se l'ente è soggetto tenuto all'obbligo, soggetto tenuto parzialmente all'obbligo o soggetto non tenuto all'obbligo di pubblicazione ex art. 4-bis
 * ove l'obbligo non sia compatibile con le peculiarità organizzative e funzionali dell'amministrazione o dell'ente, la sottosezione deve riportare una dichiarazione espressa di non applicabilità, ad esempio: "**L'obbligo di pubblicazione non è applicabile all'amministrazione**"

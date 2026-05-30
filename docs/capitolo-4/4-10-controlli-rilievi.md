@@ -14,19 +14,9 @@ Il presente obbligo si trova in "**Amministrazione trasparente**" – "**Control
 
 Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempestivamente**, ai sensi dell'art. 8 del D.lgs. n. 33/2013.
 
-### Ambito soggettivo di applicazione
-
-L'obbligo si applica a:
-
-- **soggetti di cui all'art. 2-bis, co. 1**: pubbliche amministrazioni di cui all'art. 1, co. 2, D.lgs. n. 165/2001 e Autorità Amministrative indipendenti
-- **soggetti di cui all'art. 2-bis, co. 2**: enti pubblici economici, ordini professionali, società in controllo pubblico, associazioni, fondazioni ed enti di diritto privato comunque denominati in controllo pubblico
-- **soggetti di cui all'art. 2-bis, co. 3**: società partecipate ed enti di diritto privato non in controllo pubblico
-
 Qualora un obbligo di pubblicazione non sia applicabile, va inserita nella relativa sottosezione la dicitura: **"L'obbligo di pubblicazione non è applicabile all'amministrazione"**. L'ente deve inoltre specificare nella sezione "Amministrazione trasparente" se è soggetto tenuto all'obbligo ex art. 31, parzialmente tenuto, o non tenuto.
 
-### Schema dei dati da pubblicare
-
-**Sottosezione OIV o organismo analogo** (per gli enti tenuti)
+## Organismi indipendenti di valutazione, nuclei di valutazione o altri organismi con funzioni analoghe
 
 | Documento | Aggiornamento | Riferimento normativo |
 |---|---|---|
@@ -41,7 +31,7 @@ Per ciascun documento devono essere indicati i seguenti **dati identificativi**,
 | Data di pubblicazione | Data di pubblicazione del documento | Data — GG/MM/AAAA |
 | Documento | Link al documento pubblicato nel sito istituzionale | URL |
 
-**Sottosezione Organi di revisione amministrativa e contabile**
+## Organi di revisione amministrativa e contabile
 
 | Documento | Aggiornamento | Riferimento normativo |
 |---|---|---|
@@ -55,7 +45,7 @@ Per ciascuna relazione devono essere indicati i seguenti **dati identificativi**
 | Data di pubblicazione | Data di pubblicazione | Data — GG/MM/AAAA |
 | Documento | Link al documento pubblicato nel sito istituzionale | URL (testo, max 256 caratteri) |
 
-**Sottosezione Corte dei conti**
+## Corte dei conti
 
 | Documento | Aggiornamento | Riferimento normativo |
 |---|---|---|
