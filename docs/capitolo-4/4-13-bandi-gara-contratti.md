@@ -52,6 +52,14 @@ Se alcuni dati o documenti sono già pubblicati su una piattaforma di approvvigi
 
 Per gli affidamenti diretti, oltre al link alla BDNCP, l’unico documento da pubblicare in “Amministrazione trasparente” è la **decisione/delibera a contrarre**, secondo l’allegato 1 alla deliberazione ANAC n. 264/2023.
 
+* **Affidamenti diretti procedimentalizzati**
+
+Per gli affidamenti diretti, come confermato dall’ANAC nel [Vademecum per gli affidamenti diretti](https://www.anticorruzione.it/-/vademecum.affidamenti.diretti.30.07.24){:target=”_blank”}, è sufficiente pubblicare in “Amministrazione trasparente” la sola **determinazione a contrarre**, contenente oggetto, importo, contraente, ragioni della scelta e requisiti generali e speciali. Ai fini degli obblighi verso la BDNCP, vanno compilate e trasmesse le schede **AD3** (affidamenti superiori a 5.000 euro) o **AD5** (affidamenti inferiori a 5.000 euro).
+
+Tuttavia, la giurisprudenza amministrativa ha chiarito che qualora la stazione appaltante scelga di **procedimentalizzare l’affidamento diretto** — strutturando il procedimento in modo analogo a una procedura negoziata, con richiesta di preventivi/offerte, definizione di criteri tecnici o prestazionali e indicazione del criterio di selezione — è tenuta a rispettare rigidamente le regole che si è autoimposta (*venire contra factum proprium* è precluso anche alle PA). In tal caso, ove la determinazione a contrarre non riporti in modo esaustivo tutti i criteri adottati, è necessario pubblicare anche i **documenti di gara** che costituiscono parte integrante della procedura, al fine di garantire la piena trasparenza e conoscibilità dell’affidamento.
+
+In questo senso si è espresso il Consiglio di Stato, tra le altre, con le sentenze **n. 7659/2021** (Sez. V) e **n. 2064/2023** (Sez. IV), che hanno ribadito come l’autovincolo procedimentale generi in capo ai concorrenti una legittima aspettativa al rispetto delle regole fissate dalla stazione appaltante, con conseguente obbligo di motivazione rafforzata in caso di scostamento e piena applicabilità dei principi di trasparenza e par condicio.
+
 * **Procedure di Somma Urgenza e Protezione Civile**
 
 le Stazioni Appaltanti, all'atto della richiesta del CIG devono **comunicare il link alla pagina del proprio sito istituzionale dove sono pubblicati i documenti relativi all'affidamento**: verbale di somma urgenza, provvedimento di affidamento, perizia giustificativa, elenco prezzi unitari, verbale di consegna/avvio lavori, contratto (Comunicato del Presidente di ANAC del 19 settembre 2023)
