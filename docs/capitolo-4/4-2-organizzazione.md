@@ -174,7 +174,14 @@ I riferimenti/contatti sono da intendersi riferiti alla segreteria o all'ufficio
 * L'obbligo di pubblicare la dichiarazione dei redditi può essere assolto anche mediante pubblicazione del **quadro riepilogativo**, ma non è sufficiente il mero deposito della dichiarazione presso l'amministrazione.
 * Prima della pubblicazione delle dichiarazioni reddituali e patrimoniali è necessario oscurare i dati personali non pertinenti o sensibili, nel rispetto dei principi di minimizzazione e pertinenza.
 * Per i soggetti cessati, decorso il periodo ordinario di pubblicazione, i dati e i documenti non restano online ma sono conoscibili mediante eventuale istanza di accesso civico generalizzato, nei limiti previsti dalla normativa.
+* i dati di cui all'art. 14, comma 1, lettere da a) a e), restano pubblicati per i tre anni successivi alla cessazione dell'incarico;
+* le informazioni patrimoniali pubblicate durante l'incarico sono rimosse, salvo la dichiarazione concernente le variazioni patrimoniali intervenute dopo l'ultima attestazione;
+* la dichiarazione sulle variazioni patrimoniali successive alla cessazione deve essere presentata una sola volta, entro tre mesi dalla cessazione;
+* la dichiarazione dei redditi successiva alla cessazione deve essere depositata entro un mese dalla scadenza del termine di legge per la presentazione;
+* per i soggetti cessati, decorso il periodo ordinario di pubblicazione, i dati e i documenti non restano online ma sono conoscibili mediante eventuale istanza di accesso civico generalizzato, nei limiti previsti dalla normativa
+* Il titolare di incarico politico che cessa nel primo semestre dell’anno non è tenuto a presentare la dichiarazione dei redditi relativa all’anno d’imposta in cui è cessato; se cessa nel secondo semestre, è invece tenuto a presentarla.
 * Le FAQ ANAC sull'[art. 14](https://www.anticorruzione.it/-/titolari-di-incarichi-politici-art.-14-co.-1-d.lgs-33/2013-){:target="_blank"} chiariscono che i dati devono essere pubblicati nella sottosezione "**Organizzazione**" - "**Titolari di incarichi politici, di amministrazione, di direzione o di governo**".
+* Qualora non siano state irrogate sanzioni nei confronti dei titolari di incarichi politici deve essere pubblicata un'apposita attestazione nella sezione "Nell'anno XXXX non sono state irrogate sanzioni nei confronti dei propri titolari di incarichi politici ai sensi dell'art. 47, commi 1, per violazione degli obblighi di trasparenza di cui all'art. 14, commi 1".
 
 ---
 
