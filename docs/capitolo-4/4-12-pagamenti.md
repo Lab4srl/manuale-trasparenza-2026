@@ -74,7 +74,7 @@ Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempest
 
 ## Schemi, modelli, fac-simile
 
-[**Fac simile "Ammontare complessivo dei debiti"**](../assets/documenti/facsimle_ammontare_complessivo_debiti.docx)
+[Fac simile "Ammontare complessivo dei debiti"](../assets/documenti/facsimle_ammontare_complessivo_debiti.docx)
 
 ---
 

@@ -93,3 +93,9 @@ Per i servizi notarili, compresa la compravendita qualificata come servizio lega
   + è stata attivata una procedura attraverso la quale i RUP possono effettuare segnalazioni all’Autorità per rimuovere eventuali dati personali fossero stati pubblicati.
 
 Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempestivamente**, ai sensi dell’art. 8 del D.lgs. n. 33/2013, e restano pubblicate per almeno **cinque anni**, salvo i diversi termini previsti dallo stesso art. 8, comma 3.
+
+---
+
+## Schemi, modelli, fac-simile
+
+[Fac simile modello dichiarazione assenza pubblicazioni in bandi di gara e contratti](../assets/documenti/dichiarazione_assenza_pubblicazioni_bandi_gara.docx)
