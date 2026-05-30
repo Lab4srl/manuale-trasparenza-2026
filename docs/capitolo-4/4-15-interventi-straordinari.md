@@ -17,6 +17,7 @@ Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempest
   - [Comunicato del Presidente dell'Autorità del 29/07/2020](https://www.anticorruzione.it/-/comunicato-del-presidente-dell-autorit-c3-a0-del-29/07/2020-rif.?p_p_id=com_liferay_journal_web_portlet_JournalPortlet){:target="_blank"}
   - [Comunicato del Presidente dell'Autorità del 7 ottobre 2020](https://www.anticorruzione.it/-/comunicato-del-presidente-dell-autorit-c3-a0-del-7-ottobre-2020){:target="_blank"}
 * ai fini della massima trasparenza, **le amministrazioni che non hanno ricevuto donazioni liberali per far fronte all'emergenza sanitaria dovrebbero pubblicare nella sezione una dichiarazione che conferma lo stato di fatto**
+* si ricorda che ai sensi dell’art. 99 del decreto legge 17 marzo 2020, n. 18, convertito con legge 24 aprile 2020, n. 27, le pubblicazioni di cui ai precedenti comunicati del Presidente dell'ANAC dovevano essere effettuate al **termine dello stato di emergenza nazionale da COVID-19** disposta per il giorno **31 marzo 2022** dal Decreto Legge n. 24 del 24 marzo 2022. Pertanto ai sensi dell'art. 8, comma 3 del D.lgs. n. 33/2013 **la pubblicazione dei rendiconti dovrà rimanere visibile** nella apposita sezione di "Amministrazione trasparente" fino al **31 dicembre 2028**.
 
 ---
 
