@@ -83,16 +83,12 @@ Per ciascun rilievo devono essere indicati i seguenti **dati**, da replicare per
 
 ---
 
-## Schemi, modelli, fac-simile
-
-[**Fac simile schema standard "Controlli e rilievi - Organismi di valutazione"**](../assets/documenti/art.31-oiv-YYYY-YYYYMMDD.v1.0.0.xlsx)
-
-[**Fac simile schema standard "Controlli e rilievi - Revisori dei conti"**](../assets/documenti/art.31-or-YYYY-YYYYMMDD.v1.0.0.xlsx)
-
-[**Fac simile schema standard "Controlli e rilievi - Corte dei conti"**](../assets/documenti/art.31-cc-YYYY-YYYYMMDD.v1.0.0.xlsx)
-
----
-
 ## Schemi standard
 
 [Allegato 3 alla deliberazione ANAC n. 495/2024 come integrato e modificato dall'allegato 2 alla deliberazione ANAC n. 481/2025](../assets/documenti/schema_controlli.pdf){:target="_blank"}
+
+[Fac simile schema standard "Controlli e rilievi - Organismi di valutazione"](../assets/documenti/art.31-oiv-YYYY-YYYYMMDD.v1.0.0.xlsx)
+
+[Fac simile schema standard "Controlli e rilievi - Revisori dei conti"](../assets/documenti/art.31-or-YYYY-YYYYMMDD.v1.0.0.xlsx)
+
+[Fac simile schema standard "Controlli e rilievi - Corte dei conti"](../assets/documenti/art.31-cc-YYYY-YYYYMMDD.v1.0.0.xlsx)

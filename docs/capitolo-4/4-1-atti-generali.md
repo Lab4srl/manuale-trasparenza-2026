@@ -64,16 +64,16 @@ Le informazioni devono essere distinte per destinatario: **cittadini** / **impre
 
 [Allegato 5 alla deliberazione ANAC n. 495/2024](../assets/documenti/schema_atti_generali.pdf){:target="_blank"}
 
-[Fac-simile "Riferimenti normativi su istituzione, organizzazione e attività"](../assets/documenti/art.12-rif-YYYY-YYYYMMDD.v1.0.0.xlsx)
+[Fac-simile schema standard "Riferimenti normativi su istituzione, organizzazione e attività"](../assets/documenti/art.12-rif-YYYY-YYYYMMDD.v1.0.0.xlsx)
 
-[Fac-simile "Atti generali"](../assets/documenti/art.12-atti-gen-YYYY-YYYYMMDD.v1.0.0.xlsx)
+[Fac-simile schema standard "Atti generali"](../assets/documenti/art.12-atti-gen-YYYY-YYYYMMDD.v1.0.0.xlsx)
 
-[Fac-simile "Codice di comportamento e codice etico"](../assets/documenti/art.12-cod-YYYY-YYYYMMDD.v1.0.0.xlsx)
+[Fac-simile schema standard "Codice di comportamento e codice etico"](../assets/documenti/art.12-cod-YYYY-YYYYMMDD.v1.0.0.xlsx)
 
-[Fac-simile "Documenti di programmazione strategico-gestionale"](../assets/documenti/art.12-prog-YYYY-YYYYMMDD.v1.0.0.xlsx)
+[Fac-simile schema standard "Documenti di programmazione strategico-gestionale"](../assets/documenti/art.12-prog-YYYY-YYYYMMDD.v1.0.0.xlsx)
 
-[Fac-simile "Atti degli organismi indipendenti di valutazione"](../assets/documenti/art.12-atti-val-YYYY-YYYYMMDD.v1.0.0.xlsx)
+[Fac-simile schema standard "Atti degli organismi indipendenti di valutazione"](../assets/documenti/art.12-atti-val-YYYY-YYYYMMDD.v1.0.0.xlsx)
 
-[Fac-simile "Statuti e leggi regionali che regolano le funzioni, l'organizzazione e lo svolgimento delle attività di competenza dell'amministrazione/ente"](../assets/documenti/art.12-statuti-YYYY-YYYYMMDD.v1.0.0.xlsx)
+[Fac-simile schema standard "Statuti e leggi regionali che regolano le funzioni, l'organizzazione e lo svolgimento delle attività di competenza dell'amministrazione/ente"](../assets/documenti/art.12-statuti-YYYY-YYYYMMDD.v1.0.0.xlsx)
 
-[Fac-simile "Scadenzario obblighi amministrativi"](../assets/documenti/art.12-scadenz-YYYY-YYYYMMDD.v1.0.0.xlsx)
+[Fac-simile schema standard "Scadenzario obblighi amministrativi"](../assets/documenti/art.12-scadenz-YYYY-YYYYMMDD.v1.0.0.xlsx)

@@ -41,6 +41,6 @@ Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempest
 
 ## Schemi, modelli, fac-simile
 
-[**Fac simile "Dichiarazione punto c) art 15 D Lgs 33/2013"**](../assets/documenti/Fac_simile_dichiarazione_c.docx)
+[Fac simile "Dichiarazione punto c) art 15 D Lgs 33/2013"](../assets/documenti/Fac_simile_dichiarazione_c.docx)
 
-[**Fac simile "Attestazione verifica assenza conflitto di interesse"**](../assets/documenti/Fac_simile_verifica_conflitto_interessi.docx)
+[Fac simile "Attestazione verifica assenza conflitto di interesse"](../assets/documenti/Fac_simile_verifica_conflitto_interessi.docx)

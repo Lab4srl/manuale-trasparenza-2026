@@ -171,21 +171,15 @@ I riferimenti/contatti sono da intendersi riferiti alla segreteria o all'ufficio
 
 ## Schemi, modelli, fac-simile
 
-[**Deliberazione ANAC n. 241/2017 "Linee guida recanti indicazioni sull'attuazione dell'art. 14 del d.lgs. 33/2013"**](../assets/documenti/Delibera_n.241_2017.pdf)
+[Deliberazione ANAC n. 241/2017 "Linee guida recanti indicazioni sull'attuazione dell'art. 14 del d.lgs. 33/2013"](../assets/documenti/Delibera_n.241_2017.pdf)
 
-[**ALLEGATO 1 Deliberazione ANAC n. 241/2017 "Elencazione esemplificativa dei titolari di incarichi politici, di amministrazione, di direzione o di governo e i titolari di incarichi dirigenziali."**](../assets/documenti/ALL_1_Elencazione_esemplificativa_.pdf)
+[ALLEGATO 1 Deliberazione ANAC n. 241/2017 "Elencazione esemplificativa dei titolari di incarichi politici, di amministrazione, di direzione o di governo e i titolari di incarichi dirigenziali."](../assets/documenti/ALL_1_Elencazione_esemplificativa_.pdf)
 
-[**ALLEGATO 2 - Deliberazione ANAC n. 241/2017 "Modello per la comunicazione e pubblicazione dei dati della variazione patrimoniale dei titolari di incarichi politici, di amministrazione, di direzione o di governo e dei titolari di incarichi dirigenziali cessati dalla carica o dall’incarico."**](../assets/documenti/ALL_2_Mod_dichiarazione_cessati.docx)
+[ALLEGATO 2 - Deliberazione ANAC n. 241/2017 "Modello per la comunicazione e pubblicazione dei dati della variazione patrimoniale dei titolari di incarichi politici, di amministrazione, di direzione o di governo e dei titolari di incarichi dirigenziali cessati dalla carica o dall’incarico."](../assets/documenti/ALL_2_Mod_dichiarazione_cessati.docx)
 
-[**ALLEGATO 3 - Deliberazione ANAC n. 241/2017 "Modello di dichiarazione della situazione patrimoniale dei titolari di incarichi politici, di amministrazione, di direzione o di governo e dei titolari di incarichi dirigenziali."**](../assets/documenti/ALL_3_Mod_dichiarazione_patrimoniale.docx)
+[ALLEGATO 3 - Deliberazione ANAC n. 241/2017 "Modello di dichiarazione della situazione patrimoniale dei titolari di incarichi politici, di amministrazione, di direzione o di governo e dei titolari di incarichi dirigenziali."](../assets/documenti/ALL_3_Mod_dichiarazione_patrimoniale.docx)
 
-[**ALLEGATO 4 - Deliberazione ANAC n. 241/2017 "Modello di attestazione di variazione patrimoniale dei titolari di incarichi politici, di amministrazione, di direzione o di governo e dei titolari di incarichi dirigenziale."**](../assets/documenti/ALL_4_Mod_variazione_dichiarazione_patrimoniale.docx)
-
-[**Fac simile schema standard "Articolazione degli uffici e telefono e posta elettronica - Organi di inirizzo politico"**](../assets/documenti/art.13-op-YYYY-YYYYMMDD.v1.0.0.xlsx)
-
-[**Fac simile schema standard "Articolazione degli uffici e telefono e posta elettronica - Organi di amministrazione e gestione"**](../assets/documenti/art.13-oa-YYYY-YYYYMMDD.v1.0.0.xlsx)
-
-[**Fac simile schema standard "Articolazione degli uffici e telefono e posta elettronica - Organigramma"**](../assets/documenti/art.13-org-YYYY-YYYYMMDD.v1.0.0.xlsx)
+[ALLEGATO 4 - Deliberazione ANAC n. 241/2017 "Modello di attestazione di variazione patrimoniale dei titolari di incarichi politici, di amministrazione, di direzione o di governo e dei titolari di incarichi dirigenziale."](../assets/documenti/ALL_4_Mod_variazione_dichiarazione_patrimoniale.docx)
 
 ---
 
@@ -194,3 +188,9 @@ I riferimenti/contatti sono da intendersi riferiti alla segreteria o all'ufficio
 [Allegato 2 alla deliberazione ANAC n. 495/2024](../assets/documenti/schema_organizzazione.pdf){:target="_blank"}
 
 [Allegato 1 alla deliberazione ANAC n. 497/2025](../assets/documenti/schema_articolo_14.pdf){:target="_blank"}
+
+[Fac simile schema standard "Articolazione degli uffici e telefono e posta elettronica - Organi di inirizzo politico"](../assets/documenti/art.13-op-YYYY-YYYYMMDD.v1.0.0.xlsx)
+
+[Fac simile schema standard "Articolazione degli uffici e telefono e posta elettronica - Organi di amministrazione e gestione"](../assets/documenti/art.13-oa-YYYY-YYYYMMDD.v1.0.0.xlsx)
+
+[Fac simile schema standard "Articolazione degli uffici e telefono e posta elettronica - Organigramma"](../assets/documenti/art.13-org-YYYY-YYYYMMDD.v1.0.0.xlsx)

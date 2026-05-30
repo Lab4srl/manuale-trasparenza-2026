@@ -76,8 +76,6 @@ Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempest
 
 [**Fac simile "Ammontare complessivo dei debiti"**](../assets/documenti/facsimle_ammontare_complessivo_debiti.docx)
 
-[**Fac simile schema standard "Dati sui pagamenti"**](../assets/documenti/art.4-bis-YYYY-YYYYMMDD.v1.0.0.xlsx)
-
 ---
 
 ## Schemi standard
@@ -86,4 +84,6 @@ Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempest
 
 [Allegato 4 alla deliberazione ANAC n. 497/2025](../assets/documenti/schema_tempi_pagamenti.pdf){:target="_blank"}
 
-[**Fac-simile "Pagamenti informatici"**](../assets/documenti/art.36-YYYY-YYYYMMDD.v1.0.0.xlsx)
+[Fac simile schema standard "Dati sui pagamenti"](../assets/documenti/art.4-bis-YYYY-YYYYMMDD.v1.0.0.xlsx)
+
+[Fac-simile schema standard "Pagamenti informatici"](../assets/documenti/art.36-YYYY-YYYYMMDD.v1.0.0.xlsx)
