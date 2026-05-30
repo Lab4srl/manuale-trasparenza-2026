@@ -37,13 +37,13 @@ Questa indicazione è importante perché consente all'utente esterno di distingu
 * obbligo applicabile ma non assolto;
 * obbligo applicabile e assolto solo parzialmente.
 
-## Esempio: Relazione annuale del RPCT
+## Esempio: Bilancio di previsione
 
-Un caso utile per comprendere l'ambito temporale è la **Relazione annuale del Responsabile della prevenzione della corruzione e della trasparenza (RPCT)**.
+Un caso utile per comprendere l'ambito temporale è il **Bilancio di previsione**.
 
-L'art. 1, comma 14, della Legge n. 190/2012 prevede che il RPCT trasmetta all'OIV e all'organo di indirizzo una relazione sui risultati dell'attività svolta e la pubblichi nel sito web dell'amministrazione. Per l'attestazione 2026, la Relazione riferita all'anno 2025 deve essere presa in considerazione se, alla data del 15 giugno 2026, l'obbligo di pubblicazione risulta scaduto.
+l’art. 151, comma 1 del D.lgs. n. 267/2000 stabilisce che “I termini per l’approvazione del bilancio di previsione finanziario possono essere differiti con decreto del Ministro dell'interno, d'intesa con il Ministro dell'economia e delle finanze, sentita la Conferenza Stato-città ed autonomie locali, in presenza di motivate esigenze”. Il Decreto del Ministro dell’Interno del 24/12/2025 ha differito l’approvazione del bilancio di previsione finanziario per l’anno 2026 al 28/02/2026
 
-La verifica non riguarda quindi soltanto ciò che era materialmente pubblicato nel corso del 2025, ma anche gli adempimenti riferiti al 2025 il cui termine di pubblicazione è maturato prima della data di rilevazione.
+Pertano la verifica in ordine alla presenza o meno di tale documento non dovrà essere presa in considerazione da parte degli Organismi di valutazione per attestare l’assolvimento degli obblighi di trasparenza.
 
 ## Date operative da ricordare
 
@@ -54,4 +54,3 @@ La verifica non riguarda quindi soltanto ciò che era materialmente pubblicato n
 | **16 giugno 2026** | Data a partire dalla quale l'OIV può documentare le verifiche nell'applicativo web ANAC "Attestazioni OIV" |
 | **30 luglio 2026** | Termine entro il quale pubblicare l'attestazione e la scheda di rilevazione nella sottosezione dedicata agli atti dell'OIV |
 | **30 novembre 2026** | Data di riferimento dell'eventuale monitoraggio sulle carenze rilevate |
-
