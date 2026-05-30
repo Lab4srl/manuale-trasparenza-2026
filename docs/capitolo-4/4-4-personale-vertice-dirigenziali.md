@@ -17,6 +17,8 @@ Il presente obbligo si trova in "**Amministrazione trasparente**" – "**Persona
 
 Si fa presente che delle 12 sottosezioni precedentemente elencate la deliberazione dell'ANAC n. 168/2016, richiede agli organsimi di valutazione di attestare solamente "**Titolari di incarichi dirigenziali amministrativi di vertice**" e "**Titolari di incarichi dirigenziali (dirigenti non generali)**" con esclisvo riferimento alla pubblicazione dell. "**Dichiarazione sulla insussistenza di una delle cause di inconferibilità dell'incarico**" e della "**Dichiarazione sulla insussistenza di una delle cause di incompatibilità al conferimento dell'incarico**" da rendere ai sensi dell'art. 20, comma 3 del [D.lgs. n. 39/2013](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-04-08;39!vig=2026-05-30){:target="_blank"}.
 
+## Titolari di incarichi dirigenziali amministrativi di vertice e non di vertice
+
 Ai sensi dell'art. 14, comma 1 del [D.lgs. n. 33/2013](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33!vig=2026-05-30){:target="_blank"}, entrambe le tabelle contengono le medesime informazioni. Tuttavia, a seguito del Parere ANAC del 17 febbraio 2026 (fasc. n. 752/2026) e della Delibera ANAC n. 497 del 3 dicembre 2025, il quadro degli obblighi attualmente vigenti varia in base alla tipologia di incarico:
 
 | Categoria di soggetto | Obblighi art. 14, co. 1 (lett. a-f) | Emolumenti art. 14, co. 1-ter |
@@ -26,7 +28,7 @@ Ai sensi dell'art. 14, comma 1 del [D.lgs. n. 33/2013](https://www.normattiva.it
 | **Elevate Qualificazioni (EQ) con deleghe o funzioni dirigenziali** | **Sospesi** in attesa del Regolamento attuativo | **Vigenti** |
 | **Elevate Qualificazioni (EQ) senza deleghe o funzioni** | **Sospesi** in attesa del Regolamento attuativo | **Vigenti** |
 
-## Obblighi attualmente vigenti per tutti i dirigenti
+**Obblighi attualmente vigenti per tutti i dirigenti**
 
 Indipendentemente dalla tipologia di incarico, rimangono **pienamente in vigore** per tutti i dirigenti i seguenti obblighi:
 
