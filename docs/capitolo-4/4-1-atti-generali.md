@@ -58,6 +58,12 @@ Le informazioni devono essere distinte per destinatario: **cittadini** / **impre
 
 [**Fac-simile scadenzario obblighi amministrativi**](../assets/documenti/facsimile_scadenzario_obblighi.docx)
 
+---
+
+## Schemi standard
+
+[Allegato 5 alla deliberazione ANAC n. 495/2024](../assets/documenti/schema_atti_generali.pdf){:target="_blank"}
+
 [**Fac-simile "Riferimenti normativi su istituzione, organizzazione e attività"**](../assets/documenti/art.12-rif-YYYY-YYYYMMDD.v1.0.0.xlsx)
 
 [**Fac-simile "Atti generali"**](../assets/documenti/art.12-atti-gen-YYYY-YYYYMMDD.v1.0.0.xlsx)
@@ -71,9 +77,3 @@ Le informazioni devono essere distinte per destinatario: **cittadini** / **impre
 [**Fac-simile "Statuti e leggi regionali che regolano le funzioni, l'organizzazione e lo svolgimento delle attività di competenza dell'amministrazione/ente"**](../assets/documenti/art.12-statuti-YYYY-YYYYMMDD.v1.0.0.xlsx)
 
 [**Fac-simile "Scadenzario obblighi amministrativi"**](../assets/documenti/art.12-scadenz-YYYY-YYYYMMDD.v1.0.0.xlsx)
-
----
-
-## Schemi standard
-
-[Allegato 5 alla deliberazione ANAC n. 495/2024](../assets/documenti/schema_atti_generali.pdf){:target="_blank"}

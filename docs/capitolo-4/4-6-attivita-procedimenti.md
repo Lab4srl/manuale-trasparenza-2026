@@ -45,3 +45,11 @@ Con riferimento alle **tipologie di procedimento**, l'elenco deve contenere le s
 ## Schemi standard
 
 [Allegato 11 alla deliberazione ANAC n. 495/2024](../assets/documenti/schema_procedimenti.pdf){:target="_blank"}
+
+[**Fac-simile "Dati sui procedimenti"**](../assets/documenti/art.35-proc-YYYY-YYYYMMDD.v1.0.0.xlsx)
+
+[**Fac-simile "Recapiti uffici"**](../assets/documenti/art.35-uff-YYYY-YYYYMMDD.v1.0.0.xlsx)
+
+[**Fac-simile "Ufficio presentazione istanze"**](../assets/documenti/art.35-uff-istanze-YYYY-YYYYMMDD.v1.0.0.xlsx)
+
+[**Fac-simile "Titolare potere sostitutivo"**](../assets/documenti/art.35-uff-sost-YYYY-YYYYMMDD.v1.0.0.xlsx)
