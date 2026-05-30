@@ -17,9 +17,7 @@ L'ente deve pubblicare ogni atto (previsto da norma di legge o adottato nell'ese
 
 - **Statuti e norme regionali**: Testi ufficiali e aggiornati che regolano funzioni, organizzazione e attività di competenza dell'amministrazione.
 
-- **Manuale di gestione**: Protocollo informatico, flussi documentali, archivi e conservazione (art. 5, co. 3, DPCM 3 dicembre 2013).
-
-- **Codice disciplinare**: Infrazioni e sanzioni (pubblicazione online in alternativa all'affissione in luogo accessibile - art. 7, L. 300/1970) e **Codice di comportamento**: (ex Codice di condotta).
+- **Codice disciplinare e Codice di comportamento**: Infrazioni e sanzioni (pubblicazione online in alternativa all'affissione in luogo accessibile - art. 7, L. 300/1970) e codice di comportamento integrativo adottato ai sensi dell'art. 54 del D.lgs. n. 165/2001.
 
 - **Manuale di gestione documentale e la nomina del Responsabile della gestione documentale per ciascuna AOO (Area Operativa). In caso di più AOO, è necessaria la nomina del Coordinatore della gestione documentale entro il 30/06/2025** (rif. [Piano Triennale per l'informatica nella PA](https://www.agid.gov.it/it/agenzia/piano-triennale) 2024-2026 Aggiornamento 2025 approvato con [DPCM 03/12/2024](https://www.agid.gov.it/sites/agid/files/2025-01/DPCM_di_approvazione_del_Piano_Triennale_2024-2026_Aggiornamento_2025.pdf)
 
@@ -44,10 +42,10 @@ Le informazioni devono essere distinte per destinatario: **cittadini** / **impre
 
 ## Devi sapere che
 
-*   **Attestazioni OIV**: Ai sensi della delibera ANAC n. 168/2026, sono soggetti ad attestazione solamente gli obblighi di cui all'art. 12 del D.lgs. n. 33/2013 (Atti generali).
+*   **Attestazioni OIV**: Ai sensi della delibera ANAC n. 168/2026, sono soggetti ad attestazione solamente gli obblighi di cui all'art. 12 del D.lgs. n. 33/2013 (Atti generali e Oneri informativi per cittadini e imprese).
 *   **Aggiornamenti**: Tutte le pubblicazioni devono essere effettuate **tempestivamente**, ai sensi dell'art. 8 del D.lgs. n. 33/2013.
 *   **Soggetti tenuti allo scadenzario**: Le FAQ ANAC chiariscono che l'obbligo riguarda le amministrazioni indicate dall'art. 2-bis, co. 1, del D.lgs. n. 33/2013, cioè le amministrazioni di cui all'art. 1, co. 2, del D.lgs. n. 165/2001, comprese autorità portuali e autorità amministrative indipendenti di garanzia, vigilanza e regolazione.
-*   **Comunicazione al Dipartimento della funzione pubblica**: Oltre alla pubblicazione in “Amministrazione trasparente”, devono comunicare gli scadenzari al DFP, per la pubblicazione dello scadenzario riepilogativo, solo le amministrazioni dello Stato, gli enti pubblici nazionali e le agenzie di cui al D.lgs. n. 300/1999.
+*   **Comunicazione al Dipartimento della funzione pubblica**: Oltre alla pubblicazione in “Amministrazione trasparente”, devono comunicare gli scadenzari al Dipartimento della Funzione Pubblica, per la pubblicazione dello scadenzario riepilogativo, solo le amministrazioni dello Stato, gli enti pubblici nazionali e le agenzie di cui al D.lgs. n. 300/1999.
 *   **Definizione di Obbligo Amministrativo**: Qualunque adempimento (raccolta, elaborazione, trasmissione, conservazione, produzione di documenti) cui cittadini e imprese sono tenuti nei confronti della PA (art. 29, co. 2, DL n. 69/2013).
 
 ---
@@ -57,6 +55,10 @@ Le informazioni devono essere distinte per destinatario: **cittadini** / **impre
 [Riferimenti Normativi su Organizzazione e Attività](../assets/documenti/riferimenti_normativi.docx)
 
 [Fac-simile scadenzario obblighi amministrativi](../assets/documenti/facsimile_scadenzario_obblighi.docx)
+
+[Contratto Collettivo Nazionale di Lavoro relativo al personale dell’area funzioni locali triennio 2022 - 2024](../assets/documenti/CCNL-Area-FL-2022-2024-firmato.pdf){:target="_blank"}
+
+[Contratto Collettivo Nazionale di Lavoro relativo al personale del comparto funzioni locali triennio 2022 - 2024](../assets/documenti/CCNL-Comparto-2022-2024-siglato-23-02-26.pdf){:target="_blank"}
 
 ---
 

@@ -16,6 +16,7 @@ Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempest
 
 ## Devi sapere che
 
+* delle cinque sotto sezioni elencate **solo le seguenti sono soggette ad attestazione** da parte dell'organismo di valutazione: **Ammontare complessivo dei premi** e **Dati relativi ai premi**
 * la sottosezione "**Benessere organizzativo**" è stata abrogata ad opera dell'art. 19 del D.lgs. n. 97/2016
 * il **Piano della Performance** (di cui all'art. 10, comma 1, lett. a) e comma 1-ter del D.lgs. n. 150/2009) è assorbito nel **Piano Integrato di Attività e Organizzazione (PIAO)** per le amministrazioni con più di 50 dipendenti, ai sensi del combinato disposto dell'art. 1, comma 1 e dell'art. 2, comma 1 del D.P.R. n. 81 del 30 giugno 2022; la struttura e le modalità redazionali del PIAO sono definite dal Decreto del Ministro per la Pubblica Amministrazione n. 132 del 30 giugno 2022
 * il **Piano Integrato di Attività e Organizzazione (PIAO)** è stato introdotto nel nostro ordinamento dall'art. 6, comma 1 del D.L. 9 giugno 2021, n. 80, convertito, con modificazioni, in legge 6 agosto 2021, n. 113

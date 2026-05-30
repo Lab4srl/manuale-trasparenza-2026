@@ -19,7 +19,7 @@ Il presente obbligo si trova in "**Amministrazione trasparente**" – "**Servizi
 
 ## Devi sapere che
 
-* delle cinque sottosezioni elencate, solo le seguenti sono soggette ad attestazione da parte dell'Organismo di valutazione: "Carta dei servizi e standard di qualità", "Class action", "Costi contabilizzati", "Liste di attesa" e "Servizi in rete"
+* delle cinque sottosezioni elencate, **solo le seguenti sono soggette ad attestazione** da parte dell'Organismo di valutazione: "**Carta dei servizi e standard di qualità**", "**Costi contabilizzati**"
 * l'obbligo riguarda sia le pubbliche amministrazioni di cui all'art. 1, comma 2 del D.lgs. n. 165/2001, compresi gli enti locali, sia i gestori di servizi pubblici che erogano effettivamente tali servizi, a prescindere dalla natura giuridica e dal modello organizzativo adottato
 * nella sottosezione "**Class action**", **nel caso in cui non ricorra l'eventualità di ricorsi in giudizio, è comunque necessario dare specifica evidenza di tale circostanza**
 * nella sottosezione "**Costi contabilizzati**", ai fini della corretta comprensione dell'obbligo, per "servizi" si intendono le funzioni elementari, finali e strumentali cui danno luogo i diversi centri di costo per il raggiungimento degli scopi dell'amministrazione, aggregate nelle funzioni-obiettivo che esprimono le missioni istituzionali, secondo la definizione di cui all'art. 10, comma 5 del D.lgs. n. 279/1997. I costi vanno pubblicati nel loro complesso, senza distinguere tra costi del personale e altri costi sostenuti per il servizio
@@ -34,4 +34,3 @@ Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempest
 ## Schemi standard
 
 [Allegato 10 alla deliberazione ANAC n. 495/2024](../assets/documenti/schema_servizi.pdf){:target="_blank"}
-
