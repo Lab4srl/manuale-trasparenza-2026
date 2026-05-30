@@ -26,7 +26,7 @@ Ai sensi dell'art. 14, comma 1 del [D.lgs. n. 33/2013](https://www.normattiva.it
 | **Elevate Qualificazioni (EQ) con deleghe o funzioni dirigenziali** | **Sospesi** in attesa del Regolamento attuativo | **Vigenti** |
 | **Elevate Qualificazioni (EQ) senza deleghe o funzioni** | **Sospesi** in attesa del Regolamento attuativo | **Vigenti** |
 
-### Obblighi attualmente vigenti per tutti i dirigenti
+## Obblighi attualmente vigenti per tutti i dirigenti
 
 Indipendentemente dalla tipologia di incarico, rimangono **pienamente in vigore** per tutti i dirigenti i seguenti obblighi:
 

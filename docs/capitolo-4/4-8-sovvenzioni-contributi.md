@@ -35,7 +35,7 @@ Ove i soggetti beneficiari siano controllati di diritto o di fatto dalla stessa 
 
 ---
 
-### Obblighi di trasparenza per i soggetti beneficiari (Legge n. 124/2017)
+## Obblighi di trasparenza per i soggetti beneficiari (Legge n. 124/2017)
 
 Ai sensi dei commi da 125 a 129 della Legge n. 124/2017, i soggetti che ricevono sovvenzioni, contributi, incarichi retribuiti e vantaggi economici di qualunque genere di **importo superiore a € 10.000,00** nell'anno precedente, da parte di pubbliche amministrazioni, società controllate o partecipate, sono tenuti a rendere pubbliche tali informazioni. I soggetti interessati sono:
 
