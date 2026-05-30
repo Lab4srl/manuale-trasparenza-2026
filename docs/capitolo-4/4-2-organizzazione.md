@@ -13,7 +13,7 @@ La sottosezione "**Telefono e posta elettronica**" deve ritenersi assorbita nell
 
 Tutte le pubblicazioni devono essere aggiornate **tempestivamente**, salvo i casi in cui la norma prevede un termine specifico.
 
-### Titolari di incarichi politici, di amministrazione, di direzione o di governo (art. 14)
+## Titolari di incarichi politici, di amministrazione, di direzione o di governo (art. 14)
 
 L'art. 14 del D.lgs. n. 33/2013 riguarda i **titolari di incarichi politici**, anche non di carattere elettivo, di livello statale, regionale e locale.
 
@@ -50,6 +50,14 @@ Le dichiarazioni reddituali e patrimoniali comprendono:
 
 Le dichiarazioni patrimoniali e reddituali riguardano il soggetto titolare dell'incarico e, ove vi consentano, il coniuge non separato e i parenti entro il secondo grado. In caso di mancato consenso, l'amministrazione deve darne evidenza indicando il legame di parentela con il titolare dell'incarico, ma senza pubblicare dati identificativi personali non necessari dei familiari.
 
+**Nota sulla pubblicazione delle dichiarazioni reddituali e patrimoniali**
+
+Le dichiarazioni dei redditi e patrimoniali dei titolari di incarichi politici sono pubblicate in formato PDF secondo le seguenti modalità:
+
+- **Documenti originariamente cartacei**: la pubblicazione avviene tramite scansione dell'originale cartaceo depositato dal titolare dell'incarico. L'Amministrazione non è produttrice dell'atto; il PDF pubblicato riproduce fedelmente l'originale, previo oscuramento dei dati personali non pertinenti.
+
+- **Documenti originariamente elettronici**: il PDF trasmesso dal titolare è stato sottoposto a oscuramento dei dati personali non pertinenti o sensibili, ai sensi dell'art. 14, comma 1, lettera f), del D.lgs. n. 33/2013 e nel rispetto dei principi di minimizzazione e pertinenza di cui al Regolamento (UE) 2016/679. L'intervento di oscuramento modifica la struttura del documento originario e non ne consente la certificazione come formato aperto.
+
 Per i **titolari di incarichi o cariche di amministrazione, di direzione o di governo comunque denominati**, si applicano i medesimi obblighi dell'art. 14, comma 1, salvo che l'incarico o la carica siano attribuiti **a titolo gratuito** nei termini indicati dall'ANAC.
 
 Sono titolari di incarichi o cariche di amministrazione, direzione o governo i soggetti o organi che, pur non essendo espressione di rappresentanza politica, esercitano poteri di indirizzo generale sull'organizzazione e sull'attività dell'ente: ad esempio poteri relativi a statuti, regolamenti interni, ordinamento dei servizi, dotazione organica, linee di indirizzo, programmi, obiettivi strategici, bilancio preventivo e conto consuntivo, piani annuali e pluriennali, criteri generali e piani di attività o investimento.
@@ -61,7 +69,7 @@ Per i **cessati dall'incarico**, devono restare pubblicati i dati previsti dall'
 - la dichiarazione sulle variazioni patrimoniali successive alla cessazione deve essere presentata una sola volta, entro **tre mesi** dalla cessazione;
 - la dichiarazione dei redditi successiva alla cessazione deve essere depositata entro **un mese** dalla scadenza del termine di legge per la presentazione.
 
-### Sanzioni per mancata comunicazione dei dati
+## Sanzioni per mancata comunicazione dei dati
 
 Ai sensi dell'art. 47 del D.lgs. n. 33/2013 devono essere pubblicati i **provvedimenti sanzionatori** adottati nei confronti dei responsabili della mancata o incompleta comunicazione dei dati di cui all'art. 14.
 
@@ -76,7 +84,7 @@ La deliberazione ANAC n. 241/2017 chiarisce che nella nozione di "situazione pat
 
 La pubblicazione dei provvedimenti sanzionatori deve essere effettuata tempestivamente.
 
-### Rendiconti gruppi consiliari regionali/provinciali
+## Rendiconti gruppi consiliari regionali/provinciali
 
 Ai sensi dell'art. 28 del D.lgs. n. 33/2013, le Regioni e le Province pubblicano i **rendiconti di esercizio annuale dei gruppi consiliari regionali e provinciali**, con evidenza:
 
@@ -86,7 +94,7 @@ Ai sensi dell'art. 28 del D.lgs. n. 33/2013, le Regioni e le Province pubblicano
 
 Devono inoltre essere pubblicati gli **atti e le relazioni degli organi di controllo**. Anche tali pubblicazioni sono aggiornate tempestivamente.
 
-### Articolazione degli uffici e telefono e posta elettronica (art. 13)
+## Articolazione degli uffici e telefono e posta elettronica (art. 13)
 
 L'art. 13 del D.lgs. n. 33/2013 impone la pubblicazione e l'aggiornamento delle informazioni e dei dati concernenti la struttura organizzativa dell'amministrazione, corredati dai documenti anche normativi di riferimento.
 
