@@ -85,3 +85,5 @@ Tutte le pubblicazioni della presente sezione devono essere aggiornate **tempest
 [Allegato 1 alla deliberazione ANAC n. 495/2024 come integrato e modificato dall'allegato 1 alla deliberazione ANAC n. 481/2025](../assets/documenti/schema_pagamenti.pdf){:target="_blank"}
 
 [Allegato 4 alla deliberazione ANAC n. 497/2025](../assets/documenti/schema_tempi_pagamenti.pdf){:target="_blank"}
+
+[**Fac-simile "Pagamenti informatici"**](../assets/documenti/art.36-YYYY-YYYYMMDD.v1.0.0.xlsx)
