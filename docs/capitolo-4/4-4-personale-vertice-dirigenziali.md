@@ -30,8 +30,8 @@ Ai sensi dell'art. 14, comma 1 del [D.lgs. n. 33/2013](https://www.normattiva.it
 
 Indipendentemente dalla tipologia di incarico, rimangono **pienamente in vigore** per tutti i dirigenti i seguenti obblighi:
 
-- **Dichiarazione sulla insussistenza di una delle cause di inconferibilità** dell'incarico (art. 20, comma 3 del D.lgs. n. 39/2013)
-- **Dichiarazione sulla insussistenza di una delle cause di incompatibilità** al conferimento dell'incarico (art. 20, comma 3 del D.lgs. n. 39/2013)
+- **Dichiarazione sulla insussistenza di una delle cause di inconferibilità** dell'incarico (art. 20, comma 3 del [D.lgs. n. 39/2013](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-04-08;39!vig=2026-05-30){:target="_blank"})
+- **Dichiarazione sulla insussistenza di una delle cause di incompatibilità** al conferimento dell'incarico (art. 20, comma 3 del [D.lgs. n. 39/2013](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-04-08;39!vig=2026-05-30){:target="_blank"})
 - **Ammontare complessivo degli emolumenti percepiti a carico della finanza pubblica** (art. 14, comma 1-ter del [D.lgs. n. 33/2013](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33!vig=2026-05-30){:target="_blank"}), comprensivo di:
   - retribuzione annua lorda (stipendio tabellare e trattamento fondamentale)
   - voci accessorie e indennità (retribuzione di posizione, di risultato e altre indennità)
